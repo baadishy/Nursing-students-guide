@@ -185,7 +185,7 @@
         transition: fill var(--badge-transition-duration) ease;
       }
 
-      #download-btn {
+      .cta-btn {
         position: fixed;
         right: 16px;
         bottom: 16px;
@@ -205,7 +205,7 @@
           filter 0.15s ease;
       }
 
-      #download-btn:hover {
+      .cta-btn:hover {
         transform: translateY(-1px);
         box-shadow:
           0 14px 34px rgba(0, 0, 0, 0.24),
@@ -213,14 +213,14 @@
         filter: brightness(1.05);
       }
 
-      #download-btn:active {
+      .cta-btn:active {
         transform: translateY(0);
         box-shadow:
           0 8px 20px rgba(0, 0, 0, 0.2),
           0 2px 8px rgba(0, 0, 0, 0.12);
       }
 
-      #download-btn:disabled {
+      .cta-btn:disabled {
         opacity: 0.6;
         cursor: not-allowed;
         transform: none;
@@ -262,43 +262,54 @@
 
   <body>
     <div id="root"></div>
-    <button id="download-btn" type="button" aria-label="Download Android APK">
+    <button id="install-btn" class="cta-btn" type="button" aria-label="Install PWA">
+      Install app
+    </button>
+    <button id="download-btn" class="cta-btn" type="button" aria-label="Download Android APK">
       Download Android app
     </button>
 
-    <script>
-      (function () {
-        const button = document.getElementById("download-btn");
-        if (!button) return;
+      <script>
+        (function () {
+        let deferredPrompt = null;
+        const installBtn = document.getElementById("install-btn");
+        const downloadBtn = document.getElementById("download-btn");
+        if (!installBtn || !downloadBtn) return;
 
         const apkPath = "/nursing-guide.apk";
         const isAndroid = /android/i.test(navigator.userAgent);
+        const isIos = /iphone|ipad|ipod/i.test(navigator.userAgent);
         const isStandalone =
           window.matchMedia("(display-mode: standalone)").matches ||
           window.navigator.standalone === true;
 
-        // Always show the button (except when already running as an installed app)
+        const hide = (el) => {
+          el.hidden = true;
+          el.disabled = true;
+        };
+        const show = (el) => {
+          el.hidden = false;
+          el.disabled = false;
+        };
+
         if (isStandalone) {
-          button.hidden = true;
+          hide(installBtn);
+          hide(downloadBtn);
           return;
         }
 
-        button.hidden = false;
-        button.disabled = false;
-
-        if (!isAndroid) {
-          button.textContent = "APK (Android only)";
+        // Android: prefer APK download button
+        if (isAndroid) {
+          hide(installBtn);
+          show(downloadBtn);
+        } else {
+          hide(downloadBtn);
+          hide(installBtn);
         }
 
-        button.addEventListener("click", (event) => {
+        // Handle APK download
+        downloadBtn.addEventListener("click", (event) => {
           event.preventDefault();
-
-          if (!isAndroid) {
-            alert(
-              "The APK can only be installed on Android. On iOS, use 'Add to Home Screen' from Safari's share menu."
-            );
-            return;
-          }
 
           const proceed = confirm(
             "Download and install the Android app? You may need to allow installs from your browser."
@@ -307,6 +318,46 @@
             window.location.href = apkPath;
           }
         });
+
+        // PWA install flow for desktop/other platforms
+        window.addEventListener("beforeinstallprompt", (event) => {
+          event.preventDefault();
+          deferredPrompt = event;
+          if (!isAndroid) {
+            show(installBtn);
+          }
+        });
+
+        installBtn.addEventListener("click", async () => {
+          if (deferredPrompt) {
+            installBtn.disabled = true;
+            deferredPrompt.prompt();
+            await deferredPrompt.userChoice;
+            deferredPrompt = null;
+            hide(installBtn);
+          } else if (isIos) {
+            alert(
+              "On iOS, tap the Share icon and choose 'Add to Home Screen' to install."
+            );
+          } else {
+            alert(
+              "Install prompt not available right now. Try using your browser's menu to Install/Add to Home screen."
+            );
+          }
+        });
+
+        window.addEventListener("appinstalled", () => {
+          deferredPrompt = null;
+          hide(installBtn);
+          hide(downloadBtn);
+        });
+
+        // Fallback: after 3s, if no prompt and not Android, still show install button for guidance
+        setTimeout(() => {
+          if (!isAndroid && !deferredPrompt && !isStandalone) {
+            show(installBtn);
+          }
+        }, 3000);
       })();
     </script>
 
