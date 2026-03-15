@@ -270,6 +270,8 @@
       (function () {
         let deferredPrompt = null;
         const installButton = document.getElementById("install-btn");
+        if (!installButton) return;
+
         const isIos = /iphone|ipad|ipod/i.test(navigator.userAgent);
         const isStandalone =
           window.matchMedia("(display-mode: standalone)").matches ||
@@ -285,7 +287,7 @@
           installButton.disabled = false;
         };
 
-        hideButton(); // default hidden until eligible or showing iOS hint
+        hideButton(); // default hidden until eligible or showing hint
 
         window.addEventListener("beforeinstallprompt", (event) => {
           event.preventDefault();
@@ -302,19 +304,20 @@
             return;
           }
 
-          if (!deferredPrompt) {
-            // No prompt available (maybe already dismissed or unsupported)
-            alert("Install prompt not available right now. Try using the browser menu to Install/Add to Home Screen.");
-            return;
-          }
-
-          try {
-            installButton.disabled = true;
-            deferredPrompt.prompt();
-            await deferredPrompt.userChoice;
-          } finally {
-            deferredPrompt = null;
-            hideButton();
+          if (deferredPrompt) {
+            try {
+              installButton.disabled = true;
+              deferredPrompt.prompt();
+              await deferredPrompt.userChoice;
+            } finally {
+              deferredPrompt = null;
+              hideButton();
+            }
+          } else {
+            // Fallback guidance for Android/other browsers where the prompt is unavailable.
+            alert(
+              "Install prompt not available right now. On Android Chrome: open the ⋮ menu and tap 'Install app' or 'Add to Home screen'."
+            );
           }
         });
 
@@ -326,6 +329,13 @@
         // On iOS Safari, proactively show the button with instructions.
         if (isIos && !isStandalone) {
           showButton();
+        } else {
+          // On Android/desktop, if no prompt arrives within 3s, still show button with fallback guidance.
+          setTimeout(() => {
+            if (!deferredPrompt && !isStandalone) {
+              showButton();
+            }
+          }, 3000);
         }
       })();
     </script>
