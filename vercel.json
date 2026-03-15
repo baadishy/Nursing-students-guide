@@ -7,12 +7,15 @@
     {
       "src": "/(sw\\.js|manifest\\.webmanifest|assets/.*)",
       "dest": "/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "./index.html"
     }
-    
   ],
   "headers": [
     {
-      "source": "/assets/(.*)",
+      "source": "./assets/(.*)",
       "headers": [
         {
           "key": "Cache-Control",
@@ -21,7 +24,7 @@
       ]
     },
     {
-      "source": "/sw.js",
+      "source": "./sw.js",
       "headers": [
         {
           "key": "Cache-Control",
@@ -30,7 +33,7 @@
       ]
     },
     {
-      "source": "/manifest.webmanifest",
+      "source": "./manifest.webmanifest",
       "headers": [
         {
           "key": "Cache-Control",
