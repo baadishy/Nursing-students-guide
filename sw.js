@@ -1,6 +1,6 @@
 const CACHE_NAME = "nursing-guide-pwa-v1";
 const OFFLINE_URLS = [
-  "index.html",
+  "/",
   "manifest.webmanifest",
   "assets/index-BfkjKLJO.js",
   "assets/index-BmRjjBRh.css",
@@ -40,11 +40,11 @@ self.addEventListener("fetch", (event) => {
   // App shell navigation: always try cache first for navigations.
   if (request.mode === "navigate") {
     event.respondWith(
-      caches.match("index.html").then(
+      caches.match("/").then(
         (cached) =>
           cached ||
           fetch(request).catch(() =>
-            caches.match("index.html"),
+            caches.match("/"),
           ),
       ),
     );
@@ -60,7 +60,7 @@ self.addEventListener("fetch", (event) => {
           caches.open(CACHE_NAME).then((cache) => cache.put(request, copy));
           return response;
         })
-        .catch(() => caches.match("index.html"));
+        .catch(() => caches.match("/"));
     }),
   );
 });
