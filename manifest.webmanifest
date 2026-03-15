@@ -2,6 +2,7 @@
   "name": "Nursing students guide",
   "short_name": "Nursing Guide",
   "description": "Offline-friendly reference for nursing students.",
+  "id": "/",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
