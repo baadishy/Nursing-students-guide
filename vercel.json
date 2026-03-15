@@ -9,6 +9,10 @@
       "dest": "/$1"
     },
     {
+      "src": "/nursing-guide\\.apk",
+      "dest": "/nursing-guide.apk"
+    },
+    {
       "src": "/(.*)",
       "dest": "/index.html"
     }
@@ -42,6 +46,19 @@
         {
           "key": "Content-Type",
           "value": "application/manifest+json; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/nursing-guide.apk",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/vnd.android.package-archive"
         }
       ]
     }

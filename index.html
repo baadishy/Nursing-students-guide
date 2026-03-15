@@ -185,7 +185,7 @@
         transition: fill var(--badge-transition-duration) ease;
       }
 
-      #install-btn {
+      #download-btn {
         position: fixed;
         right: 16px;
         bottom: 16px;
@@ -205,7 +205,7 @@
           filter 0.15s ease;
       }
 
-      #install-btn:hover {
+      #download-btn:hover {
         transform: translateY(-1px);
         box-shadow:
           0 14px 34px rgba(0, 0, 0, 0.24),
@@ -213,14 +213,14 @@
         filter: brightness(1.05);
       }
 
-      #install-btn:active {
+      #download-btn:active {
         transform: translateY(0);
         box-shadow:
           0 8px 20px rgba(0, 0, 0, 0.2),
           0 2px 8px rgba(0, 0, 0, 0.12);
       }
 
-      #install-btn:disabled {
+      #download-btn:disabled {
         opacity: 0.6;
         cursor: not-allowed;
         transform: none;
@@ -262,81 +262,51 @@
 
   <body>
     <div id="root"></div>
-    <button id="install-btn" type="button" aria-label="Install Nursing students guide">
-      Install app
+    <button id="download-btn" type="button" aria-label="Download Android APK">
+      Download Android app
     </button>
 
     <script>
       (function () {
-        let deferredPrompt = null;
-        const installButton = document.getElementById("install-btn");
-        if (!installButton) return;
+        const button = document.getElementById("download-btn");
+        if (!button) return;
 
-        const isIos = /iphone|ipad|ipod/i.test(navigator.userAgent);
+        const apkPath = "/nursing-guide.apk";
+        const isAndroid = /android/i.test(navigator.userAgent);
         const isStandalone =
           window.matchMedia("(display-mode: standalone)").matches ||
           window.navigator.standalone === true;
 
-        const hideButton = () => {
-          installButton.hidden = true;
-          installButton.disabled = true;
-        };
+        // Always show the button (except when already running as an installed app)
+        if (isStandalone) {
+          button.hidden = true;
+          return;
+        }
 
-        const showButton = () => {
-          installButton.hidden = false;
-          installButton.disabled = false;
-        };
+        button.hidden = false;
+        button.disabled = false;
 
-        hideButton(); // default hidden until eligible or showing hint
+        if (!isAndroid) {
+          button.textContent = "APK (Android only)";
+        }
 
-        window.addEventListener("beforeinstallprompt", (event) => {
+        button.addEventListener("click", (event) => {
           event.preventDefault();
-          deferredPrompt = event;
-          showButton();
-        });
 
-        installButton.addEventListener("click", async () => {
-          // iOS Safari does not support beforeinstallprompt; show instructions instead.
-          if (isIos && !isStandalone) {
+          if (!isAndroid) {
             alert(
-              "To install: tap the Share icon (square with an up arrow) and choose 'Add to Home Screen'."
+              "The APK can only be installed on Android. On iOS, use 'Add to Home Screen' from Safari's share menu."
             );
             return;
           }
 
-          if (deferredPrompt) {
-            try {
-              installButton.disabled = true;
-              deferredPrompt.prompt();
-              await deferredPrompt.userChoice;
-            } finally {
-              deferredPrompt = null;
-              hideButton();
-            }
-          } else {
-            // Fallback guidance for Android/other browsers where the prompt is unavailable.
-            alert(
-              "Install prompt not available right now. On Android Chrome: open the ⋮ menu and tap 'Install app' or 'Add to Home screen'."
-            );
+          const proceed = confirm(
+            "Download and install the Android app? You may need to allow installs from your browser."
+          );
+          if (proceed) {
+            window.location.href = apkPath;
           }
         });
-
-        window.addEventListener("appinstalled", () => {
-          deferredPrompt = null;
-          hideButton();
-        });
-
-        // On iOS Safari, proactively show the button with instructions.
-        if (isIos && !isStandalone) {
-          showButton();
-        } else {
-          // On Android/desktop, if no prompt arrives within 3s, still show button with fallback guidance.
-          setTimeout(() => {
-            if (!deferredPrompt && !isStandalone) {
-              showButton();
-            }
-          }, 3000);
-        }
       })();
     </script>
 
