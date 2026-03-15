@@ -1,6 +1,5 @@
 const CACHE_NAME = "nursing-guide-pwa-v1";
 const OFFLINE_URLS = [
-  "./",
   "index.html",
   "manifest.webmanifest",
   "assets/index-BfkjKLJO.js",
