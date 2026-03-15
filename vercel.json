@@ -9,8 +9,8 @@
       "dest": "/$1"
     },
     {
-      "src": "/nursing-guide\\.apk",
-      "dest": "/nursing-guide.apk"
+      "src": "/assets/nursing-guide\\.apk",
+      "dest": "/assets/nursing-guide.apk"
     },
     {
       "src": "/(.*)",
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "source": "/nursing-guide.apk",
+      "source": "/assets/nursing-guide.apk",
       "headers": [
         {
           "key": "Cache-Control",
