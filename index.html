@@ -270,34 +270,63 @@
       (function () {
         let deferredPrompt = null;
         const installButton = document.getElementById("install-btn");
+        const isIos = /iphone|ipad|ipod/i.test(navigator.userAgent);
+        const isStandalone =
+          window.matchMedia("(display-mode: standalone)").matches ||
+          window.navigator.standalone === true;
 
         const hideButton = () => {
           installButton.hidden = true;
           installButton.disabled = true;
         };
 
-        hideButton();
+        const showButton = () => {
+          installButton.hidden = false;
+          installButton.disabled = false;
+        };
+
+        hideButton(); // default hidden until eligible or showing iOS hint
 
         window.addEventListener("beforeinstallprompt", (event) => {
           event.preventDefault();
           deferredPrompt = event;
-          installButton.hidden = false;
-          installButton.disabled = false;
+          showButton();
         });
 
         installButton.addEventListener("click", async () => {
-          if (!deferredPrompt) return;
-          installButton.disabled = true;
-          deferredPrompt.prompt();
-          await deferredPrompt.userChoice;
-          deferredPrompt = null;
-          hideButton();
+          // iOS Safari does not support beforeinstallprompt; show instructions instead.
+          if (isIos && !isStandalone) {
+            alert(
+              "To install: tap the Share icon (square with an up arrow) and choose 'Add to Home Screen'."
+            );
+            return;
+          }
+
+          if (!deferredPrompt) {
+            // No prompt available (maybe already dismissed or unsupported)
+            alert("Install prompt not available right now. Try using the browser menu to Install/Add to Home Screen.");
+            return;
+          }
+
+          try {
+            installButton.disabled = true;
+            deferredPrompt.prompt();
+            await deferredPrompt.userChoice;
+          } finally {
+            deferredPrompt = null;
+            hideButton();
+          }
         });
 
         window.addEventListener("appinstalled", () => {
           deferredPrompt = null;
           hideButton();
         });
+
+        // On iOS Safari, proactively show the button with instructions.
+        if (isIos && !isStandalone) {
+          showButton();
+        }
       })();
     </script>
 
