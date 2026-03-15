@@ -7,11 +7,8 @@
     {
       "src": "/(sw\\.js|manifest\\.webmanifest|assets/.*)",
       "dest": "/$1"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
     }
+    
   ],
   "headers": [
     {
