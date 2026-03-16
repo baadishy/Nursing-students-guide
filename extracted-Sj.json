@@ -1,0 +1,237 @@
+[
+  {
+    "id": "y1-foundations",
+    "title": "Foundation of Nursing Practice",
+    "titleAr": "أساسيات الممارسة التمريضية",
+    "cards": [
+      {
+        "id": "y1-1",
+        "termEn": "Nursing",
+        "definitionEn": "A profession dedicated to providing healthcare to individuals and communities based on scientific knowledge and practical skills."
+      },
+      {
+        "id": "y1-2",
+        "termEn": "Patient Safety",
+        "definitionEn": "The prevention of medical errors and harm to patients during the delivery of healthcare."
+      },
+      {
+        "id": "y1-3",
+        "termEn": "Nursing Process",
+        "definitionEn": "A systematic approach consisting of assessment, diagnosis, planning, implementation, and evaluation."
+      },
+      {
+        "id": "y1-4",
+        "termEn": "Ethics",
+        "definitionEn": "Moral principles that guide nursing practice, such as non-maleficence, justice, and autonomy."
+      },
+      {
+        "id": "y1-5",
+        "termEn": "Scope of Practice",
+        "definitionEn": "The activities and responsibilities legally permitted for a nurse to perform."
+      },
+      {
+        "id": "y1-6",
+        "termEn": "Standards of Care",
+        "definitionEn": "The minimum acceptable level of nursing care expected in practice."
+      },
+      {
+        "id": "y1-7",
+        "termEn": "Informed Consent",
+        "definitionEn": "The patient's right to understand a procedure and agree to it before it is performed."
+      },
+      {
+        "id": "y1-8",
+        "termEn": "Confidentiality",
+        "definitionEn": "The protection of a patient's private health information from unauthorized disclosure."
+      }
+    ]
+  },
+  {
+    "id": "y1-communication",
+    "title": "Communication in Nursing",
+    "titleAr": "التواصل في التمريض",
+    "cards": [
+      {
+        "id": "y1-9",
+        "termEn": "Therapeutic Communication",
+        "definitionEn": "Purposeful communication techniques that help patients express their feelings and needs."
+      },
+      {
+        "id": "y1-10",
+        "termEn": "Active Listening",
+        "definitionEn": "Listening with full attention while demonstrating interest and understanding."
+      },
+      {
+        "id": "y1-11",
+        "termEn": "Empathy",
+        "definitionEn": "The ability to understand and share the feelings of another person."
+      },
+      {
+        "id": "y1-12",
+        "termEn": "Verbal Communication",
+        "definitionEn": "Conveying information through spoken or written words."
+      },
+      {
+        "id": "y1-13",
+        "termEn": "Non-verbal Communication",
+        "definitionEn": "Messages conveyed through body language and facial expressions."
+      },
+      {
+        "id": "y1-14",
+        "termEn": "Documentation",
+        "definitionEn": "Recording all nursing data and interventions in the patient's medical record."
+      }
+    ]
+  },
+  {
+    "id": "y1-critical-thinking",
+    "title": "Critical Thinking & Nursing Process",
+    "titleAr": "التفكير النقدي والعملية التمريضية",
+    "cards": [
+      {
+        "id": "y1-15",
+        "termEn": "Critical Thinking",
+        "definitionEn": "An organized mental process for analyzing information and making clinical decisions."
+      },
+      {
+        "id": "y1-16",
+        "termEn": "Assessment",
+        "definitionEn": "The first step of the nursing process involving data collection about the patient's condition."
+      },
+      {
+        "id": "y1-17",
+        "termEn": "Nursing Diagnosis",
+        "definitionEn": "Identification of the patient's actual or potential health problems."
+      },
+      {
+        "id": "y1-18",
+        "termEn": "Planning",
+        "definitionEn": "Setting specific goals and interventions to address the patient's problems."
+      },
+      {
+        "id": "y1-19",
+        "termEn": "Implementation",
+        "definitionEn": "Carrying out the specified nursing care plan."
+      },
+      {
+        "id": "y1-20",
+        "termEn": "Evaluation",
+        "definitionEn": "Assessing whether goals were achieved and nursing interventions were effective."
+      }
+    ]
+  },
+  {
+    "id": "y1-health-assessment",
+    "title": "Health Assessment",
+    "titleAr": "التقييم الصحي",
+    "cards": [
+      {
+        "id": "y1-21",
+        "termEn": "Vital Signs",
+        "definitionEn": "Basic measurements including temperature, pulse, respiration, and blood pressure."
+      },
+      {
+        "id": "y1-22",
+        "termEn": "Blood Pressure",
+        "definitionEn": "The force of blood pushing against the walls of the arteries."
+      },
+      {
+        "id": "y1-23",
+        "termEn": "Pulse Rate",
+        "definitionEn": "The number of heartbeats per minute."
+      },
+      {
+        "id": "y1-24",
+        "termEn": "Respiratory Rate",
+        "definitionEn": "The number of breaths taken per minute."
+      },
+      {
+        "id": "y1-25",
+        "termEn": "Temperature",
+        "definitionEn": "A measure of the body's internal heat."
+      },
+      {
+        "id": "y1-26",
+        "termEn": "Inspection",
+        "definitionEn": "Visual examination of the patient's appearance with the naked eye."
+      },
+      {
+        "id": "y1-27",
+        "termEn": "Palpation",
+        "definitionEn": "Using the hands to examine body parts and feel tissues."
+      },
+      {
+        "id": "y1-28",
+        "termEn": "Auscultation",
+        "definitionEn": "Listening to internal body sounds using a stethoscope."
+      },
+      {
+        "id": "y1-29",
+        "termEn": "Percussion",
+        "definitionEn": "Tapping on the body surface to assess underlying organs."
+      }
+    ]
+  },
+  {
+    "id": "y1-physiology",
+    "title": "Physiological Needs",
+    "titleAr": "الاحتياجات الفسيولوجية",
+    "cards": [
+      {
+        "id": "y1-30",
+        "termEn": "Maslow's Hierarchy",
+        "definitionEn": "A theory that classifies human needs from physiological to self-actualization."
+      },
+      {
+        "id": "y1-31",
+        "termEn": "Oxygenation",
+        "definitionEn": "The process of providing adequate oxygen to body cells."
+      },
+      {
+        "id": "y1-32",
+        "termEn": "Nutrition",
+        "definitionEn": "The intake of nutrients necessary for body health and growth."
+      },
+      {
+        "id": "y1-33",
+        "termEn": "Fluid Balance",
+        "definitionEn": "The balance between fluid intake and fluid output in the body."
+      },
+      {
+        "id": "y1-34",
+        "termEn": "Electrolytes",
+        "definitionEn": "Essential minerals required for body functions, such as sodium and potassium."
+      },
+      {
+        "id": "y1-35",
+        "termEn": "Urinary Elimination",
+        "definitionEn": "The process of excreting urine from the body."
+      },
+      {
+        "id": "y1-36",
+        "termEn": "Bowel Elimination",
+        "definitionEn": "The process of eliminating solid waste from the body."
+      },
+      {
+        "id": "y1-37",
+        "termEn": "Rest and Sleep",
+        "definitionEn": "Essential periods for body recovery and energy restoration."
+      },
+      {
+        "id": "y1-38",
+        "termEn": "Skin Integrity",
+        "definitionEn": "Maintaining the skin intact and free from damage."
+      },
+      {
+        "id": "y1-39",
+        "termEn": "Pressure Ulcer",
+        "definitionEn": "Skin damage resulting from sustained pressure on a specific area."
+      },
+      {
+        "id": "y1-40",
+        "termEn": "ADL (Activities of Daily Living)",
+        "definitionEn": "Basic tasks such as eating, bathing, and dressing."
+      }
+    ]
+  }
+]

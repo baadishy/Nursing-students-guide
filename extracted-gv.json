@@ -1,0 +1,4337 @@
+[
+  {
+    "id": "ch1",
+    "number": 1,
+    "title": "Foundation of Nursing Practice",
+    "titleAr": "أساسيات الممارسة التمريضية",
+    "description": "Learn about nursing definitions, professional standards, ethics, and patient safety",
+    "descriptionAr": "تعرف على تعريفات التمريض والمعايير المهنية والأخلاقيات وسلامة المريض",
+    "icon": "Stethoscope",
+    "color": "from-purple-500 to-purple-600",
+    "lessons": [
+      {
+        "id": "ch1-l1",
+        "title": "Definition and Aims of Nursing",
+        "titleAr": "تعريف التمريض وأهدافه",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Define nursing according to ANA standards"
+          },
+          {
+            "id": "obj2",
+            "text": "Identify the four broad aims of nursing practice"
+          },
+          {
+            "id": "obj3",
+            "text": "Describe the role of a registered nurse"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تعريف التمريض وفقاً لمعايير جمعية التمريض الأمريكية"
+          },
+          {
+            "id": "obj2",
+            "text": "تحديد الأهداف الأربعة الرئيسية للممارسة التمريضية"
+          },
+          {
+            "id": "obj3",
+            "text": "وصف دور الممرض المسجل"
+          }
+        ],
+        "content": [
+          "Nursing is both an art and a science. As a professional nurse, you will learn to deliver care artfully with compassion, caring, and respect for each patient's dignity.",
+          "According to ANA (2018), nursing is the protection, promotion, and optimization of health and abilities; prevention of illness and injury; alleviation of suffering through the diagnosis and treatment of human responses.",
+          "A nurse is a person who has completed a program of basic, generalized nursing education and is authorized by the appropriate regulatory authority to practice nursing."
+        ],
+        "contentAr": [
+          "التمريض هو فن وعلم في آن واحد. كممرض محترف، ستتعلم تقديم الرعاية بفن ورحمة واهتمام واحترام لكرامة كل مريض.",
+          "وفقاً لجمعية التمريض الأمريكية (2018)، التمريض هو حماية وتعزيز وتحسين الصحة والقدرات؛ والوقاية من المرض والإصابة؛ وتخفيف المعاناة من خلال تشخيص وعلاج الاستجابات البشرية.",
+          "الممرض هو شخص أكمل برنامج تعليم التمريض الأساسي العام ومصرح له من الجهة التنظيمية المختصة بممارسة التمريض."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Nursing",
+            "definition": "Protection, promotion, and optimization of health through diagnosis and treatment of human responses"
+          },
+          {
+            "term": "Promote Health",
+            "definition": "Help patients maintain or enhance their present levels of health"
+          },
+          {
+            "term": "Prevent Illness",
+            "definition": "Protect patients from actual or potential threats to health"
+          },
+          {
+            "term": "Restore Health",
+            "definition": "Help patients recover from illness or injury"
+          },
+          {
+            "term": "Facilitate Coping",
+            "definition": "Support patients dealing with disability or death"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "التمريض",
+            "definition": "حماية وتعزيز وتحسين الصحة من خلال تشخيص وعلاج الاستجابات البشرية"
+          },
+          {
+            "term": "تعزيز الصحة",
+            "definition": "مساعدة المرضى في الحفاظ على مستويات صحتهم الحالية أو تحسينها"
+          },
+          {
+            "term": "الوقاية من المرض",
+            "definition": "حماية المرضى من التهديدات الفعلية أو المحتملة للصحة"
+          },
+          {
+            "term": "استعادة الصحة",
+            "definition": "مساعدة المرضى على التعافي من المرض أو الإصابة"
+          },
+          {
+            "term": "تسهيل التكيف",
+            "definition": "دعم المرضى في التعامل مع الإعاقة أو الوفاة"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "ANA",
+            "definition": "American Nurses Association"
+          },
+          {
+            "term": "RN",
+            "definition": "Registered Nurse"
+          },
+          {
+            "term": "ICN",
+            "definition": "International Council of Nurses"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "Applying Nursing Aims in Practice",
+          "description": "When caring for a diabetic patient, you promote health through education about diet and exercise, prevent illness by monitoring blood glucose, restore health by managing acute complications, and facilitate coping by providing emotional support during lifestyle changes."
+        },
+        "clinicalConnectionAr": {
+          "title": "تطبيق أهداف التمريض في الممارسة",
+          "description": "عند رعاية مريض السكري، تعزز الصحة من خلال التثقيف حول النظام الغذائي والتمارين، وتمنع المرض بمراقبة نسبة السكر في الدم، وتستعيد الصحة بإدارة المضاعفات الحادة، وتسهل التكيف بتقديم الدعم العاطفي أثناء تغييرات نمط الحياة."
+        },
+        "quickReview": [
+          "Nursing is defined by ANA as protection, promotion, and optimization of health",
+          "Four aims: Promote health, Prevent illness, Restore health, Facilitate coping",
+          "Nurses use knowledge, skills, and critical thinking in various roles",
+          "The patient is always the center of nursing practice"
+        ],
+        "quickReviewAr": [
+          "التمريض معرف من قبل ANA كحماية وتعزيز وتحسين الصحة",
+          "أربعة أهداف: تعزيز الصحة، الوقاية من المرض، استعادة الصحة، تسهيل التكيف",
+          "يستخدم الممرضون المعرفة والمهارات والتفكير النقدي في أدوار متنوعة",
+          "المريض دائماً هو مركز الممارسة التمريضية"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "According to ANA, nursing includes all of the following EXCEPT:",
+            "options": [
+              "Protection of health",
+              "Prescribing medications",
+              "Prevention of illness",
+              "Advocacy in health care"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Prescribing medications is typically a physician's role, not within the ANA definition of nursing."
+          },
+          {
+            "id": "q2",
+            "question": "Which of the following is NOT one of the four aims of nursing?",
+            "options": [
+              "Promote health",
+              "Prevent illness",
+              "Diagnose disease",
+              "Facilitate coping"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Diagnosing disease is a medical function. The four aims are: promote health, prevent illness, restore health, and facilitate coping."
+          },
+          {
+            "id": "q3",
+            "question": "The center of nursing practice is:",
+            "options": [
+              "The nurse",
+              "The physician",
+              "The patient",
+              "The hospital"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The patient is always the center of nursing practice."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "وفقاً لـ ANA، يشمل التمريض كل ما يلي ماعدا:",
+            "options": [
+              "حماية الصحة",
+              "وصف الأدوية",
+              "الوقاية من المرض",
+              "المناصرة في الرعاية الصحية"
+            ],
+            "correctAnswer": 1,
+            "explanation": "وصف الأدوية عادة ما يكون دور الطبيب، وليس ضمن تعريف ANA للتمريض."
+          },
+          {
+            "id": "q2",
+            "question": "أي مما يلي ليس من الأهداف الأربعة للتمريض؟",
+            "options": [
+              "تعزيز الصحة",
+              "الوقاية من المرض",
+              "تشخيص المرض",
+              "تسهيل التكيف"
+            ],
+            "correctAnswer": 2,
+            "explanation": "تشخيص المرض هو وظيفة طبية. الأهداف الأربعة هي: تعزيز الصحة، الوقاية من المرض، استعادة الصحة، وتسهيل التكيف."
+          },
+          {
+            "id": "q3",
+            "question": "مركز الممارسة التمريضية هو:",
+            "options": [
+              "الممرض",
+              "الطبيب",
+              "المريض",
+              "المستشفى"
+            ],
+            "correctAnswer": 2,
+            "explanation": "المريض دائماً هو مركز الممارسة التمريضية."
+          }
+        ]
+      },
+      {
+        "id": "ch1-l2",
+        "title": "Standards of Practice & Professional Performance",
+        "titleAr": "معايير الممارسة والأداء المهني",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "List the six standards of nursing practice"
+          },
+          {
+            "id": "obj2",
+            "text": "Identify the ten standards of professional performance"
+          },
+          {
+            "id": "obj3",
+            "text": "Apply standards in clinical decision making"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "سرد معايير الممارسة التمريضية الستة"
+          },
+          {
+            "id": "obj2",
+            "text": "تحديد معايير الأداء المهني العشرة"
+          },
+          {
+            "id": "obj3",
+            "text": "تطبيق المعايير في صنع القرار السريري"
+          }
+        ],
+        "content": [
+          "The nursing process is the foundation of clinical decision making and includes all significant actions taken by nurses in providing care to patients.",
+          "Standards of Practice include: Assessment, Diagnosis, Outcomes Identification, Planning, Implementation, and Evaluation.",
+          "Standards of Professional Performance describe a competent level of behavior in the professional role according to ANA (2010)."
+        ],
+        "contentAr": [
+          "العملية التمريضية هي أساس صنع القرار السريري وتشمل جميع الإجراءات المهمة التي يتخذها الممرضون في تقديم الرعاية للمرضى.",
+          "معايير الممارسة تشمل: التقييم، التشخيص، تحديد النتائج، التخطيط، التنفيذ، والتقييم.",
+          "معايير الأداء المهني تصف مستوى كفء من السلوك في الدور المهني وفقاً لـ ANA (2010)."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Assessment",
+            "definition": "Collection of comprehensive data pertinent to patient's health"
+          },
+          {
+            "term": "Diagnosis",
+            "definition": "Analysis of assessment data to determine diagnoses"
+          },
+          {
+            "term": "Planning",
+            "definition": "Development of a plan with strategies to attain outcomes"
+          },
+          {
+            "term": "Implementation",
+            "definition": "Carrying out the identified plan"
+          },
+          {
+            "term": "Evaluation",
+            "definition": "Progress evaluation toward attainment of outcomes"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "التقييم",
+            "definition": "جمع البيانات الشاملة المتعلقة بصحة المريض"
+          },
+          {
+            "term": "التشخيص",
+            "definition": "تحليل بيانات التقييم لتحديد التشخيصات"
+          },
+          {
+            "term": "التخطيط",
+            "definition": "وضع خطة مع استراتيجيات لتحقيق النتائج"
+          },
+          {
+            "term": "التنفيذ",
+            "definition": "تنفيذ الخطة المحددة"
+          },
+          {
+            "term": "التقييم",
+            "definition": "تقييم التقدم نحو تحقيق النتائج"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "NANDA",
+            "definition": "North American Nursing Diagnosis Association"
+          },
+          {
+            "term": "Evidence-Based Practice",
+            "definition": "Integration of research findings into nursing practice"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "Standards in Daily Practice",
+          "description": "When a patient complains of chest pain, you apply standards by: Assessing vital signs and pain characteristics, Diagnosing potential cardiac issues, Planning immediate interventions, Implementing oxygen therapy and positioning, and Evaluating response to treatment."
+        },
+        "clinicalConnectionAr": {
+          "title": "المعايير في الممارسة اليومية",
+          "description": "عندما يشكو المريض من ألم في الصدر، تطبق المعايير من خلال: تقييم العلامات الحيوية وخصائص الألم، تشخيص المشاكل القلبية المحتملة، تخطيط التدخلات الفورية، تنفيذ العلاج بالأكسجين والوضعية، وتقييم الاستجابة للعلاج."
+        },
+        "quickReview": [
+          "6 Standards of Practice: Assessment, Diagnosis, Outcomes, Planning, Implementation, Evaluation",
+          "10 Standards of Professional Performance include Ethics, Education, Leadership",
+          "Standards ensure patients receive high-quality care",
+          "The nursing process is cyclical and continuous"
+        ],
+        "quickReviewAr": [
+          "6 معايير للممارسة: التقييم، التشخيص، النتائج، التخطيط، التنفيذ، التقييم",
+          "10 معايير للأداء المهني تشمل الأخلاقيات والتعليم والقيادة",
+          "المعايير تضمن حصول المرضى على رعاية عالية الجودة",
+          "العملية التمريضية دورية ومستمرة"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Which step of the nursing process involves collecting patient data?",
+            "options": [
+              "Diagnosis",
+              "Assessment",
+              "Planning",
+              "Evaluation"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Assessment is the first step where the nurse collects comprehensive data about the patient."
+          },
+          {
+            "id": "q2",
+            "question": "How many Standards of Professional Performance are defined by ANA?",
+            "options": [
+              "6",
+              "8",
+              "10",
+              "12"
+            ],
+            "correctAnswer": 2,
+            "explanation": "There are 10 Standards of Professional Performance including Ethics, Education, Leadership, etc."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "أي خطوة من العملية التمريضية تتضمن جمع بيانات المريض؟",
+            "options": [
+              "التشخيص",
+              "التقييم",
+              "التخطيط",
+              "التقييم النهائي"
+            ],
+            "correctAnswer": 1,
+            "explanation": "التقييم هو الخطوة الأولى حيث يجمع الممرض بيانات شاملة عن المريض."
+          },
+          {
+            "id": "q2",
+            "question": "كم عدد معايير الأداء المهني المحددة من قبل ANA؟",
+            "options": [
+              "6",
+              "8",
+              "10",
+              "12"
+            ],
+            "correctAnswer": 2,
+            "explanation": "هناك 10 معايير للأداء المهني تشمل الأخلاقيات والتعليم والقيادة وغيرها."
+          }
+        ]
+      },
+      {
+        "id": "ch1-l3",
+        "title": "Nurse Roles and Functions",
+        "titleAr": "أدوار الممرض ووظائفه",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Identify the 8 roles of a nurse"
+          },
+          {
+            "id": "obj2",
+            "text": "Describe the functions within each role"
+          },
+          {
+            "id": "obj3",
+            "text": "List healthcare settings where nurses practice"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تحديد الأدوار الثمانية للممرض"
+          },
+          {
+            "id": "obj2",
+            "text": "وصف الوظائف ضمن كل دور"
+          },
+          {
+            "id": "obj3",
+            "text": "سرد أماكن الرعاية الصحية حيث يمارس الممرضون"
+          }
+        ],
+        "content": [
+          "Nurses provide care and comfort for patients in all healthcare settings and concern for meeting their patient's needs.",
+          "The 8 roles include: Direct Care Provider, Communicator, Teacher/Educator, Counselor, Leader, Researcher, Advocate, and Collaborator.",
+          "Nurses practice in various settings including hospitals, clinics, homes, schools, prisons, and community health centers."
+        ],
+        "contentAr": [
+          "يقدم الممرضون الرعاية والراحة للمرضى في جميع أماكن الرعاية الصحية مع الاهتمام بتلبية احتياجاتهم.",
+          "تشمل الأدوار الثمانية: مقدم الرعاية المباشرة، المتواصل، المعلم/المثقف، المستشار، القائد، الباحث، المدافع، والمتعاون.",
+          "يمارس الممرضون في أماكن مختلفة تشمل المستشفيات والعيادات والمنازل والمدارس والسجون ومراكز الصحة المجتمعية."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Caregiver",
+            "definition": "Integrates all roles to meet physical, emotional, and spiritual needs"
+          },
+          {
+            "term": "Communicator",
+            "definition": "Uses therapeutic communication to establish helping relationships"
+          },
+          {
+            "term": "Advocate",
+            "definition": "Protects human rights and secures care for all patients"
+          },
+          {
+            "term": "Collaborator",
+            "definition": "Works effectively with healthcare team members"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "مقدم الرعاية",
+            "definition": "يدمج جميع الأدوار لتلبية الاحتياجات الجسدية والعاطفية والروحية"
+          },
+          {
+            "term": "المتواصل",
+            "definition": "يستخدم التواصل العلاجي لإنشاء علاقات مساعدة"
+          },
+          {
+            "term": "المدافع",
+            "definition": "يحمي حقوق الإنسان ويضمن الرعاية لجميع المرضى"
+          },
+          {
+            "term": "المتعاون",
+            "definition": "يعمل بفعالية مع أعضاء فريق الرعاية الصحية"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "ICU",
+            "definition": "Intensive Care Unit"
+          },
+          {
+            "term": "OPD",
+            "definition": "Outpatient Department"
+          },
+          {
+            "term": "ER",
+            "definition": "Emergency Room"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "Roles in Action",
+          "description": "During a shift, a nurse may act as a caregiver when administering medication, a teacher when explaining discharge instructions, an advocate when ensuring a patient's concerns are heard, and a collaborator when discussing care with the physician."
+        },
+        "clinicalConnectionAr": {
+          "title": "الأدوار في التطبيق",
+          "description": "خلال الوردية، قد يعمل الممرض كمقدم رعاية عند إعطاء الدواء، ومعلم عند شرح تعليمات الخروج، ومدافع عند ضمان سماع مخاوف المريض، ومتعاون عند مناقشة الرعاية مع الطبيب."
+        },
+        "quickReview": [
+          "8 Nurse Roles: Caregiver, Communicator, Teacher, Counselor, Leader, Researcher, Advocate, Collaborator",
+          "Nurses practice in hospitals, clinics, schools, homes, and community settings",
+          "The advocate role protects patients' rights to make informed decisions",
+          "Collaboration is essential with all healthcare team members"
+        ],
+        "quickReviewAr": [
+          "8 أدوار للممرض: مقدم الرعاية، المتواصل، المعلم، المستشار، القائد، الباحث، المدافع، المتعاون",
+          "يمارس الممرضون في المستشفيات والعيادات والمدارس والمنازل والمجتمع",
+          "دور المدافع يحمي حقوق المرضى في اتخاذ قرارات مستنيرة",
+          "التعاون ضروري مع جميع أعضاء فريق الرعاية الصحية"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Which nurse role involves protecting patients' rights?",
+            "options": [
+              "Leader",
+              "Advocate",
+              "Researcher",
+              "Counselor"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The advocate role involves protecting human or legal rights and securing care for all patients."
+          },
+          {
+            "id": "q2",
+            "question": "The nurse who provides individualized teaching plans performs which role?",
+            "options": [
+              "Communicator",
+              "Caregiver",
+              "Teacher/Educator",
+              "Collaborator"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The Teacher/Educator role involves assessing, implementing, and evaluating individualized teaching plans."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "أي دور للممرض يتضمن حماية حقوق المرضى؟",
+            "options": [
+              "القائد",
+              "المدافع",
+              "الباحث",
+              "المستشار"
+            ],
+            "correctAnswer": 1,
+            "explanation": "دور المدافع يتضمن حماية الحقوق الإنسانية أو القانونية وضمان الرعاية لجميع المرضى."
+          },
+          {
+            "id": "q2",
+            "question": "الممرض الذي يقدم خطط تعليمية فردية يؤدي أي دور؟",
+            "options": [
+              "المتواصل",
+              "مقدم الرعاية",
+              "المعلم/المثقف",
+              "المتعاون"
+            ],
+            "correctAnswer": 2,
+            "explanation": "دور المعلم/المثقف يتضمن تقييم وتنفيذ وتقييم خطط تعليمية فردية."
+          }
+        ]
+      },
+      {
+        "id": "ch1-l4",
+        "title": "Ethics in Nursing",
+        "titleAr": "الأخلاقيات في التمريض",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Define ethics and nursing ethics"
+          },
+          {
+            "id": "obj2",
+            "text": "Identify the primary ethical principles"
+          },
+          {
+            "id": "obj3",
+            "text": "Apply ICN Code of Ethics elements"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تعريف الأخلاقيات وأخلاقيات التمريض"
+          },
+          {
+            "id": "obj2",
+            "text": "تحديد المبادئ الأخلاقية الأساسية"
+          },
+          {
+            "id": "obj3",
+            "text": "تطبيق عناصر ميثاق أخلاقيات ICN"
+          }
+        ],
+        "content": [
+          "Ethical values are universal rules of conduct that provide a practical basis for identifying what kinds of actions, intentions, and motives are valued.",
+          "Ethics are moral principles that govern how a person or group will behave or conduct themselves.",
+          "The ICN Code of Ethics has four principal elements: Nurses and People, Nurses and Practice, Nurses and the Profession, Nurses and Co-workers."
+        ],
+        "contentAr": [
+          "القيم الأخلاقية هي قواعد سلوك عالمية توفر أساساً عملياً لتحديد أنواع الأفعال والنوايا والدوافع المقدرة.",
+          "الأخلاقيات هي المبادئ الأخلاقية التي تحكم كيفية تصرف الشخص أو المجموعة.",
+          "ميثاق أخلاقيات ICN له أربعة عناصر رئيسية: الممرضون والناس، الممرضون والممارسة، الممرضون والمهنة، الممرضون وزملاء العمل."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Beneficence",
+            "definition": "Acting for the good and welfare of others"
+          },
+          {
+            "term": "Nonmaleficence",
+            "definition": "Acting to prevent harm to others"
+          },
+          {
+            "term": "Autonomy",
+            "definition": "Recognizing individual's right to self-determination"
+          },
+          {
+            "term": "Justice",
+            "definition": "Acting in fairness and treating all equally"
+          },
+          {
+            "term": "Veracity",
+            "definition": "Being truthful and accurate in all interactions"
+          },
+          {
+            "term": "Fidelity",
+            "definition": "Being loyal to individuals who place trust in the nurse"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "الإحسان",
+            "definition": "التصرف لصالح ورفاهية الآخرين"
+          },
+          {
+            "term": "عدم الإيذاء",
+            "definition": "التصرف لمنع الأذى للآخرين"
+          },
+          {
+            "term": "الاستقلالية",
+            "definition": "الاعتراف بحق الفرد في تقرير المصير"
+          },
+          {
+            "term": "العدالة",
+            "definition": "التصرف بإنصاف ومعاملة الجميع بالتساوي"
+          },
+          {
+            "term": "الصدق",
+            "definition": "أن تكون صادقاً ودقيقاً في جميع التفاعلات"
+          },
+          {
+            "term": "الوفاء",
+            "definition": "أن تكون مخلصاً للأفراد الذين يضعون ثقتهم في الممرض"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "ICN",
+            "definition": "International Council of Nurses"
+          },
+          {
+            "term": "ANA",
+            "definition": "American Nurses Association"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "Ethical Decision Making",
+          "description": "When a patient refuses treatment, you apply autonomy by respecting their decision, beneficence by explaining benefits, nonmaleficence by discussing risks, and veracity by providing truthful information to help them make an informed choice."
+        },
+        "clinicalConnectionAr": {
+          "title": "اتخاذ القرار الأخلاقي",
+          "description": "عندما يرفض المريض العلاج، تطبق الاستقلالية باحترام قراره، والإحسان بشرح الفوائد، وعدم الإيذاء بمناقشة المخاطر، والصدق بتقديم معلومات صادقة لمساعدته على اتخاذ قرار مستنير."
+        },
+        "quickReview": [
+          "6 Ethical Principles: Beneficence, Nonmaleficence, Autonomy, Justice, Veracity, Fidelity",
+          "ICN Code has 4 elements covering nurses' responsibilities",
+          "Ethics provide a framework for nursing decision making",
+          "Patient autonomy must always be respected"
+        ],
+        "quickReviewAr": [
+          "6 مبادئ أخلاقية: الإحسان، عدم الإيذاء، الاستقلالية، العدالة، الصدق، الوفاء",
+          "ميثاق ICN له 4 عناصر تغطي مسؤوليات الممرضين",
+          "الأخلاقيات توفر إطاراً لاتخاذ القرار التمريضي",
+          "يجب احترام استقلالية المريض دائماً"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Which ethical principle means 'do no harm'?",
+            "options": [
+              "Beneficence",
+              "Nonmaleficence",
+              "Autonomy",
+              "Justice"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Nonmaleficence means acting in such a way as to prevent harm to others."
+          },
+          {
+            "id": "q2",
+            "question": "Respecting a patient's right to make their own decisions is called:",
+            "options": [
+              "Beneficence",
+              "Fidelity",
+              "Autonomy",
+              "Veracity"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Autonomy recognizes the individual's right to self-determination and decision-making."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "أي مبدأ أخلاقي يعني 'لا تؤذي'؟",
+            "options": [
+              "الإحسان",
+              "عدم الإيذاء",
+              "الاستقلالية",
+              "العدالة"
+            ],
+            "correctAnswer": 1,
+            "explanation": "عدم الإيذاء يعني التصرف بطريقة تمنع الأذى للآخرين."
+          },
+          {
+            "id": "q2",
+            "question": "احترام حق المريض في اتخاذ قراراته الخاصة يسمى:",
+            "options": [
+              "الإحسان",
+              "الوفاء",
+              "الاستقلالية",
+              "الصدق"
+            ],
+            "correctAnswer": 2,
+            "explanation": "الاستقلالية تعترف بحق الفرد في تقرير المصير واتخاذ القرار."
+          }
+        ]
+      },
+      {
+        "id": "ch1-l5",
+        "title": "Patient Safety",
+        "titleAr": "سلامة المريض",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Define patient safety according to WHO"
+          },
+          {
+            "id": "obj2",
+            "text": "Identify factors influencing patient safety"
+          },
+          {
+            "id": "obj3",
+            "text": "List the Joint Commission National Patient Safety Goals"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تعريف سلامة المريض وفقاً لمنظمة الصحة العالمية"
+          },
+          {
+            "id": "obj2",
+            "text": "تحديد العوامل المؤثرة على سلامة المريض"
+          },
+          {
+            "id": "obj3",
+            "text": "سرد أهداف سلامة المريض الوطنية للجنة المشتركة"
+          }
+        ],
+        "content": [
+          "WHO defines patient safety as the prevention of errors and adverse effects to patients associated with health care.",
+          "Factors influencing safety include: Age, Lifestyle, Mobility, Sensory Alterations, Emotional State, and Environmental Factors.",
+          "Patient Safety Goals include: accurate identification, effective communication, medication safety, infection prevention, and fall risk reduction."
+        ],
+        "contentAr": [
+          "تعرف منظمة الصحة العالمية سلامة المريض بأنها منع الأخطاء والآثار الضارة للمرضى المرتبطة بالرعاية الصحية.",
+          "تشمل العوامل المؤثرة على السلامة: العمر، نمط الحياة، الحركة، التغيرات الحسية، الحالة العاطفية، والعوامل البيئية.",
+          "تشمل أهداف سلامة المريض: التحديد الدقيق، التواصل الفعال، سلامة الأدوية، الوقاية من العدوى، وتقليل خطر السقوط."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Patient Safety",
+            "definition": "Prevention of errors and adverse effects in healthcare"
+          },
+          {
+            "term": "Two Patient Identifiers",
+            "definition": "Required when administering medications, blood, or treatments"
+          },
+          {
+            "term": "Hand Hygiene",
+            "definition": "Compliance with CDC or WHO guidelines to prevent infections"
+          },
+          {
+            "term": "Fall Prevention",
+            "definition": "Assessment and interventions to reduce fall risk"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "سلامة المريض",
+            "definition": "منع الأخطاء والآثار الضارة في الرعاية الصحية"
+          },
+          {
+            "term": "معرفان للمريض",
+            "definition": "مطلوبان عند إعطاء الأدوية أو الدم أو العلاجات"
+          },
+          {
+            "term": "نظافة اليدين",
+            "definition": "الامتثال لإرشادات CDC أو WHO لمنع العدوى"
+          },
+          {
+            "term": "الوقاية من السقوط",
+            "definition": "التقييم والتدخلات لتقليل خطر السقوط"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "WHO",
+            "definition": "World Health Organization"
+          },
+          {
+            "term": "CDC",
+            "definition": "Centers for Disease Control and Prevention"
+          },
+          {
+            "term": "CLABSI",
+            "definition": "Central Line-Associated Bloodstream Infections"
+          },
+          {
+            "term": "CAUTI",
+            "definition": "Catheter-Associated Urinary Tract Infections"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "Safety in Practice",
+          "description": "Before administering medication, always use two patient identifiers (name and date of birth), check the medication against the order, verify allergies, and ensure proper labeling. Report any near-misses to improve safety systems."
+        },
+        "clinicalConnectionAr": {
+          "title": "السلامة في الممارسة",
+          "description": "قبل إعطاء الدواء، استخدم دائماً معرفين للمريض (الاسم وتاريخ الميلاد)، تحقق من الدواء مقابل الأمر، تحقق من الحساسية، وتأكد من الملصقات الصحيحة. أبلغ عن أي حوادث وشيكة لتحسين أنظمة السلامة."
+        },
+        "quickReview": [
+          "Use at least 2 patient identifiers before any procedure",
+          "Factors affecting safety: Age, Mobility, Sensory, Emotional, Environmental",
+          "Safety Goals: Identification, Communication, Medication safety, Infection control",
+          "Hand hygiene is the most effective way to prevent healthcare infections"
+        ],
+        "quickReviewAr": [
+          "استخدم معرفين للمريض على الأقل قبل أي إجراء",
+          "العوامل المؤثرة على السلامة: العمر، الحركة، الحسية، العاطفية، البيئية",
+          "أهداف السلامة: التحديد، التواصل، سلامة الأدوية، مكافحة العدوى",
+          "نظافة اليدين هي الطريقة الأكثر فعالية لمنع عدوى الرعاية الصحية"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "How many patient identifiers are required before administering medications?",
+            "options": [
+              "One",
+              "At least two",
+              "Three",
+              "Four"
+            ],
+            "correctAnswer": 1,
+            "explanation": "At least two patient identifiers must be used when administering medications, blood, or treatments."
+          },
+          {
+            "id": "q2",
+            "question": "Which organization defines patient safety as prevention of errors and adverse effects?",
+            "options": [
+              "ANA",
+              "ICN",
+              "WHO",
+              "CDC"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The World Health Organization (WHO) defines patient safety as prevention of errors and adverse effects."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "كم معرف للمريض مطلوب قبل إعطاء الأدوية؟",
+            "options": [
+              "واحد",
+              "اثنان على الأقل",
+              "ثلاثة",
+              "أربعة"
+            ],
+            "correctAnswer": 1,
+            "explanation": "يجب استخدام معرفين للمريض على الأقل عند إعطاء الأدوية أو الدم أو العلاجات."
+          },
+          {
+            "id": "q2",
+            "question": "أي منظمة تعرف سلامة المريض بأنها منع الأخطاء والآثار الضارة؟",
+            "options": [
+              "ANA",
+              "ICN",
+              "WHO",
+              "CDC"
+            ],
+            "correctAnswer": 2,
+            "explanation": "منظمة الصحة العالمية (WHO) تعرف سلامة المريض بأنها منع الأخطاء والآثار الضارة."
+          }
+        ]
+      },
+      {
+        "id": "ch1-l6",
+        "title": "Health and Illness Concepts",
+        "titleAr": "مفاهيم الصحة والمرض",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Define health according to WHO"
+          },
+          {
+            "id": "obj2",
+            "text": "Differentiate between acute and chronic illness"
+          },
+          {
+            "id": "obj3",
+            "text": "Explain the three levels of preventive care"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تعريف الصحة وفقاً لمنظمة الصحة العالمية"
+          },
+          {
+            "id": "obj2",
+            "text": "التفريق بين المرض الحاد والمزمن"
+          },
+          {
+            "id": "obj3",
+            "text": "شرح المستويات الثلاثة للرعاية الوقائية"
+          }
+        ],
+        "content": [
+          "WHO defines health as a state of complete physical, mental, and social wellbeing, not merely the absence of disease or infirmity.",
+          "Acute illness is usually reversible, has short duration, and often severe. Chronic illness persists longer than 6 months and is irreversible.",
+          "Three levels of prevention: Primary (true prevention), Secondary (early diagnosis), Tertiary (rehabilitation)."
+        ],
+        "contentAr": [
+          "تعرف منظمة الصحة العالمية الصحة بأنها حالة من الرفاهية الجسدية والعقلية والاجتماعية الكاملة، وليست مجرد غياب المرض أو العجز.",
+          "المرض الحاد عادة قابل للعكس، له مدة قصيرة، وغالباً شديد. المرض المزمن يستمر أكثر من 6 أشهر وغير قابل للعكس.",
+          "ثلاثة مستويات للوقاية: أولية (الوقاية الحقيقية)، ثانوية (التشخيص المبكر)، ثالثية (إعادة التأهيل)."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Health",
+            "definition": "Complete physical, mental, and social wellbeing"
+          },
+          {
+            "term": "Acute Illness",
+            "definition": "Short duration, reversible, responds to treatment"
+          },
+          {
+            "term": "Chronic Illness",
+            "definition": "Persists >6 months, irreversible, requires long-term management"
+          },
+          {
+            "term": "Primary Prevention",
+            "definition": "Health promotion before disease occurs"
+          },
+          {
+            "term": "Secondary Prevention",
+            "definition": "Early diagnosis and prompt treatment"
+          },
+          {
+            "term": "Tertiary Prevention",
+            "definition": "Rehabilitation for permanent conditions"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "الصحة",
+            "definition": "الرفاهية الجسدية والعقلية والاجتماعية الكاملة"
+          },
+          {
+            "term": "المرض الحاد",
+            "definition": "مدة قصيرة، قابل للعكس، يستجيب للعلاج"
+          },
+          {
+            "term": "المرض المزمن",
+            "definition": "يستمر أكثر من 6 أشهر، غير قابل للعكس، يتطلب إدارة طويلة المدى"
+          },
+          {
+            "term": "الوقاية الأولية",
+            "definition": "تعزيز الصحة قبل حدوث المرض"
+          },
+          {
+            "term": "الوقاية الثانوية",
+            "definition": "التشخيص المبكر والعلاج الفوري"
+          },
+          {
+            "term": "الوقاية الثالثية",
+            "definition": "إعادة التأهيل للحالات الدائمة"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "ADL",
+            "definition": "Activities of Daily Living"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "Prevention Levels in Practice",
+          "description": "Immunizations are primary prevention. Screening tests like mammograms are secondary prevention. Teaching a stroke patient to use adaptive equipment is tertiary prevention."
+        },
+        "clinicalConnectionAr": {
+          "title": "مستويات الوقاية في الممارسة",
+          "description": "التطعيمات هي وقاية أولية. اختبارات الفحص مثل تصوير الثدي هي وقاية ثانوية. تعليم مريض السكتة الدماغية استخدام المعدات التكيفية هي وقاية ثالثية."
+        },
+        "quickReview": [
+          "Health = Physical + Mental + Social wellbeing (WHO)",
+          "Acute: short, reversible | Chronic: >6 months, irreversible",
+          "Primary prevention: immunizations, health education",
+          "Secondary: early detection | Tertiary: rehabilitation"
+        ],
+        "quickReviewAr": [
+          "الصحة = الرفاهية الجسدية + العقلية + الاجتماعية (WHO)",
+          "حاد: قصير، قابل للعكس | مزمن: أكثر من 6 أشهر، غير قابل للعكس",
+          "الوقاية الأولية: التطعيمات، التثقيف الصحي",
+          "الثانوية: الكشف المبكر | الثالثية: إعادة التأهيل"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Immunizing children against measles is an example of which level of prevention?",
+            "options": [
+              "Primary",
+              "Secondary",
+              "Tertiary",
+              "Quaternary"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Immunization is primary prevention - it prevents disease before it occurs."
+          },
+          {
+            "id": "q2",
+            "question": "A chronic illness is characterized by:",
+            "options": [
+              "Duration less than 6 months",
+              "Usually reversible",
+              "Permanent impairment possible",
+              "Always self-limiting"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Chronic illness may cause permanent impairment, lasts >6 months, and is irreversible."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "تطعيم الأطفال ضد الحصبة مثال على أي مستوى من الوقاية؟",
+            "options": [
+              "أولية",
+              "ثانوية",
+              "ثالثية",
+              "رابعية"
+            ],
+            "correctAnswer": 0,
+            "explanation": "التطعيم هو وقاية أولية - يمنع المرض قبل حدوثه."
+          },
+          {
+            "id": "q2",
+            "question": "يتميز المرض المزمن بـ:",
+            "options": [
+              "مدة أقل من 6 أشهر",
+              "عادة قابل للعكس",
+              "إعاقة دائمة محتملة",
+              "دائماً محدود ذاتياً"
+            ],
+            "correctAnswer": 2,
+            "explanation": "المرض المزمن قد يسبب إعاقة دائمة، يستمر أكثر من 6 أشهر، وغير قابل للعكس."
+          }
+        ]
+      }
+    ],
+    "summary": [
+      "Nursing is defined as protection, promotion, and optimization of health (ANA)",
+      "Four aims of nursing: Promote health, Prevent illness, Restore health, Facilitate coping",
+      "8 nurse roles: Caregiver, Communicator, Teacher, Counselor, Leader, Researcher, Advocate, Collaborator",
+      "6 ethical principles guide nursing practice: Beneficence, Nonmaleficence, Autonomy, Justice, Veracity, Fidelity",
+      "Patient safety requires two identifiers and compliance with hand hygiene guidelines",
+      "Three levels of prevention: Primary, Secondary, Tertiary"
+    ],
+    "summaryAr": [
+      "التمريض معرف بأنه حماية وتعزيز وتحسين الصحة (ANA)",
+      "أربعة أهداف للتمريض: تعزيز الصحة، الوقاية من المرض، استعادة الصحة، تسهيل التكيف",
+      "8 أدوار للممرض: مقدم الرعاية، المتواصل، المعلم، المستشار، القائد، الباحث، المدافع، المتعاون",
+      "6 مبادئ أخلاقية توجه ممارسة التمريض: الإحسان، عدم الإيذاء، الاستقلالية، العدالة، الصدق، الوفاء",
+      "سلامة المريض تتطلب معرفين والامتثال لإرشادات نظافة اليدين",
+      "ثلاثة مستويات للوقاية: أولية، ثانوية، ثالثية"
+    ],
+    "examPoints": [
+      "Know the 4 aims of nursing practice",
+      "Memorize the 6 ethical principles and their meanings",
+      "Understand the difference between acute and chronic illness",
+      "Remember the 3 levels of preventive care with examples",
+      "Know the Joint Commission patient safety goals"
+    ],
+    "examPointsAr": [
+      "اعرف الأهداف الأربعة لممارسة التمريض",
+      "احفظ المبادئ الأخلاقية الستة ومعانيها",
+      "افهم الفرق بين المرض الحاد والمزمن",
+      "تذكر مستويات الرعاية الوقائية الثلاثة مع أمثلة",
+      "اعرف أهداف سلامة المريض للجنة المشتركة"
+    ]
+  },
+  {
+    "id": "ch2",
+    "number": 2,
+    "title": "Communication",
+    "titleAr": "التواصل",
+    "description": "Master therapeutic communication techniques for effective patient care",
+    "descriptionAr": "أتقن تقنيات التواصل العلاجي للرعاية الفعالة للمريض",
+    "icon": "MessageCircle",
+    "color": "from-blue-500 to-blue-600",
+    "lessons": [
+      {
+        "id": "ch2-l1",
+        "title": "Components of Communication Process",
+        "titleAr": "مكونات عملية التواصل",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Identify the 5 basic components of communication"
+          },
+          {
+            "id": "obj2",
+            "text": "Describe the role of sender, message, channel, receiver, and feedback"
+          },
+          {
+            "id": "obj3",
+            "text": "Explain how communication is a reciprocal process"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تحديد المكونات الخمسة الأساسية للتواصل"
+          },
+          {
+            "id": "obj2",
+            "text": "وصف دور المرسل والرسالة والقناة والمستقبل والتغذية الراجعة"
+          },
+          {
+            "id": "obj3",
+            "text": "شرح كيف أن التواصل عملية متبادلة"
+          }
+        ],
+        "content": [
+          "Communication is the process of exchanging information and generating meanings between two or more people. It is the foundation of nurse-patient interaction.",
+          "The 5 components are: Sender (encoder), Message, Channel, Receiver (decoder), and Feedback.",
+          "Communication channels include: Auditory (spoken words), Visual (observations), and Kinesthetic (touch)."
+        ],
+        "contentAr": [
+          "التواصل هو عملية تبادل المعلومات وتوليد المعاني بين شخصين أو أكثر. وهو أساس التفاعل بين الممرض والمريض.",
+          "المكونات الخمسة هي: المرسل (المشفر)، الرسالة، القناة، المستقبل (فك التشفير)، والتغذية الراجعة.",
+          "قنوات التواصل تشمل: السمعية (الكلمات المنطوقة)، البصرية (الملاحظات)، والحركية (اللمس)."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Sender/Encoder",
+            "definition": "Person who initiates the communication process"
+          },
+          {
+            "term": "Message",
+            "definition": "The actual communication product - speech, gesture, or note"
+          },
+          {
+            "term": "Channel",
+            "definition": "The medium selected to send the message"
+          },
+          {
+            "term": "Receiver/Decoder",
+            "definition": "Person who translates and interprets the message"
+          },
+          {
+            "term": "Feedback",
+            "definition": "Evidence that the receiver understood the message"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "المرسل/المشفر",
+            "definition": "الشخص الذي يبدأ عملية التواصل"
+          },
+          {
+            "term": "الرسالة",
+            "definition": "منتج التواصل الفعلي - كلام أو إيماءة أو ملاحظة"
+          },
+          {
+            "term": "القناة",
+            "definition": "الوسيلة المختارة لإرسال الرسالة"
+          },
+          {
+            "term": "المستقبل/فك التشفير",
+            "definition": "الشخص الذي يترجم ويفسر الرسالة"
+          },
+          {
+            "term": "التغذية الراجعة",
+            "definition": "دليل على أن المستقبل فهم الرسالة"
+          }
+        ],
+        "medicalTerms": [],
+        "clinicalConnection": {
+          "title": "Effective Patient Communication",
+          "description": "When explaining a procedure, you are the sender. Your explanation is the message. Speaking is the channel. The patient is the receiver. When the patient asks clarifying questions or nods in understanding, that's feedback confirming comprehension."
+        },
+        "clinicalConnectionAr": {
+          "title": "التواصل الفعال مع المريض",
+          "description": "عند شرح إجراء ما، أنت المرسل. شرحك هو الرسالة. التحدث هو القناة. المريض هو المستقبل. عندما يسأل المريض أسئلة توضيحية أو يومئ بالفهم، هذه تغذية راجعة تؤكد الاستيعاب."
+        },
+        "quickReview": [
+          "5 Components: Sender, Message, Channel, Receiver, Feedback",
+          "3 Channels: Auditory, Visual, Kinesthetic",
+          "Communication is reciprocal - both parties participate simultaneously",
+          "Feedback confirms message understanding"
+        ],
+        "quickReviewAr": [
+          "5 مكونات: المرسل، الرسالة، القناة، المستقبل، التغذية الراجعة",
+          "3 قنوات: سمعية، بصرية، حركية",
+          "التواصل متبادل - كلا الطرفين يشاركان في وقت واحد",
+          "التغذية الراجعة تؤكد فهم الرسالة"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Which component of communication involves the person who interprets the message?",
+            "options": [
+              "Sender",
+              "Channel",
+              "Receiver",
+              "Feedback"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The receiver (decoder) translates and interprets the message sent."
+          },
+          {
+            "id": "q2",
+            "question": "When a patient nods to show they understand, this is an example of:",
+            "options": [
+              "Encoding",
+              "Channel",
+              "Feedback",
+              "Message"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Feedback provides evidence that the receiver understood the intended message."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "أي مكون من مكونات التواصل يتضمن الشخص الذي يفسر الرسالة؟",
+            "options": [
+              "المرسل",
+              "القناة",
+              "المستقبل",
+              "التغذية الراجعة"
+            ],
+            "correctAnswer": 2,
+            "explanation": "المستقبل (فك التشفير) يترجم ويفسر الرسالة المرسلة."
+          },
+          {
+            "id": "q2",
+            "question": "عندما يومئ المريض لإظهار فهمه، هذا مثال على:",
+            "options": [
+              "التشفير",
+              "القناة",
+              "التغذية الراجعة",
+              "الرسالة"
+            ],
+            "correctAnswer": 2,
+            "explanation": "التغذية الراجعة توفر دليلاً على أن المستقبل فهم الرسالة المقصودة."
+          }
+        ]
+      },
+      {
+        "id": "ch2-l2",
+        "title": "Forms of Communication",
+        "titleAr": "أشكال التواصل",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Differentiate between verbal and nonverbal communication"
+          },
+          {
+            "id": "obj2",
+            "text": "Identify forms of nonverbal communication"
+          },
+          {
+            "id": "obj3",
+            "text": "Understand electronic communication challenges in nursing"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "التفريق بين التواصل اللفظي وغير اللفظي"
+          },
+          {
+            "id": "obj2",
+            "text": "تحديد أشكال التواصل غير اللفظي"
+          },
+          {
+            "id": "obj3",
+            "text": "فهم تحديات التواصل الإلكتروني في التمريض"
+          }
+        ],
+        "content": [
+          "Verbal communication uses words - both spoken and written. It depends on language to share information effectively.",
+          "Nonverbal communication (body language) includes: Touch, Eye contact, Facial expressions, Posture, Physical appearance, and Sounds (sighs, moans).",
+          "Electronic communication through social media and email presents challenges for patient privacy and confidentiality."
+        ],
+        "contentAr": [
+          "التواصل اللفظي يستخدم الكلمات - المنطوقة والمكتوبة. يعتمد على اللغة لمشاركة المعلومات بفعالية.",
+          "التواصل غير اللفظي (لغة الجسد) يشمل: اللمس، التواصل البصري، تعبيرات الوجه، وضعية الجسم، المظهر الجسدي، والأصوات (التنهدات، الأنين).",
+          "التواصل الإلكتروني عبر وسائل التواصل الاجتماعي والبريد الإلكتروني يقدم تحديات لخصوصية وسرية المريض."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Verbal Communication",
+            "definition": "Exchange using spoken or written words"
+          },
+          {
+            "term": "Nonverbal Communication",
+            "definition": "Transmission without words - body language"
+          },
+          {
+            "term": "Touch",
+            "definition": "Tactile communication with personal and cultural meanings"
+          },
+          {
+            "term": "Eye Contact",
+            "definition": "Suggests respect and willingness to communicate"
+          },
+          {
+            "term": "Facial Expressions",
+            "definition": "Convey emotions like anger, joy, sadness, fear"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "التواصل اللفظي",
+            "definition": "التبادل باستخدام الكلمات المنطوقة أو المكتوبة"
+          },
+          {
+            "term": "التواصل غير اللفظي",
+            "definition": "النقل بدون كلمات - لغة الجسد"
+          },
+          {
+            "term": "اللمس",
+            "definition": "التواصل اللمسي بمعاني شخصية وثقافية"
+          },
+          {
+            "term": "التواصل البصري",
+            "definition": "يشير إلى الاحترام والرغبة في التواصل"
+          },
+          {
+            "term": "تعبيرات الوجه",
+            "definition": "تنقل المشاعر مثل الغضب والفرح والحزن والخوف"
+          }
+        ],
+        "medicalTerms": [],
+        "clinicalConnection": {
+          "title": "Reading Nonverbal Cues",
+          "description": "A patient says they're 'fine' but avoids eye contact, has slumped posture, and sighs frequently. The nonverbal cues suggest depression or pain. Always validate nonverbal messages with the patient to interpret them accurately."
+        },
+        "clinicalConnectionAr": {
+          "title": "قراءة الإشارات غير اللفظية",
+          "description": "المريض يقول أنه 'بخير' لكنه يتجنب التواصل البصري، ووضعيته منحنية، ويتنهد كثيراً. الإشارات غير اللفظية تشير إلى الاكتئاب أو الألم. تحقق دائماً من الرسائل غير اللفظية مع المريض لتفسيرها بدقة."
+        },
+        "quickReview": [
+          "Verbal = spoken + written words | Nonverbal = body language",
+          "6 Forms of nonverbal: Touch, Eye contact, Facial expressions, Posture, Appearance, Sounds",
+          "Nonverbal cues often reveal hidden meanings",
+          "Electronic communication requires protecting patient privacy"
+        ],
+        "quickReviewAr": [
+          "لفظي = كلمات منطوقة + مكتوبة | غير لفظي = لغة الجسد",
+          "6 أشكال غير لفظية: اللمس، التواصل البصري، تعبيرات الوجه، الوضعية، المظهر، الأصوات",
+          "الإشارات غير اللفظية غالباً ما تكشف معاني خفية",
+          "التواصل الإلكتروني يتطلب حماية خصوصية المريض"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Which are considered nonverbal cues? (Select all that apply)",
+            "options": [
+              "Eye contact",
+              "Written notes",
+              "Facial expressions",
+              "Use of touch"
+            ],
+            "correctAnswer": 0,
+            "explanation": "Eye contact, facial expressions, and touch are nonverbal. Written notes are verbal communication."
+          },
+          {
+            "id": "q2",
+            "question": "The face is the most expressive part of the body. What does it primarily convey?",
+            "options": [
+              "Pain level only",
+              "Emotions",
+              "Vital signs",
+              "Medical history"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Facial expressions primarily convey emotions like anger, joy, sadness, and fear."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "أي من التالي يعتبر إشارات غير لفظية؟",
+            "options": [
+              "التواصل البصري",
+              "الملاحظات المكتوبة",
+              "تعبيرات الوجه",
+              "استخدام اللمس"
+            ],
+            "correctAnswer": 0,
+            "explanation": "التواصل البصري وتعبيرات الوجه واللمس غير لفظية. الملاحظات المكتوبة تواصل لفظي."
+          },
+          {
+            "id": "q2",
+            "question": "الوجه هو الجزء الأكثر تعبيراً من الجسم. ماذا ينقل بشكل أساسي؟",
+            "options": [
+              "مستوى الألم فقط",
+              "المشاعر",
+              "العلامات الحيوية",
+              "التاريخ الطبي"
+            ],
+            "correctAnswer": 1,
+            "explanation": "تعبيرات الوجه تنقل بشكل أساسي المشاعر مثل الغضب والفرح والحزن والخوف."
+          }
+        ]
+      },
+      {
+        "id": "ch2-l3",
+        "title": "Levels of Communication & Influencing Factors",
+        "titleAr": "مستويات التواصل والعوامل المؤثرة",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Identify the 4 levels of communication"
+          },
+          {
+            "id": "obj2",
+            "text": "Describe factors that influence communication"
+          },
+          {
+            "id": "obj3",
+            "text": "Define personal space zones"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تحديد مستويات التواصل الأربعة"
+          },
+          {
+            "id": "obj2",
+            "text": "وصف العوامل المؤثرة على التواصل"
+          },
+          {
+            "id": "obj3",
+            "text": "تعريف مناطق المساحة الشخصية"
+          }
+        ],
+        "content": [
+          "4 Levels: Intrapersonal (self-talk), Interpersonal (one-on-one), Small-group (goal-directed), Public (audience interaction).",
+          "Factors influencing communication: Development, Gender, Values, Personal space, Environment, and Interpersonal attitudes.",
+          "Personal Space zones: Intimate (0-1.5 ft), Personal (1.5-4 ft), Social (4-12 ft), Public (12+ ft)."
+        ],
+        "contentAr": [
+          "4 مستويات: داخل الشخص (الحديث الذاتي)، بين الأشخاص (فردي)، المجموعة الصغيرة (موجه نحو هدف)، العام (التفاعل مع الجمهور).",
+          "العوامل المؤثرة على التواصل: النمو، الجنس، القيم، المساحة الشخصية، البيئة، والمواقف بين الأشخاص.",
+          "مناطق المساحة الشخصية: حميمة (0-1.5 قدم)، شخصية (1.5-4 قدم)، اجتماعية (4-12 قدم)، عامة (12+ قدم)."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Intrapersonal",
+            "definition": "Communication within an individual - self-talk"
+          },
+          {
+            "term": "Interpersonal",
+            "definition": "One-on-one interaction, most used in nursing"
+          },
+          {
+            "term": "Small-group",
+            "definition": "Goal-directed interaction with small number of people"
+          },
+          {
+            "term": "Public",
+            "definition": "Interaction with an audience"
+          },
+          {
+            "term": "Personal Space",
+            "definition": "Preferred distance in interactions with others"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "داخل الشخص",
+            "definition": "التواصل داخل الفرد - الحديث الذاتي"
+          },
+          {
+            "term": "بين الأشخاص",
+            "definition": "التفاعل الفردي، الأكثر استخداماً في التمريض"
+          },
+          {
+            "term": "المجموعة الصغيرة",
+            "definition": "التفاعل الموجه نحو هدف مع عدد صغير من الناس"
+          },
+          {
+            "term": "العام",
+            "definition": "التفاعل مع جمهور"
+          },
+          {
+            "term": "المساحة الشخصية",
+            "definition": "المسافة المفضلة في التفاعلات مع الآخرين"
+          }
+        ],
+        "medicalTerms": [],
+        "clinicalConnection": {
+          "title": "Respecting Personal Space",
+          "description": "During physical assessment, you enter the patient's intimate space. Explain what you're doing before touching the patient. Be aware that personal space preferences vary by culture - some patients may need more distance to feel comfortable."
+        },
+        "clinicalConnectionAr": {
+          "title": "احترام المساحة الشخصية",
+          "description": "أثناء الفحص الجسدي، تدخل المساحة الحميمة للمريض. اشرح ما تفعله قبل لمس المريض. كن على دراية أن تفضيلات المساحة الشخصية تختلف حسب الثقافة - بعض المرضى قد يحتاجون مسافة أكبر ليشعروا بالراحة."
+        },
+        "quickReview": [
+          "4 Levels: Intrapersonal, Interpersonal, Small-group, Public",
+          "Interpersonal is most used in nursing practice",
+          "Personal Space: Intimate (0-1.5ft), Personal (1.5-4ft), Social (4-12ft), Public (12+ft)",
+          "Factors: Development, Gender, Values, Space, Environment, Attitudes"
+        ],
+        "quickReviewAr": [
+          "4 مستويات: داخل الشخص، بين الأشخاص، المجموعة الصغيرة، العام",
+          "بين الأشخاص هو الأكثر استخداماً في ممارسة التمريض",
+          "المساحة الشخصية: حميمة (0-1.5قدم)، شخصية (1.5-4قدم)، اجتماعية (4-12قدم)، عامة (12+قدم)",
+          "العوامل: النمو، الجنس، القيم، المساحة، البيئة، المواقف"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Which level of communication is most frequently used in nursing?",
+            "options": [
+              "Intrapersonal",
+              "Interpersonal",
+              "Small-group",
+              "Public"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Interpersonal communication (one-on-one) is most frequently used in nursing situations."
+          },
+          {
+            "id": "q2",
+            "question": "Personal space zone is:",
+            "options": [
+              "0 to 1.5 feet",
+              "1.5 to 4 feet",
+              "4 to 12 feet",
+              "12+ feet"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Personal space is 1.5 to 4 feet. Intimate is 0-1.5 ft, Social is 4-12 ft, Public is 12+ ft."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "أي مستوى من التواصل يستخدم بشكل أكثر تكراراً في التمريض؟",
+            "options": [
+              "داخل الشخص",
+              "بين الأشخاص",
+              "المجموعة الصغيرة",
+              "العام"
+            ],
+            "correctAnswer": 1,
+            "explanation": "التواصل بين الأشخاص (فردي) هو الأكثر استخداماً في مواقف التمريض."
+          },
+          {
+            "id": "q2",
+            "question": "منطقة المساحة الشخصية هي:",
+            "options": [
+              "0 إلى 1.5 قدم",
+              "1.5 إلى 4 أقدام",
+              "4 إلى 12 قدم",
+              "12+ قدم"
+            ],
+            "correctAnswer": 1,
+            "explanation": "المساحة الشخصية هي 1.5 إلى 4 أقدام. الحميمة 0-1.5 قدم، الاجتماعية 4-12 قدم، العامة 12+ قدم."
+          }
+        ]
+      },
+      {
+        "id": "ch2-l4",
+        "title": "Therapeutic Communication Techniques",
+        "titleAr": "تقنيات التواصل العلاجي",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Define therapeutic communication"
+          },
+          {
+            "id": "obj2",
+            "text": "List and describe 14 therapeutic techniques"
+          },
+          {
+            "id": "obj3",
+            "text": "Apply techniques in clinical scenarios"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تعريف التواصل العلاجي"
+          },
+          {
+            "id": "obj2",
+            "text": "سرد ووصف 14 تقنية علاجية"
+          },
+          {
+            "id": "obj3",
+            "text": "تطبيق التقنيات في السيناريوهات السريرية"
+          }
+        ],
+        "content": [
+          "Therapeutic Communication Techniques encourage expression of feelings and convey acceptance and respect.",
+          "Key techniques include: Active Listening, Sharing Observations, Sharing Empathy, Sharing Hope, Sharing Humor, Sharing Feelings, Using Touch, Using Silence.",
+          "Additional techniques: Providing Information, Clarifying, Focusing, Paraphrasing, Asking Relevant Questions, Summarizing."
+        ],
+        "contentAr": [
+          "تقنيات التواصل العلاجي تشجع التعبير عن المشاعر وتنقل القبول والاحترام.",
+          "التقنيات الرئيسية تشمل: الاستماع الفعال، مشاركة الملاحظات، مشاركة التعاطف، مشاركة الأمل، مشاركة الفكاهة، مشاركة المشاعر، استخدام اللمس، استخدام الصمت.",
+          "تقنيات إضافية: تقديم المعلومات، التوضيح، التركيز، إعادة الصياغة، طرح الأسئلة ذات الصلة، التلخيص."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Active Listening",
+            "definition": "Being attentive to what patient says verbally and nonverbally"
+          },
+          {
+            "term": "Empathy",
+            "definition": "Ability to understand and accept another's reality"
+          },
+          {
+            "term": "Silence",
+            "definition": "Allows patient to think and gain insight"
+          },
+          {
+            "term": "Clarifying",
+            "definition": "Restating unclear message to check understanding"
+          },
+          {
+            "term": "Paraphrasing",
+            "definition": "Restating message briefly in your own words"
+          },
+          {
+            "term": "Summarizing",
+            "definition": "Concise review of key aspects of interaction"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "الاستماع الفعال",
+            "definition": "الانتباه لما يقوله المريض لفظياً وغير لفظي"
+          },
+          {
+            "term": "التعاطف",
+            "definition": "القدرة على فهم وقبول واقع الآخر"
+          },
+          {
+            "term": "الصمت",
+            "definition": "يسمح للمريض بالتفكير واكتساب البصيرة"
+          },
+          {
+            "term": "التوضيح",
+            "definition": "إعادة صياغة الرسالة غير الواضحة للتحقق من الفهم"
+          },
+          {
+            "term": "إعادة الصياغة",
+            "definition": "إعادة صياغة الرسالة بإيجاز بكلماتك الخاصة"
+          },
+          {
+            "term": "التلخيص",
+            "definition": "مراجعة موجزة للجوانب الرئيسية للتفاعل"
+          }
+        ],
+        "medicalTerms": [],
+        "clinicalConnection": {
+          "title": "Therapeutic Response",
+          "description": "An elderly patient with dementia says 'I will wait for my husband. We will eat together.' A therapeutic response is: 'What made you say that your husband is alive?' This uses clarification to understand the patient's reality without causing distress."
+        },
+        "clinicalConnectionAr": {
+          "title": "الاستجابة العلاجية",
+          "description": "مريض مسن يعاني من الخرف يقول 'سأنتظر زوجي. سنأكل معاً.' الاستجابة العلاجية هي: 'ما الذي جعلك تقول أن زوجك على قيد الحياة؟' هذا يستخدم التوضيح لفهم واقع المريض دون التسبب في ضيق."
+        },
+        "quickReview": [
+          "14 Therapeutic Techniques for effective patient communication",
+          "Active Listening is foundational - attend to verbal and nonverbal cues",
+          "Silence can be therapeutic - gives patient time to think",
+          "Always use clarification to ensure accurate understanding"
+        ],
+        "quickReviewAr": [
+          "14 تقنية علاجية للتواصل الفعال مع المريض",
+          "الاستماع الفعال أساسي - انتبه للإشارات اللفظية وغير اللفظية",
+          "الصمت يمكن أن يكون علاجياً - يعطي المريض وقتاً للتفكير",
+          "استخدم التوضيح دائماً لضمان الفهم الدقيق"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "A technique that involves restating the patient's message in your own words is:",
+            "options": [
+              "Active Listening",
+              "Clarifying",
+              "Paraphrasing",
+              "Focusing"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Paraphrasing is restating another's message more briefly using your own words."
+          },
+          {
+            "id": "q2",
+            "question": "Which technique encourages patients to talk by allowing them time to think?",
+            "options": [
+              "Using Touch",
+              "Using Silence",
+              "Sharing Humor",
+              "Providing Information"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Using silence prompts some people to talk and allows patients to think and gain insight."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "التقنية التي تتضمن إعادة صياغة رسالة المريض بكلماتك الخاصة هي:",
+            "options": [
+              "الاستماع الفعال",
+              "التوضيح",
+              "إعادة الصياغة",
+              "التركيز"
+            ],
+            "correctAnswer": 2,
+            "explanation": "إعادة الصياغة هي إعادة صياغة رسالة الآخر بإيجاز باستخدام كلماتك الخاصة."
+          },
+          {
+            "id": "q2",
+            "question": "أي تقنية تشجع المرضى على التحدث بإعطائهم وقتاً للتفكير؟",
+            "options": [
+              "استخدام اللمس",
+              "استخدام الصمت",
+              "مشاركة الفكاهة",
+              "تقديم المعلومات"
+            ],
+            "correctAnswer": 1,
+            "explanation": "استخدام الصمت يحث بعض الناس على التحدث ويسمح للمرضى بالتفكير واكتساب البصيرة."
+          }
+        ]
+      }
+    ],
+    "summary": [
+      "Communication has 5 components: Sender, Message, Channel, Receiver, Feedback",
+      "Verbal (words) and Nonverbal (body language) work together",
+      "4 Levels: Intrapersonal, Interpersonal, Small-group, Public",
+      "Personal space varies: Intimate, Personal, Social, Public zones",
+      "14 Therapeutic techniques including Active Listening, Empathy, Silence, Clarifying"
+    ],
+    "summaryAr": [
+      "التواصل له 5 مكونات: المرسل، الرسالة، القناة، المستقبل، التغذية الراجعة",
+      "اللفظي (الكلمات) وغير اللفظي (لغة الجسد) يعملان معاً",
+      "4 مستويات: داخل الشخص، بين الأشخاص، المجموعة الصغيرة، العام",
+      "المساحة الشخصية تتنوع: مناطق حميمة، شخصية، اجتماعية، عامة",
+      "14 تقنية علاجية تشمل الاستماع الفعال والتعاطف والصمت والتوضيح"
+    ],
+    "examPoints": [
+      "Know the 5 components of communication",
+      "Differentiate verbal vs nonverbal communication",
+      "Memorize the 4 personal space zones with distances",
+      "Understand the 14 therapeutic communication techniques",
+      "Recognize therapeutic vs non-therapeutic responses"
+    ],
+    "examPointsAr": [
+      "اعرف مكونات التواصل الخمسة",
+      "فرق بين التواصل اللفظي وغير اللفظي",
+      "احفظ مناطق المساحة الشخصية الأربع مع المسافات",
+      "افهم تقنيات التواصل العلاجي الـ 14",
+      "ميز بين الاستجابات العلاجية وغير العلاجية"
+    ]
+  },
+  {
+    "id": "ch3",
+    "number": 3,
+    "title": "Critical Thinking in Nursing Practice",
+    "titleAr": "التفكير النقدي في ممارسة التمريض",
+    "description": "Develop critical thinking skills and master the nursing process",
+    "descriptionAr": "طور مهارات التفكير النقدي وأتقن العملية التمريضية",
+    "icon": "Brain",
+    "color": "from-emerald-500 to-emerald-600",
+    "lessons": [
+      {
+        "id": "ch3-l1",
+        "title": "Critical Thinking Skills",
+        "titleAr": "مهارات التفكير النقدي",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Define critical thinking in nursing context"
+          },
+          {
+            "id": "obj2",
+            "text": "Identify the 12 critical thinking skills"
+          },
+          {
+            "id": "obj3",
+            "text": "Apply critical thinking in clinical decision making"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تعريف التفكير النقدي في سياق التمريض"
+          },
+          {
+            "id": "obj2",
+            "text": "تحديد مهارات التفكير النقدي الـ 12"
+          },
+          {
+            "id": "obj3",
+            "text": "تطبيق التفكير النقدي في صنع القرار السريري"
+          }
+        ],
+        "content": [
+          "Critical thinking is an active form of thinking used within healthcare by nurses. It involves analyzing information to formulate the best course of action objectively.",
+          "12 Critical Thinking Skills: Recognition, Questioning, Information gathering, Evaluation, Communication, Observation, Analysis, Interpretation, Reflection, Inference, Problem-solving, Decision-making.",
+          "Critical thinking is applied through the nursing process for solving patient problems with creativity."
+        ],
+        "contentAr": [
+          "التفكير النقدي هو شكل نشط من التفكير يستخدم في الرعاية الصحية من قبل الممرضين. يتضمن تحليل المعلومات لصياغة أفضل مسار للعمل بموضوعية.",
+          "12 مهارة للتفكير النقدي: الإدراك، التساؤل، جمع المعلومات، التقييم، التواصل، الملاحظة، التحليل، التفسير، التأمل، الاستنتاج، حل المشكلات، صنع القرار.",
+          "يُطبق التفكير النقدي من خلال العملية التمريضية لحل مشاكل المريض بإبداع."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Critical Thinking",
+            "definition": "Active thinking that analyzes data to determine best action"
+          },
+          {
+            "term": "Recognition",
+            "definition": "Understanding that there is a problem"
+          },
+          {
+            "term": "Inference",
+            "definition": "Drawing conclusions based on gathered information"
+          },
+          {
+            "term": "Reflection",
+            "definition": "Looking back on decisions to evaluate soundness"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "التفكير النقدي",
+            "definition": "تفكير نشط يحلل البيانات لتحديد أفضل إجراء"
+          },
+          {
+            "term": "الإدراك",
+            "definition": "فهم وجود مشكلة"
+          },
+          {
+            "term": "الاستنتاج",
+            "definition": "استخلاص النتائج بناءً على المعلومات المجمعة"
+          },
+          {
+            "term": "التأمل",
+            "definition": "النظر للوراء في القرارات لتقييم سلامتها"
+          }
+        ],
+        "medicalTerms": [],
+        "clinicalConnection": {
+          "title": "Critical Thinking in Action",
+          "description": "A patient's BP suddenly drops. You use Recognition (identify the problem), Observation (check other vitals), Analysis (compare to baseline), Inference (possible causes), and Decision-making (notify physician, elevate legs) - all within seconds."
+        },
+        "clinicalConnectionAr": {
+          "title": "التفكير النقدي في العمل",
+          "description": "ينخفض ضغط دم المريض فجأة. تستخدم الإدراك (تحديد المشكلة)، الملاحظة (فحص العلامات الحيوية الأخرى)، التحليل (المقارنة مع خط الأساس)، الاستنتاج (الأسباب المحتملة)، وصنع القرار (إخطار الطبيب، رفع الساقين) - كل ذلك في ثوان."
+        },
+        "quickReview": [
+          "Critical thinking = analyzing data objectively for best decisions",
+          "12 Skills: Recognition → Questioning → Gathering → Evaluation → Communication → Observation → Analysis → Interpretation → Reflection → Inference → Problem-solving → Decision-making",
+          "Applied through the nursing process",
+          "Helps challenge assumptions and find new solutions"
+        ],
+        "quickReviewAr": [
+          "التفكير النقدي = تحليل البيانات بموضوعية لأفضل القرارات",
+          "12 مهارة: الإدراك ← التساؤل ← الجمع ← التقييم ← التواصل ← الملاحظة ← التحليل ← التفسير ← التأمل ← الاستنتاج ← حل المشكلات ← صنع القرار",
+          "يُطبق من خلال العملية التمريضية",
+          "يساعد في تحدي الافتراضات وإيجاد حلول جديدة"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Which critical thinking skill involves drawing conclusions from gathered information?",
+            "options": [
+              "Recognition",
+              "Analysis",
+              "Inference",
+              "Observation"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Inference is when the nurse draws a conclusion based on the information gathered."
+          },
+          {
+            "id": "q2",
+            "question": "Critical thinking in nursing is BEST described as:",
+            "options": [
+              "Following physician orders exactly",
+              "Analyzing data to determine best action",
+              "Memorizing procedures",
+              "Avoiding difficult decisions"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Critical thinking involves taking data and analyzing it to formulate the best course of action objectively."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "أي مهارة تفكير نقدي تتضمن استخلاص النتائج من المعلومات المجمعة؟",
+            "options": [
+              "الإدراك",
+              "التحليل",
+              "الاستنتاج",
+              "الملاحظة"
+            ],
+            "correctAnswer": 2,
+            "explanation": "الاستنتاج هو عندما يستخلص الممرض نتيجة بناءً على المعلومات المجمعة."
+          },
+          {
+            "id": "q2",
+            "question": "التفكير النقدي في التمريض يوصف بشكل أفضل بأنه:",
+            "options": [
+              "اتباع أوامر الطبيب بالضبط",
+              "تحليل البيانات لتحديد أفضل إجراء",
+              "حفظ الإجراءات",
+              "تجنب القرارات الصعبة"
+            ],
+            "correctAnswer": 1,
+            "explanation": "التفكير النقدي يتضمن أخذ البيانات وتحليلها لصياغة أفضل مسار للعمل بموضوعية."
+          }
+        ]
+      },
+      {
+        "id": "ch3-l2",
+        "title": "The Nursing Process",
+        "titleAr": "العملية التمريضية",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Define the nursing process"
+          },
+          {
+            "id": "obj2",
+            "text": "List the 5 phases of the nursing process"
+          },
+          {
+            "id": "obj3",
+            "text": "Describe characteristics and purpose of nursing process"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تعريف العملية التمريضية"
+          },
+          {
+            "id": "obj2",
+            "text": "سرد مراحل العملية التمريضية الخمس"
+          },
+          {
+            "id": "obj3",
+            "text": "وصف خصائص والغرض من العملية التمريضية"
+          }
+        ],
+        "content": [
+          "The nursing process is a systematic, rational method of planning and providing nursing care defined by ANA.",
+          "5 Phases: Assessment, Diagnosis, Planning, Implementation, Evaluation (ADPIE).",
+          "Characteristics: Continuous & Dynamic, Patient-centered, Problem-solving focused, Interpersonal & Collaborative, Universally applicable."
+        ],
+        "contentAr": [
+          "العملية التمريضية هي طريقة منهجية وعقلانية للتخطيط وتقديم الرعاية التمريضية معرفة من قبل ANA.",
+          "5 مراحل: التقييم، التشخيص، التخطيط، التنفيذ، التقييم النهائي (ADPIE).",
+          "الخصائص: مستمرة وديناميكية، متمحورة حول المريض، مركزة على حل المشكلات، بين شخصية وتعاونية، قابلة للتطبيق عالمياً."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Nursing Process",
+            "definition": "Systematic method for planning and providing nursing care"
+          },
+          {
+            "term": "ADPIE",
+            "definition": "Assessment, Diagnosis, Planning, Implementation, Evaluation"
+          },
+          {
+            "term": "Cyclical Process",
+            "definition": "Components follow logical sequence but may overlap"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "العملية التمريضية",
+            "definition": "طريقة منهجية للتخطيط وتقديم الرعاية التمريضية"
+          },
+          {
+            "term": "ADPIE",
+            "definition": "التقييم، التشخيص، التخطيط، التنفيذ، التقييم النهائي"
+          },
+          {
+            "term": "عملية دورية",
+            "definition": "المكونات تتبع تسلسلاً منطقياً لكن قد تتداخل"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "NANDA",
+            "definition": "North American Nursing Diagnosis Association"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "ADPIE in Practice",
+          "description": "Patient with fever: ASSESS (temp 38.5°C), DIAGNOSE (hyperthermia related to infection), PLAN (goal: normal temp in 24hrs), IMPLEMENT (antipyretics, fluids, cooling measures), EVALUATE (temp returned to normal - goal met)."
+        },
+        "clinicalConnectionAr": {
+          "title": "ADPIE في الممارسة",
+          "description": "مريض مصاب بحمى: التقييم (درجة حرارة 38.5°م)، التشخيص (ارتفاع الحرارة مرتبط بالعدوى)، التخطيط (الهدف: درجة حرارة طبيعية في 24 ساعة)، التنفيذ (خافضات حرارة، سوائل، تدابير تبريد)، التقييم النهائي (عادت الحرارة للطبيعي - تحقق الهدف)."
+        },
+        "quickReview": [
+          "Nursing Process = ADPIE",
+          "Cyclical - can return to any phase as needed",
+          "Patient-centered and problem-solving focused",
+          "Purpose: Identify needs, establish plans, deliver care"
+        ],
+        "quickReviewAr": [
+          "العملية التمريضية = ADPIE",
+          "دورية - يمكن العودة لأي مرحلة حسب الحاجة",
+          "متمحورة حول المريض ومركزة على حل المشكلات",
+          "الغرض: تحديد الاحتياجات، وضع الخطط، تقديم الرعاية"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "What does ADPIE stand for in the nursing process?",
+            "options": [
+              "Action, Diagnosis, Planning, Intervention, Evaluation",
+              "Assessment, Diagnosis, Planning, Implementation, Evaluation",
+              "Analysis, Documentation, Planning, Implementation, Examination",
+              "Assessment, Documentation, Planning, Intervention, Examination"
+            ],
+            "correctAnswer": 1,
+            "explanation": "ADPIE stands for Assessment, Diagnosis, Planning, Implementation, Evaluation."
+          },
+          {
+            "id": "q2",
+            "question": "Which characteristic of the nursing process means it continues throughout patient care?",
+            "options": [
+              "Patient-centered",
+              "Universal applicability",
+              "Continuous & Dynamic",
+              "Collaborative"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The nursing process is continuous and dynamic, meaning it continues throughout patient care."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "ماذا يمثل ADPIE في العملية التمريضية؟",
+            "options": [
+              "العمل، التشخيص، التخطيط، التدخل، التقييم",
+              "التقييم، التشخيص، التخطيط، التنفيذ، التقييم النهائي",
+              "التحليل، التوثيق، التخطيط، التنفيذ، الفحص",
+              "التقييم، التوثيق، التخطيط، التدخل، الفحص"
+            ],
+            "correctAnswer": 1,
+            "explanation": "ADPIE يمثل التقييم، التشخيص، التخطيط، التنفيذ، التقييم النهائي."
+          },
+          {
+            "id": "q2",
+            "question": "أي خاصية من خصائص العملية التمريضية تعني أنها تستمر طوال رعاية المريض؟",
+            "options": [
+              "متمحورة حول المريض",
+              "القابلية للتطبيق العالمي",
+              "مستمرة وديناميكية",
+              "تعاونية"
+            ],
+            "correctAnswer": 2,
+            "explanation": "العملية التمريضية مستمرة وديناميكية، مما يعني أنها تستمر طوال رعاية المريض."
+          }
+        ]
+      },
+      {
+        "id": "ch3-l3",
+        "title": "Nursing Diagnosis",
+        "titleAr": "التشخيص التمريضي",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Define nursing diagnosis according to NANDA"
+          },
+          {
+            "id": "obj2",
+            "text": "Differentiate between medical and nursing diagnosis"
+          },
+          {
+            "id": "obj3",
+            "text": "Identify the 5 types of nursing diagnoses"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تعريف التشخيص التمريضي وفقاً لـ NANDA"
+          },
+          {
+            "id": "obj2",
+            "text": "التفريق بين التشخيص الطبي والتمريضي"
+          },
+          {
+            "id": "obj3",
+            "text": "تحديد أنواع التشخيصات التمريضية الخمسة"
+          }
+        ],
+        "content": [
+          "NANDA defines nursing diagnosis as: 'a clinical judgment concerning a human response to health conditions/life processes.'",
+          "5 Types: Actual (present problem), Risk/Potential (problem may develop), Wellness (readiness for enhancement), Possible (unclear evidence), Syndrome (cluster of diagnoses).",
+          "Components of NANDA diagnosis: Problem (P) + Etiology (E) + Signs/Symptoms (S) = PES format."
+        ],
+        "contentAr": [
+          "تعرف NANDA التشخيص التمريضي بأنه: 'حكم سريري يتعلق باستجابة بشرية للحالات الصحية/عمليات الحياة.'",
+          "5 أنواع: فعلي (مشكلة حالية)، خطر/محتمل (قد تتطور مشكلة)، صحي (استعداد للتحسين)، ممكن (دليل غير واضح)، متلازمة (مجموعة تشخيصات).",
+          "مكونات تشخيص NANDA: المشكلة (P) + السبب (E) + العلامات/الأعراض (S) = صيغة PES."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Actual Diagnosis",
+            "definition": "Problem present at time of assessment"
+          },
+          {
+            "term": "Risk Diagnosis",
+            "definition": "Problem doesn't exist but risk factors present"
+          },
+          {
+            "term": "Wellness Diagnosis",
+            "definition": "Readiness for enhancement"
+          },
+          {
+            "term": "PES Format",
+            "definition": "Problem + Etiology + Signs/Symptoms"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "التشخيص الفعلي",
+            "definition": "مشكلة موجودة وقت التقييم"
+          },
+          {
+            "term": "تشخيص الخطر",
+            "definition": "المشكلة غير موجودة لكن عوامل الخطر موجودة"
+          },
+          {
+            "term": "التشخيص الصحي",
+            "definition": "الاستعداد للتحسين"
+          },
+          {
+            "term": "صيغة PES",
+            "definition": "المشكلة + السبب + العلامات/الأعراض"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "NANDA",
+            "definition": "North American Nursing Diagnosis Association"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "Writing a Nursing Diagnosis",
+          "description": "Example: 'Acute pain (P) related to tissue ischemia (E) as evidenced by patient statement of severe chest pain and pain scale 8/10 (S).' This PES format creates a complete nursing diagnosis."
+        },
+        "clinicalConnectionAr": {
+          "title": "كتابة تشخيص تمريضي",
+          "description": "مثال: 'ألم حاد (P) مرتبط بنقص تروية الأنسجة (E) كما يتضح من قول المريض بألم شديد في الصدر ومقياس الألم 8/10 (S).' هذه صيغة PES تنشئ تشخيصاً تمريضياً كاملاً."
+        },
+        "quickReview": [
+          "Nursing diagnosis focuses on patient responses, NOT diseases",
+          "Medical diagnosis = disease | Nursing diagnosis = human response",
+          "5 Types: Actual, Risk, Wellness, Possible, Syndrome",
+          "PES Format: Problem + Etiology + Signs/Symptoms"
+        ],
+        "quickReviewAr": [
+          "التشخيص التمريضي يركز على استجابات المريض، وليس الأمراض",
+          "التشخيص الطبي = المرض | التشخيص التمريضي = الاستجابة البشرية",
+          "5 أنواع: فعلي، خطر، صحي، ممكن، متلازمة",
+          "صيغة PES: المشكلة + السبب + العلامات/الأعراض"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "A nursing diagnosis that indicates a problem may develop if care is not given is:",
+            "options": [
+              "Actual diagnosis",
+              "Risk diagnosis",
+              "Wellness diagnosis",
+              "Syndrome diagnosis"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Risk (Potential) diagnosis indicates a problem may develop if adequate care is not given."
+          },
+          {
+            "id": "q2",
+            "question": "The 'E' in PES format stands for:",
+            "options": [
+              "Evaluation",
+              "Evidence",
+              "Etiology",
+              "Examination"
+            ],
+            "correctAnswer": 2,
+            "explanation": "E stands for Etiology - the cause or contributing factors of the problem."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "التشخيص التمريضي الذي يشير إلى أن مشكلة قد تتطور إذا لم تُقدم الرعاية هو:",
+            "options": [
+              "تشخيص فعلي",
+              "تشخيص خطر",
+              "تشخيص صحي",
+              "تشخيص متلازمة"
+            ],
+            "correctAnswer": 1,
+            "explanation": "تشخيص الخطر (المحتمل) يشير إلى أن مشكلة قد تتطور إذا لم تُقدم رعاية كافية."
+          },
+          {
+            "id": "q2",
+            "question": "الـ 'E' في صيغة PES تمثل:",
+            "options": [
+              "التقييم",
+              "الدليل",
+              "السبب",
+              "الفحص"
+            ],
+            "correctAnswer": 2,
+            "explanation": "E تمثل Etiology (السبب) - سبب أو العوامل المساهمة في المشكلة."
+          }
+        ]
+      }
+    ],
+    "summary": [
+      "Critical thinking involves 12 skills from recognition to decision-making",
+      "Nursing process = ADPIE (Assessment, Diagnosis, Planning, Implementation, Evaluation)",
+      "The process is cyclical, patient-centered, and continuous",
+      "Nursing diagnosis uses PES format: Problem + Etiology + Signs/Symptoms",
+      "5 types of diagnoses: Actual, Risk, Wellness, Possible, Syndrome"
+    ],
+    "summaryAr": [
+      "التفكير النقدي يتضمن 12 مهارة من الإدراك إلى صنع القرار",
+      "العملية التمريضية = ADPIE (التقييم، التشخيص، التخطيط، التنفيذ، التقييم النهائي)",
+      "العملية دورية، متمحورة حول المريض، ومستمرة",
+      "التشخيص التمريضي يستخدم صيغة PES: المشكلة + السبب + العلامات/الأعراض",
+      "5 أنواع من التشخيصات: فعلي، خطر، صحي، ممكن، متلازمة"
+    ],
+    "examPoints": [
+      "Know the 5 phases of nursing process (ADPIE)",
+      "Understand the difference between medical and nursing diagnosis",
+      "Memorize the 5 types of nursing diagnoses",
+      "Be able to write a diagnosis in PES format",
+      "Know the 12 critical thinking skills"
+    ],
+    "examPointsAr": [
+      "اعرف مراحل العملية التمريضية الخمس (ADPIE)",
+      "افهم الفرق بين التشخيص الطبي والتمريضي",
+      "احفظ أنواع التشخيصات التمريضية الخمسة",
+      "كن قادراً على كتابة تشخيص بصيغة PES",
+      "اعرف مهارات التفكير النقدي الـ 12"
+    ]
+  },
+  {
+    "id": "ch4",
+    "number": 4,
+    "title": "Health Assessment & Physical Examination",
+    "titleAr": "التقييم الصحي والفحص البدني",
+    "description": "Learn about nursing assessment types, data collection, documentation, and physical examination techniques",
+    "descriptionAr": "تعرف على أنواع التقييم التمريضي وجمع البيانات والتوثيق وتقنيات الفحص البدني",
+    "icon": "Stethoscope",
+    "color": "from-teal-500 to-teal-600",
+    "lessons": [
+      {
+        "id": "ch4-l1",
+        "title": "Assessment: Definition, Purpose & Types",
+        "titleAr": "التقييم: التعريف والغرض والأنواع",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Define nursing assessment"
+          },
+          {
+            "id": "obj2",
+            "text": "Identify the purpose of assessments"
+          },
+          {
+            "id": "obj3",
+            "text": "Differentiate between types of assessment"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تعريف التقييم التمريضي"
+          },
+          {
+            "id": "obj2",
+            "text": "تحديد الغرض من التقييمات"
+          },
+          {
+            "id": "obj3",
+            "text": "التمييز بين أنواع التقييم"
+          }
+        ],
+        "content": [
+          "Assessment is a key component of nursing practice, required for planning and provision of patient and family centered care. Assessment can be called the 'base or foundation' of the nursing process.",
+          "Assessment is a process where a nurse gathers, sorts and analyzes a patient's health information using evidence informed tools to learn more about a patient's overall health, symptoms and concerns.",
+          "Purpose of Assessments: Obtain baseline data, identify and manage patient problems (actual and potential), evaluate the effectiveness of nursing care, enhance the nurse-patient relationship, and make clinical judgments.",
+          "Types of Assessment: 1) Initial comprehensive assessment – provides baseline data including complete health history, general appearance, physical examination and vital signs. 2) Problem Focused or Ongoing assessment – limited to potential health care risks or a particular need; follow-up or monitoring of specific problems. 3) Emergency assessment – primary assessment includes Airway, Breathing, Circulation and Disability (ABCD) for determining life threatening problems. 4) Time-lapsed Reassessment – takes place after several months to evaluate any changes in the client's health status."
+        ],
+        "contentAr": [
+          "التقييم هو عنصر أساسي في الممارسة التمريضية، مطلوب لتخطيط وتقديم الرعاية المتمحورة حول المريض والأسرة. يمكن تسمية التقييم بـ 'قاعدة أو أساس' العملية التمريضية.",
+          "التقييم هو عملية يقوم فيها الممرض بجمع وفرز وتحليل المعلومات الصحية للمريض باستخدام أدوات مبنية على الأدلة لمعرفة المزيد عن الصحة العامة للمريض وأعراضه ومخاوفه.",
+          "الغرض من التقييمات: الحصول على بيانات أساسية، تحديد وإدارة مشاكل المريض (الفعلية والمحتملة)، تقييم فعالية الرعاية التمريضية، تعزيز العلاقة بين الممرض والمريض، واتخاذ الأحكام السريرية.",
+          "أنواع التقييم: 1) التقييم الشامل الأولي – يوفر بيانات أساسية تشمل التاريخ الصحي الكامل والمظهر العام والفحص البدني والعلامات الحيوية. 2) التقييم المركز أو المستمر – محدود بالمخاطر الصحية المحتملة أو حاجة معينة. 3) تقييم الطوارئ – يشمل مجرى الهواء والتنفس والدورة الدموية والإعاقة (ABCD). 4) إعادة التقييم بعد فترة – يتم بعد عدة أشهر لتقييم أي تغييرات في الحالة الصحية."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Assessment",
+            "definition": "Process of gathering, sorting and analyzing patient health information"
+          },
+          {
+            "term": "Initial Comprehensive Assessment",
+            "definition": "Complete baseline data collection upon admission to a health care agency"
+          },
+          {
+            "term": "Problem Focused Assessment",
+            "definition": "Limited assessment focused on specific health risks or needs"
+          },
+          {
+            "term": "Emergency Assessment",
+            "definition": "ABCD assessment for life-threatening problems"
+          },
+          {
+            "term": "Time-lapsed Reassessment",
+            "definition": "Periodic reassessment to compare current status to baseline data"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "التقييم",
+            "definition": "عملية جمع وفرز وتحليل المعلومات الصحية للمريض"
+          },
+          {
+            "term": "التقييم الشامل الأولي",
+            "definition": "جمع بيانات أساسية كاملة عند القبول في مؤسسة الرعاية الصحية"
+          },
+          {
+            "term": "التقييم المركز",
+            "definition": "تقييم محدود يركز على مخاطر أو احتياجات صحية محددة"
+          },
+          {
+            "term": "تقييم الطوارئ",
+            "definition": "تقييم ABCD للمشاكل المهددة للحياة"
+          },
+          {
+            "term": "إعادة التقييم بعد فترة",
+            "definition": "إعادة تقييم دورية لمقارنة الحالة الحالية بالبيانات الأساسية"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "ABCD",
+            "definition": "Airway, Breathing, Circulation, Disability"
+          },
+          {
+            "term": "Baseline Data",
+            "definition": "Initial set of observations used for comparison"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "Assessment Types in Practice",
+          "description": "When a patient is admitted to the hospital, you perform an initial comprehensive assessment. During each shift, you perform ongoing assessments. If the patient suddenly becomes unresponsive, you perform an emergency ABCD assessment."
+        },
+        "clinicalConnectionAr": {
+          "title": "أنواع التقييم في الممارسة",
+          "description": "عند قبول المريض في المستشفى، تقوم بإجراء تقييم شامل أولي. خلال كل وردية، تقوم بتقييمات مستمرة. إذا أصبح المريض فجأة غير مستجيب، تقوم بتقييم طوارئ ABCD."
+        },
+        "quickReview": [
+          "Assessment is the foundation of the nursing process",
+          "4 types: Initial comprehensive, Problem focused, Emergency (ABCD), Time-lapsed",
+          "Purpose includes baseline data, problem identification, and clinical judgment",
+          "Assessment is dynamic and continues with each nurse-client interaction"
+        ],
+        "quickReviewAr": [
+          "التقييم هو أساس العملية التمريضية",
+          "4 أنواع: شامل أولي، مركز، طوارئ (ABCD)، إعادة تقييم بعد فترة",
+          "الغرض يشمل البيانات الأساسية وتحديد المشاكل والحكم السريري",
+          "التقييم ديناميكي ومستمر مع كل تفاعل بين الممرض والمريض"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Which type of assessment is performed upon admission to a healthcare agency?",
+            "options": [
+              "Emergency assessment",
+              "Initial comprehensive assessment",
+              "Problem focused assessment",
+              "Time-lapsed reassessment"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Initial comprehensive assessment provides baseline data including complete health history, physical examination and vital signs upon admission."
+          },
+          {
+            "id": "q2",
+            "question": "Emergency assessment primarily focuses on:",
+            "options": [
+              "Complete health history",
+              "Airway, Breathing, Circulation, Disability",
+              "Patient education needs",
+              "Nutritional status"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Emergency assessment uses the ABCD approach to determine life-threatening problems."
+          },
+          {
+            "id": "q3",
+            "question": "Assessment in the nursing process is:",
+            "options": [
+              "Done only once at admission",
+              "Static and unchanging",
+              "Dynamic and continuous",
+              "Only performed by physicians"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Assessment is dynamic and continues with each nurse-client interaction throughout the care process."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "أي نوع من التقييم يتم عند القبول في مؤسسة الرعاية الصحية؟",
+            "options": [
+              "تقييم الطوارئ",
+              "التقييم الشامل الأولي",
+              "التقييم المركز",
+              "إعادة التقييم بعد فترة"
+            ],
+            "correctAnswer": 1,
+            "explanation": "التقييم الشامل الأولي يوفر بيانات أساسية تشمل التاريخ الصحي الكامل والفحص البدني والعلامات الحيوية عند القبول."
+          },
+          {
+            "id": "q2",
+            "question": "تقييم الطوارئ يركز بشكل أساسي على:",
+            "options": [
+              "التاريخ الصحي الكامل",
+              "مجرى الهواء والتنفس والدورة الدموية والإعاقة",
+              "احتياجات تثقيف المريض",
+              "الحالة الغذائية"
+            ],
+            "correctAnswer": 1,
+            "explanation": "تقييم الطوارئ يستخدم نهج ABCD لتحديد المشاكل المهددة للحياة."
+          },
+          {
+            "id": "q3",
+            "question": "التقييم في العملية التمريضية هو:",
+            "options": [
+              "يتم مرة واحدة فقط عند القبول",
+              "ثابت وغير متغير",
+              "ديناميكي ومستمر",
+              "يتم فقط بواسطة الأطباء"
+            ],
+            "correctAnswer": 2,
+            "explanation": "التقييم ديناميكي ومستمر مع كل تفاعل بين الممرض والمريض طوال عملية الرعاية."
+          }
+        ]
+      },
+      {
+        "id": "ch4-l2",
+        "title": "Data Collection, Validation & Documentation",
+        "titleAr": "جمع البيانات والتحقق والتوثيق",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Identify sources and methods of data collection"
+          },
+          {
+            "id": "obj2",
+            "text": "Differentiate between subjective and objective data"
+          },
+          {
+            "id": "obj3",
+            "text": "Describe the principles and purpose of documentation"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تحديد مصادر وطرق جمع البيانات"
+          },
+          {
+            "id": "obj2",
+            "text": "التمييز بين البيانات الذاتية والموضوعية"
+          },
+          {
+            "id": "obj3",
+            "text": "وصف مبادئ وأغراض التوثيق"
+          }
+        ],
+        "content": [
+          "Steps of Assessment: 1) Data collection from various sources, 2) Data validation, 3) Organizing the data, 4) Data interpretation (analysis), 5) Making initial inferences, 6) Recording or reporting data.",
+          "Sources of Data: Primary sources – the client is the primary source. Secondary sources – family members, other healthcare providers, and medical records.",
+          "Methods of data collection include: interviews, physical examinations, observations, review of records and diagnostic reports, and collaboration with colleagues.",
+          "Types of Data: Subjective data (symptoms) are from the client's point of view, provided verbally, including feelings, perceptions, and concerns. Objective data (signs) are observable and measurable, obtained through physical examination and laboratory tests.",
+          "Documentation is any written or electronically generated information about a client that describes care provided. Purpose: professional accountability, facilitate communication, promote good nursing care, meet professional and legal standards, education, research, auditing and monitoring.",
+          "Principles of documentation: Date and time each recording, entries must be legible, correct spelling and terminology, completeness and appropriateness."
+        ],
+        "contentAr": [
+          "خطوات التقييم: 1) جمع البيانات من مصادر متنوعة، 2) التحقق من البيانات، 3) تنظيم البيانات، 4) تفسير البيانات (التحليل)، 5) إجراء استنتاجات أولية، 6) تسجيل أو الإبلاغ عن البيانات.",
+          "مصادر البيانات: المصادر الأولية – المريض هو المصدر الأساسي. المصادر الثانوية – أفراد الأسرة ومقدمو الرعاية الصحية الآخرون والسجلات الطبية.",
+          "طرق جمع البيانات تشمل: المقابلات، الفحوصات البدنية، الملاحظات، مراجعة السجلات والتقارير التشخيصية، والتعاون مع الزملاء.",
+          "أنواع البيانات: البيانات الذاتية (الأعراض) هي من وجهة نظر المريض، تُقدم شفهياً وتشمل المشاعر والتصورات والمخاوف. البيانات الموضوعية (العلامات) قابلة للملاحظة والقياس، يتم الحصول عليها من خلال الفحص البدني والاختبارات المخبرية.",
+          "التوثيق هو أي معلومات مكتوبة أو مُنشأة إلكترونياً عن المريض تصف الرعاية المقدمة. الغرض: المسؤولية المهنية، تسهيل التواصل، تعزيز الرعاية التمريضية الجيدة، تلبية المعايير المهنية والقانونية، التعليم، البحث، التدقيق والمراقبة.",
+          "مبادئ التوثيق: التاريخ والوقت لكل تسجيل، يجب أن تكون الإدخالات مقروءة، صحة الإملاء والمصطلحات، الاكتمال والملاءمة."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Subjective Data",
+            "definition": "Data from the client's point of view including feelings, perceptions, and concerns (symptoms)"
+          },
+          {
+            "term": "Objective Data",
+            "definition": "Observable and measurable data obtained through examination and tests (signs)"
+          },
+          {
+            "term": "Primary Source",
+            "definition": "The client as the main source of assessment data"
+          },
+          {
+            "term": "Secondary Source",
+            "definition": "Data from family members, other providers, and medical records"
+          },
+          {
+            "term": "Documentation",
+            "definition": "Written or electronic information describing care provided to a client"
+          },
+          {
+            "term": "Validation",
+            "definition": "Critical step to avoid omissions, prevent misunderstandings, and avoid incorrect conclusions"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "البيانات الذاتية",
+            "definition": "بيانات من وجهة نظر المريض تشمل المشاعر والتصورات والمخاوف (الأعراض)"
+          },
+          {
+            "term": "البيانات الموضوعية",
+            "definition": "بيانات قابلة للملاحظة والقياس من خلال الفحص والاختبارات (العلامات)"
+          },
+          {
+            "term": "المصدر الأولي",
+            "definition": "المريض كمصدر رئيسي لبيانات التقييم"
+          },
+          {
+            "term": "المصدر الثانوي",
+            "definition": "بيانات من أفراد الأسرة ومقدمي الخدمات الآخرين والسجلات الطبية"
+          },
+          {
+            "term": "التوثيق",
+            "definition": "معلومات مكتوبة أو إلكترونية تصف الرعاية المقدمة للمريض"
+          },
+          {
+            "term": "التحقق",
+            "definition": "خطوة حاسمة لتجنب السهو ومنع سوء الفهم وتجنب الاستنتاجات الخاطئة"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "Record/Chart",
+            "definition": "Formal, legal document providing evidence of client's care"
+          },
+          {
+            "term": "Report",
+            "definition": "Oral, written, or computer-based communication to convey information"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "Subjective vs Objective Data in Practice",
+          "description": "A patient says 'I have had pains in my legs for three days' (subjective). You observe temperature 37.3°C, pulse 100 b/m, flushed face, positive bowel sounds (objective). Both types of data together help form a complete clinical picture."
+        },
+        "clinicalConnectionAr": {
+          "title": "البيانات الذاتية مقابل الموضوعية في الممارسة",
+          "description": "يقول المريض 'أعاني من آلام في ساقي منذ ثلاثة أيام' (ذاتي). تلاحظ درجة حرارة 37.3 درجة مئوية، نبض 100 ن/د، احمرار الوجه، أصوات أمعاء إيجابية (موضوعي). كلا النوعين من البيانات معاً يساعدان في تكوين صورة سريرية كاملة."
+        },
+        "quickReview": [
+          "6 steps: Collection, Validation, Organization, Interpretation, Inferences, Recording",
+          "Subjective data = symptoms (verbal from patient); Objective data = signs (observable/measurable)",
+          "Primary source is the client; secondary includes family and records",
+          "Documentation purpose: accountability, communication, legal standards, education, research"
+        ],
+        "quickReviewAr": [
+          "6 خطوات: الجمع، التحقق، التنظيم، التفسير، الاستنتاجات، التسجيل",
+          "البيانات الذاتية = أعراض (شفهية من المريض)؛ البيانات الموضوعية = علامات (قابلة للملاحظة/القياس)",
+          "المصدر الأولي هو المريض؛ الثانوي يشمل الأسرة والسجلات",
+          "غرض التوثيق: المسؤولية، التواصل، المعايير القانونية، التعليم، البحث"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "A patient tells the nurse 'I feel dizzy'. This is an example of:",
+            "options": [
+              "Objective data",
+              "Subjective data",
+              "Secondary data",
+              "Validated data"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Patient-reported feelings and perceptions are subjective data (symptoms)."
+          },
+          {
+            "id": "q2",
+            "question": "Which is NOT a purpose of health care documentation?",
+            "options": [
+              "Facilitate communication",
+              "Professional accountability",
+              "Replace verbal reports entirely",
+              "Education and research"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Documentation complements but does not replace verbal communication; it serves accountability, communication, education, and research."
+          },
+          {
+            "id": "q3",
+            "question": "The wife of a patient reports his symptoms. This data is classified as:",
+            "options": [
+              "Primary subjective",
+              "Primary objective",
+              "Secondary subjective",
+              "Secondary objective"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Data from family members is a secondary source, and reported symptoms are subjective."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "يقول المريض للممرض 'أشعر بالدوار'. هذا مثال على:",
+            "options": [
+              "بيانات موضوعية",
+              "بيانات ذاتية",
+              "بيانات ثانوية",
+              "بيانات مُتحقق منها"
+            ],
+            "correctAnswer": 1,
+            "explanation": "المشاعر والتصورات التي يبلغ عنها المريض هي بيانات ذاتية (أعراض)."
+          },
+          {
+            "id": "q2",
+            "question": "أي مما يلي ليس من أغراض التوثيق الصحي؟",
+            "options": [
+              "تسهيل التواصل",
+              "المسؤولية المهنية",
+              "استبدال التقارير الشفهية بالكامل",
+              "التعليم والبحث"
+            ],
+            "correctAnswer": 2,
+            "explanation": "التوثيق يكمل التواصل الشفهي ولا يحل محله؛ يخدم المسؤولية والتواصل والتعليم والبحث."
+          },
+          {
+            "id": "q3",
+            "question": "زوجة المريض تبلغ عن أعراضه. هذه البيانات تُصنف كـ:",
+            "options": [
+              "ذاتية أولية",
+              "موضوعية أولية",
+              "ذاتية ثانوية",
+              "موضوعية ثانوية"
+            ],
+            "correctAnswer": 2,
+            "explanation": "البيانات من أفراد الأسرة هي مصدر ثانوي، والأعراض المُبلغ عنها هي ذاتية."
+          }
+        ]
+      },
+      {
+        "id": "ch4-l3",
+        "title": "Assessment Techniques & Physical Examination",
+        "titleAr": "تقنيات التقييم والفحص البدني",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Describe the 7 assessment techniques"
+          },
+          {
+            "id": "obj2",
+            "text": "Define physical examination and its purpose"
+          },
+          {
+            "id": "obj3",
+            "text": "List the components of a physical examination"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "وصف تقنيات التقييم السبعة"
+          },
+          {
+            "id": "obj2",
+            "text": "تعريف الفحص البدني وأغراضه"
+          },
+          {
+            "id": "obj3",
+            "text": "سرد مكونات الفحص البدني"
+          }
+        ],
+        "content": [
+          "7 Assessment Techniques: 1) Inspection – critical observation using eyes, ears, nose; always done first. Look at color, shape, symmetry, position. 2) Palpation – light and deep touch; back of hand for temperature, fingers for texture, moisture, tenderness. 3) Percussion – striking body surface to produce sounds (dull, resonant, flat, tympanic); determines size and shape of underlying structures. 4) Auscultation – listening to body sounds; direct (without stethoscope) or indirect (with stethoscope). 5) Manipulation – moving body parts to reveal rigidity or discomfort. 6) Reflex testing – automatic response to stimulus; reveals presence, strength and movements. 7) Olfaction – sense of smell to reveal nature of disease condition.",
+          "Physical Examination is the process of evaluating objective anatomic findings through observation, palpation, percussion, and auscultation.",
+          "Purpose of Physical Examination: check for possible diseases for early treatment, identify future medical concerns, update necessary immunizations, ensure healthy diet and exercise routine.",
+          "Components include: General appearance exam, Vital signs, Skin/hair/nail exam, Head and Neck exam, Neurologic exam, Chest and Cardiovascular exam, Abdominal exam, Musculoskeletal exam, Back and mobility, Attachment and documentation."
+        ],
+        "contentAr": [
+          "7 تقنيات للتقييم: 1) التفتيش – ملاحظة دقيقة باستخدام العيون والأذنين والأنف؛ يتم أولاً دائماً. انظر إلى اللون والشكل والتماثل والموضع. 2) الجس – لمس خفيف وعميق؛ ظهر اليد لدرجة الحرارة، الأصابع للملمس والرطوبة والألم. 3) القرع – ضرب سطح الجسم لإنتاج أصوات (كاتم، رنان، مسطح، طبلي)؛ يحدد حجم وشكل الهياكل الأساسية. 4) التسمع – الاستماع لأصوات الجسم؛ مباشر (بدون سماعة) أو غير مباشر (بالسماعة). 5) التحريك – تحريك أجزاء الجسم للكشف عن التصلب أو عدم الراحة. 6) اختبار المنعكسات – استجابة تلقائية للمحفز. 7) الشم – حاسة الشم للكشف عن طبيعة حالة المرض.",
+          "الفحص البدني هو عملية تقييم النتائج التشريحية الموضوعية من خلال الملاحظة والجس والقرع والتسمع.",
+          "الغرض من الفحص البدني: فحص الأمراض المحتملة للعلاج المبكر، تحديد المخاوف الطبية المستقبلية، تحديث التطعيمات اللازمة، ضمان نظام غذائي وتمارين صحية.",
+          "المكونات تشمل: فحص المظهر العام، العلامات الحيوية، فحص الجلد/الشعر/الأظافر، فحص الرأس والرقبة، الفحص العصبي، فحص الصدر والقلب والأوعية، فحص البطن، فحص الجهاز العضلي الهيكلي، الظهر والحركة، التوثيق."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Inspection",
+            "definition": "Critical observation using senses; always performed first"
+          },
+          {
+            "term": "Palpation",
+            "definition": "Using touch to assess temperature, texture, moisture, tenderness"
+          },
+          {
+            "term": "Percussion",
+            "definition": "Striking body surface to determine size and shape of underlying structures"
+          },
+          {
+            "term": "Auscultation",
+            "definition": "Listening to sounds produced by the body using stethoscope"
+          },
+          {
+            "term": "Physical Examination",
+            "definition": "Evaluating objective anatomic findings through systematic techniques"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "التفتيش",
+            "definition": "ملاحظة دقيقة باستخدام الحواس؛ يتم أولاً دائماً"
+          },
+          {
+            "term": "الجس",
+            "definition": "استخدام اللمس لتقييم الحرارة والملمس والرطوبة والألم"
+          },
+          {
+            "term": "القرع",
+            "definition": "ضرب سطح الجسم لتحديد حجم وشكل الهياكل الأساسية"
+          },
+          {
+            "term": "التسمع",
+            "definition": "الاستماع للأصوات التي ينتجها الجسم باستخدام السماعة"
+          },
+          {
+            "term": "الفحص البدني",
+            "definition": "تقييم النتائج التشريحية الموضوعية من خلال تقنيات منهجية"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "Dorsal Aspect",
+            "definition": "Back of the hand, used for assessing skin temperature"
+          },
+          {
+            "term": "Tympanic",
+            "definition": "Drum-like sound heard during percussion over air-filled structures"
+          },
+          {
+            "term": "Glasgow Coma Scale",
+            "definition": "Scale used to assess level of consciousness in head injuries"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "Assessment Techniques in Practice",
+          "description": "When a client complains of abdominal pain: inspect the abdomen visually, auscultate bowel sounds, percuss for abnormal sounds, and palpate for tenderness. Always follow this order to avoid altering bowel sounds."
+        },
+        "clinicalConnectionAr": {
+          "title": "تقنيات التقييم في الممارسة",
+          "description": "عندما يشكو المريض من ألم في البطن: افحص البطن بصرياً، استمع لأصوات الأمعاء، اقرع للأصوات غير الطبيعية، واجس للألم عند الضغط. اتبع هذا الترتيب دائماً لتجنب تغيير أصوات الأمعاء."
+        },
+        "quickReview": [
+          "7 techniques: Inspection, Palpation, Percussion, Auscultation, Manipulation, Reflex testing, Olfaction",
+          "Inspection is always done first",
+          "Palpation: dorsal hand for temperature, fingers for texture and tenderness",
+          "Physical exam components include vital signs, skin, head/neck, neuro, chest, abdomen, musculoskeletal"
+        ],
+        "quickReviewAr": [
+          "7 تقنيات: التفتيش، الجس، القرع، التسمع، التحريك، اختبار المنعكسات، الشم",
+          "التفتيش يتم أولاً دائماً",
+          "الجس: ظهر اليد للحرارة، الأصابع للملمس والألم",
+          "مكونات الفحص البدني تشمل العلامات الحيوية والجلد والرأس/الرقبة والعصبي والصدر والبطن والعضلي الهيكلي"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Which assessment technique should always be performed first?",
+            "options": [
+              "Palpation",
+              "Percussion",
+              "Inspection",
+              "Auscultation"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Inspection (critical observation) is always performed first before other techniques."
+          },
+          {
+            "id": "q2",
+            "question": "To assess skin temperature, the nurse should use:",
+            "options": [
+              "Fingertips",
+              "Dorsal aspect of the hand",
+              "Palm of the hand",
+              "Stethoscope"
+            ],
+            "correctAnswer": 1,
+            "explanation": "The back (dorsal aspect) of the hand is used to assess skin temperature."
+          },
+          {
+            "id": "q3",
+            "question": "Percussion helps determine:",
+            "options": [
+              "Skin temperature",
+              "Muscle strength",
+              "Size and shape of underlying structures",
+              "Heart rate"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Percussion produces sounds that help determine the size and shape of underlying structures and whether tissue is air-filled, fluid-filled, or solid."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "أي تقنية تقييم يجب إجراؤها أولاً دائماً؟",
+            "options": [
+              "الجس",
+              "القرع",
+              "التفتيش",
+              "التسمع"
+            ],
+            "correctAnswer": 2,
+            "explanation": "التفتيش (الملاحظة الدقيقة) يتم أولاً دائماً قبل التقنيات الأخرى."
+          },
+          {
+            "id": "q2",
+            "question": "لتقييم درجة حرارة الجلد، يجب على الممرض استخدام:",
+            "options": [
+              "أطراف الأصابع",
+              "ظهر اليد",
+              "راحة اليد",
+              "السماعة الطبية"
+            ],
+            "correctAnswer": 1,
+            "explanation": "يُستخدم ظهر اليد (الجانب الظهري) لتقييم درجة حرارة الجلد."
+          },
+          {
+            "id": "q3",
+            "question": "يساعد القرع في تحديد:",
+            "options": [
+              "درجة حرارة الجلد",
+              "قوة العضلات",
+              "حجم وشكل الهياكل الأساسية",
+              "معدل ضربات القلب"
+            ],
+            "correctAnswer": 2,
+            "explanation": "القرع ينتج أصواتاً تساعد في تحديد حجم وشكل الهياكل الأساسية وما إذا كان النسيج مملوءاً بالهواء أو السوائل أو صلباً."
+          }
+        ]
+      }
+    ],
+    "summary": [
+      "Assessment is the foundation of the nursing process with 4 types: initial, problem-focused, emergency, and time-lapsed",
+      "Data sources include primary (client) and secondary (family, records); data types are subjective (symptoms) and objective (signs)",
+      "6 steps of assessment: collection, validation, organization, interpretation, inferences, recording",
+      "7 assessment techniques: inspection (always first), palpation, percussion, auscultation, manipulation, reflex testing, olfaction",
+      "Physical examination evaluates anatomic findings through systematic techniques and has 10 main components",
+      "Documentation serves accountability, communication, legal standards, education, and research"
+    ],
+    "summaryAr": [
+      "التقييم هو أساس العملية التمريضية مع 4 أنواع: أولي، مركز، طوارئ، وإعادة تقييم",
+      "مصادر البيانات تشمل أولية (المريض) وثانوية (الأسرة، السجلات)؛ أنواع البيانات ذاتية (أعراض) وموضوعية (علامات)",
+      "6 خطوات للتقييم: الجمع، التحقق، التنظيم، التفسير، الاستنتاجات، التسجيل",
+      "7 تقنيات للتقييم: التفتيش (أولاً دائماً)، الجس، القرع، التسمع، التحريك، اختبار المنعكسات، الشم",
+      "الفحص البدني يقيم النتائج التشريحية من خلال تقنيات منهجية ويحتوي على 10 مكونات رئيسية",
+      "التوثيق يخدم المسؤولية والتواصل والمعايير القانونية والتعليم والبحث"
+    ],
+    "examPoints": [
+      "Know the 4 types of assessment and when each is used",
+      "Differentiate between subjective and objective data with examples",
+      "Memorize the 7 assessment techniques and their order",
+      "Know which part of the hand is used for palpation of temperature vs texture",
+      "Know the components of a physical examination",
+      "Understand the 6 steps of the assessment process"
+    ],
+    "examPointsAr": [
+      "اعرف أنواع التقييم الأربعة ومتى يُستخدم كل منها",
+      "فرّق بين البيانات الذاتية والموضوعية مع أمثلة",
+      "احفظ تقنيات التقييم السبعة وترتيبها",
+      "اعرف أي جزء من اليد يُستخدم لجس الحرارة مقابل الملمس",
+      "اعرف مكونات الفحص البدني",
+      "افهم خطوات عملية التقييم الست"
+    ]
+  },
+  {
+    "id": "ch5",
+    "number": 5,
+    "title": "Physiological Basis for Nursing Practice",
+    "titleAr": "الأسس الفسيولوجية للممارسة التمريضية",
+    "description": "Learn about human needs, Maslow's hierarchy, fluids, electrolytes, oxygenation, and nutrition",
+    "descriptionAr": "تعرف على الاحتياجات البشرية وهرم ماسلو والسوائل والشوارد والأكسجة والتغذية",
+    "icon": "Brain",
+    "color": "from-emerald-500 to-emerald-600",
+    "lessons": [
+      {
+        "id": "ch5-l1",
+        "title": "Human Needs & Maslow's Hierarchy",
+        "titleAr": "الاحتياجات البشرية وهرم ماسلو",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Define need and human need"
+          },
+          {
+            "id": "obj2",
+            "text": "Discuss Maslow's hierarchy theory"
+          },
+          {
+            "id": "obj3",
+            "text": "List the five levels of Maslow's hierarchy"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تعريف الحاجة والحاجة البشرية"
+          },
+          {
+            "id": "obj2",
+            "text": "مناقشة نظرية هرم ماسلو"
+          },
+          {
+            "id": "obj3",
+            "text": "سرد المستويات الخمسة لهرم ماسلو"
+          }
+        ],
+        "content": [
+          "Physiological or basic needs are common to all people; they are universal and transcultural. Nursing is concerned with helping clients meet their physiological, spiritual, and psychological needs.",
+          "Need: something that is desirable, useful or necessary. Human needs: physiologic and psychological conditions that an individual must meet to achieve a state of health or well-being.",
+          "Maslow's hierarchy of needs is a five-tier list developed by Abraham Maslow, often presented as a pyramid with fundamental needs at the bottom: 1) Physiologic (physical) needs – Oxygen, Fluids, Nutrition, Activity, Elimination, Rest and sleep, Sex concept. 2) Safety and Security – Physical safety, Psychological safety, Freedom from harm and danger. 3) Love and Belonging – Need to love and be loved, to care and be cared for, affection, meaningful relationships. 4) Self-Esteem – Self-worth, self-identity, self-respect, body image. 5) Self-Actualization – Need to learn, create, understand, harmonious relationships, beauty, spiritual fulfillment.",
+          "Illness or risk for illness occurs when people are unable to satisfy one or more of their basic needs independently. Nursing care centers on assisting people to meet these needs."
+        ],
+        "contentAr": [
+          "الاحتياجات الفسيولوجية أو الأساسية مشتركة بين جميع الناس؛ هي عالمية وعابرة للثقافات. يهتم التمريض بمساعدة المرضى على تلبية احتياجاتهم الفسيولوجية والروحية والنفسية.",
+          "الحاجة: شيء مرغوب فيه أو مفيد أو ضروري. الاحتياجات البشرية: حالات فسيولوجية ونفسية يجب على الفرد تلبيتها لتحقيق حالة صحية أو رفاهية.",
+          "هرم ماسلو للاحتياجات هو قائمة من خمسة مستويات طورها أبراهام ماسلو، غالباً ما تُقدم كهرم مع الاحتياجات الأساسية في القاعدة: 1) الاحتياجات الفسيولوجية – الأكسجين، السوائل، التغذية، النشاط، الإخراج، الراحة والنوم، المفهوم الجنسي. 2) الأمان والأمن – السلامة الجسدية، السلامة النفسية، التحرر من الأذى والخطر. 3) الحب والانتماء – الحاجة للحب والمحبة، الرعاية، العلاقات الهادفة. 4) تقدير الذات – قيمة الذات، هوية الذات، احترام الذات، صورة الجسم. 5) تحقيق الذات – التعلم، الإبداع، الفهم، العلاقات المتناغمة، الجمال، الإشباع الروحي.",
+          "يحدث المرض أو خطر المرض عندما لا يستطيع الناس تلبية احتياجاتهم الأساسية بشكل مستقل. تتمحور الرعاية التمريضية حول مساعدة الناس على تلبية هذه الاحتياجات."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Maslow's Hierarchy",
+            "definition": "Five-tier pyramid of human needs from physiological to self-actualization"
+          },
+          {
+            "term": "Physiological Needs",
+            "definition": "Most basic survival needs: oxygen, fluids, nutrition, elimination, rest, activity"
+          },
+          {
+            "term": "Safety & Security",
+            "definition": "Physical and psychological safety, freedom from harm"
+          },
+          {
+            "term": "Love & Belonging",
+            "definition": "Need for relationships, affection, and meaningful connections"
+          },
+          {
+            "term": "Self-Actualization",
+            "definition": "Highest need: learning, creating, spiritual fulfillment"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "هرم ماسلو",
+            "definition": "هرم من خمسة مستويات للاحتياجات البشرية من الفسيولوجية إلى تحقيق الذات"
+          },
+          {
+            "term": "الاحتياجات الفسيولوجية",
+            "definition": "أهم احتياجات البقاء: الأكسجين، السوائل، التغذية، الإخراج، الراحة، النشاط"
+          },
+          {
+            "term": "الأمان والأمن",
+            "definition": "السلامة الجسدية والنفسية، التحرر من الأذى"
+          },
+          {
+            "term": "الحب والانتماء",
+            "definition": "الحاجة للعلاقات والعاطفة والروابط الهادفة"
+          },
+          {
+            "term": "تحقيق الذات",
+            "definition": "أعلى حاجة: التعلم، الإبداع، الإشباع الروحي"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "Basic Human Needs",
+            "definition": "Universal physiologic and psychological requirements for health"
+          },
+          {
+            "term": "Transcultural",
+            "definition": "Applicable across all cultures"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "Maslow's Hierarchy in Patient Care",
+          "description": "A patient admitted with respiratory distress needs oxygen (physiological) first. Once breathing is stable, ensure a safe environment (safety). Then support family visits (love/belonging), acknowledge the patient's concerns (esteem), and encourage participation in care decisions (self-actualization)."
+        },
+        "clinicalConnectionAr": {
+          "title": "هرم ماسلو في رعاية المريض",
+          "description": "مريض يُدخل بضيق تنفس يحتاج الأكسجين (فسيولوجي) أولاً. بمجرد استقرار التنفس، تأكد من بيئة آمنة (أمان). ثم ادعم زيارات الأسرة (حب/انتماء)، واعترف بمخاوف المريض (تقدير)، وشجع المشاركة في قرارات الرعاية (تحقيق الذات)."
+        },
+        "quickReview": [
+          "Maslow's 5 levels: Physiological → Safety → Love/Belonging → Esteem → Self-Actualization",
+          "Physiological needs must be met first before higher-level needs",
+          "Basic needs are universal and transcultural",
+          "Nursing care helps patients meet unmet needs during illness"
+        ],
+        "quickReviewAr": [
+          "مستويات ماسلو الخمسة: فسيولوجية → أمان → حب/انتماء → تقدير → تحقيق الذات",
+          "الاحتياجات الفسيولوجية يجب تلبيتها أولاً قبل الاحتياجات الأعلى",
+          "الاحتياجات الأساسية عالمية وعابرة للثقافات",
+          "الرعاية التمريضية تساعد المرضى على تلبية الاحتياجات غير الملباة أثناء المرض"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "According to Maslow, which needs must be met first?",
+            "options": [
+              "Self-esteem",
+              "Safety",
+              "Physiological",
+              "Love and belonging"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Physiological needs (oxygen, food, water) are at the base of the pyramid and must be met first."
+          },
+          {
+            "id": "q2",
+            "question": "Self-actualization includes all EXCEPT:",
+            "options": [
+              "Need to learn and create",
+              "Spiritual fulfillment",
+              "Physical safety",
+              "Harmonious relationships"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Physical safety belongs to the Safety and Security level, not self-actualization."
+          },
+          {
+            "id": "q3",
+            "question": "Basic human needs are described as:",
+            "options": [
+              "Culture-specific",
+              "Universal and transcultural",
+              "Only psychological",
+              "Only for ill patients"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Basic needs are universal and transcultural – common to all people across all cultures."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "وفقاً لماسلو، أي الاحتياجات يجب تلبيتها أولاً؟",
+            "options": [
+              "تقدير الذات",
+              "الأمان",
+              "الفسيولوجية",
+              "الحب والانتماء"
+            ],
+            "correctAnswer": 2,
+            "explanation": "الاحتياجات الفسيولوجية (الأكسجين، الغذاء، الماء) في قاعدة الهرم ويجب تلبيتها أولاً."
+          },
+          {
+            "id": "q2",
+            "question": "تحقيق الذات يشمل كل ما يلي ماعدا:",
+            "options": [
+              "الحاجة للتعلم والإبداع",
+              "الإشباع الروحي",
+              "السلامة الجسدية",
+              "العلاقات المتناغمة"
+            ],
+            "correctAnswer": 2,
+            "explanation": "السلامة الجسدية تنتمي لمستوى الأمان والأمن وليس تحقيق الذات."
+          },
+          {
+            "id": "q3",
+            "question": "الاحتياجات البشرية الأساسية توصف بأنها:",
+            "options": [
+              "خاصة بالثقافة",
+              "عالمية وعابرة للثقافات",
+              "نفسية فقط",
+              "للمرضى فقط"
+            ],
+            "correctAnswer": 1,
+            "explanation": "الاحتياجات الأساسية عالمية وعابرة للثقافات – مشتركة بين جميع الناس في كل الثقافات."
+          }
+        ]
+      },
+      {
+        "id": "ch5-l2",
+        "title": "Fluids, Electrolytes & Acid-Base Balance",
+        "titleAr": "السوائل والشوارد والتوازن الحمضي القاعدي",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Describe body fluid compartments and composition"
+          },
+          {
+            "id": "obj2",
+            "text": "Explain fluid and electrolyte transport mechanisms"
+          },
+          {
+            "id": "obj3",
+            "text": "Identify fluid volume disturbances and nursing interventions"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "وصف حجرات سوائل الجسم وتركيبها"
+          },
+          {
+            "id": "obj2",
+            "text": "شرح آليات نقل السوائل والشوارد"
+          },
+          {
+            "id": "obj3",
+            "text": "تحديد اضطرابات حجم السوائل والتدخلات التمريضية"
+          }
+        ],
+        "content": [
+          "Total body fluid is approximately 50-60% of total body weight. Body fluids are divided into: Intracellular fluid (ICF) – inside cells, stabilizes cell parts and assists nutrient transport. Extracellular fluid (ECF) – surrounds cells, appears as interstitial fluid and intravascular fluid (blood plasma).",
+          "Composition: Water and dissolved solutes including electrolytes (sodium, potassium, calcium, magnesium, chloride, phosphate). Key intracellular electrolytes: potassium, magnesium, sulfate, phosphate. Key extracellular electrolytes: sodium, chlorine, calcium, bicarbonate.",
+          "Normal intake: ~2,500 mL daily (fluids 1,200 mL, foods 1,000 mL, metabolic products 300 mL). Output should approximately equal intake through urine, breathing, perspiration, and feces.",
+          "Transport mechanisms: Passive – diffusion (molecules move from high to low concentration), osmosis (water across semipermeable membrane), filtration. Active – requires enzymes and ATP energy.",
+          "Fluid Volume Deficit (hypovolemia): ECF loss exceeds intake. Fluid Volume Excess (hypervolemia): abnormal retention of water and sodium.",
+          "Acid-Base Balance: pH refers to hydrogen ion concentration. Buffers resist changes in hydrogen ion levels. Normal body pH must be maintained for proper cell function.",
+          "Nursing Interventions: Monitor I&O every 8 hours or hourly, daily weight, vital signs, skin/tongue turgor, urine concentration, administer oral/parenteral fluids, monitor CNS changes (lethargy, seizures, confusion), manage diet for electrolyte balance."
+        ],
+        "contentAr": [
+          "إجمالي سوائل الجسم حوالي 50-60% من وزن الجسم الكلي. تنقسم سوائل الجسم إلى: السائل داخل الخلايا (ICF) – داخل الخلايا، يثبت أجزاء الخلية ويساعد في نقل المغذيات. السائل خارج الخلايا (ECF) – يحيط بالخلايا، يظهر كسائل بيني وسائل داخل الأوعية (بلازما الدم).",
+          "التركيب: الماء والمذابات المنحلة بما في ذلك الشوارد (الصوديوم، البوتاسيوم، الكالسيوم، المغنيسيوم، الكلوريد، الفوسفات). الشوارد الرئيسية داخل الخلايا: البوتاسيوم والمغنيسيوم والكبريتات والفوسفات. الشوارد الرئيسية خارج الخلايا: الصوديوم والكلور والكالسيوم والبيكربونات.",
+          "المدخول الطبيعي: حوالي 2,500 مل يومياً (سوائل 1,200 مل، أطعمة 1,000 مل، نواتج أيضية 300 مل). يجب أن يعادل الإخراج المدخول تقريباً.",
+          "آليات النقل: السلبي – الانتشار (الجزيئات تتحرك من التركيز العالي إلى المنخفض)، التناضح (الماء عبر غشاء شبه منفذ)، الترشيح. النشط – يتطلب إنزيمات وطاقة ATP.",
+          "نقص حجم السوائل (نقص حجم الدم): فقدان ECF يتجاوز المدخول. زيادة حجم السوائل (فرط حجم الدم): احتباس غير طبيعي للماء والصوديوم.",
+          "التوازن الحمضي القاعدي: pH يشير إلى تركيز أيون الهيدروجين. المحاليل المنظمة تقاوم التغيرات في مستويات أيون الهيدروجين.",
+          "التدخلات التمريضية: مراقبة المدخول والإخراج كل 8 ساعات أو كل ساعة، الوزن اليومي، العلامات الحيوية، تمدد الجلد واللسان، تركيز البول، إعطاء السوائل الفموية/الوريدية، مراقبة تغيرات الجهاز العصبي المركزي، إدارة النظام الغذائي لتوازن الشوارد."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Intracellular Fluid (ICF)",
+            "definition": "Fluid inside cells; stabilizes cell parts and transports nutrients"
+          },
+          {
+            "term": "Extracellular Fluid (ECF)",
+            "definition": "Fluid surrounding cells; includes interstitial fluid and blood plasma"
+          },
+          {
+            "term": "Hypovolemia",
+            "definition": "Fluid volume deficit; ECF loss exceeds intake"
+          },
+          {
+            "term": "Hypervolemia",
+            "definition": "Fluid volume excess; abnormal retention of water and sodium"
+          },
+          {
+            "term": "Diffusion",
+            "definition": "Movement of molecules from higher to lower concentration"
+          },
+          {
+            "term": "Osmosis",
+            "definition": "Movement of water across a semipermeable membrane"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "السائل داخل الخلايا",
+            "definition": "السائل داخل الخلايا؛ يثبت أجزاء الخلية وينقل المغذيات"
+          },
+          {
+            "term": "السائل خارج الخلايا",
+            "definition": "السائل المحيط بالخلايا؛ يشمل السائل البيني وبلازما الدم"
+          },
+          {
+            "term": "نقص حجم الدم",
+            "definition": "نقص حجم السوائل؛ فقدان ECF يتجاوز المدخول"
+          },
+          {
+            "term": "فرط حجم الدم",
+            "definition": "زيادة حجم السوائل؛ احتباس غير طبيعي للماء والصوديوم"
+          },
+          {
+            "term": "الانتشار",
+            "definition": "حركة الجزيئات من التركيز الأعلى إلى الأقل"
+          },
+          {
+            "term": "التناضح",
+            "definition": "حركة الماء عبر غشاء شبه منفذ"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "ICF",
+            "definition": "Intracellular Fluid"
+          },
+          {
+            "term": "ECF",
+            "definition": "Extracellular Fluid"
+          },
+          {
+            "term": "ATP",
+            "definition": "Adenosine Triphosphate – energy currency of cells"
+          },
+          {
+            "term": "pH",
+            "definition": "Potential of Hydrogen – measure of acidity/alkalinity"
+          },
+          {
+            "term": "mEq/L",
+            "definition": "Milliequivalents per liter – unit for electrolyte measurement"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "Fluid & Electrolyte Management",
+          "description": "A patient with vomiting and diarrhea may develop hypovolemia. Monitor I&O, assess skin turgor, check vital signs for tachycardia and hypotension, monitor urine output, and administer IV fluids as ordered. Watch for electrolyte imbalances especially hypokalemia."
+        },
+        "clinicalConnectionAr": {
+          "title": "إدارة السوائل والشوارد",
+          "description": "مريض يعاني من القيء والإسهال قد يصاب بنقص حجم الدم. راقب المدخول والإخراج، قيّم تمدد الجلد، افحص العلامات الحيوية لتسرع القلب وانخفاض الضغط، راقب إخراج البول، وأعطِ السوائل الوريدية حسب الطلب. انتبه لاختلالات الشوارد خاصة نقص البوتاسيوم."
+        },
+        "quickReview": [
+          "Body fluid = 50-60% of body weight; divided into ICF and ECF",
+          "Daily intake ~2,500 mL should equal output",
+          "Key intracellular cation: potassium; Key extracellular cation: sodium",
+          "Passive transport: diffusion, osmosis, filtration; Active transport requires ATP",
+          "Hypovolemia = deficit; Hypervolemia = excess",
+          "Nursing: monitor I&O, daily weight, vital signs, skin turgor"
+        ],
+        "quickReviewAr": [
+          "سوائل الجسم = 50-60% من وزن الجسم؛ تنقسم إلى ICF و ECF",
+          "المدخول اليومي حوالي 2,500 مل يجب أن يعادل الإخراج",
+          "الكاتيون الرئيسي داخل الخلايا: البوتاسيوم؛ خارج الخلايا: الصوديوم",
+          "النقل السلبي: انتشار، تناضح، ترشيح؛ النقل النشط يتطلب ATP",
+          "نقص حجم الدم = عجز؛ فرط حجم الدم = زيادة",
+          "تمريض: مراقبة المدخول والإخراج، الوزن اليومي، العلامات الحيوية، تمدد الجلد"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "The most dominant intracellular cation is:",
+            "options": [
+              "Sodium",
+              "Calcium",
+              "Potassium",
+              "Chloride"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Potassium is the most dominant cation inside cells (intracellular)."
+          },
+          {
+            "id": "q2",
+            "question": "Osmosis is the movement of:",
+            "options": [
+              "Solutes from high to low concentration",
+              "Water across a semipermeable membrane",
+              "Electrolytes using ATP",
+              "Gases in the lungs"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Osmosis is the diffusion of water across a semipermeable membrane in response to a concentration gradient."
+          },
+          {
+            "id": "q3",
+            "question": "Normal daily fluid intake for an adult is approximately:",
+            "options": [
+              "1,000 mL",
+              "1,500 mL",
+              "2,500 mL",
+              "4,000 mL"
+            ],
+            "correctAnswer": 2,
+            "explanation": "An adult at rest takes approximately 2,500 mL of fluid daily."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "الكاتيون الأكثر سيطرة داخل الخلايا هو:",
+            "options": [
+              "الصوديوم",
+              "الكالسيوم",
+              "البوتاسيوم",
+              "الكلوريد"
+            ],
+            "correctAnswer": 2,
+            "explanation": "البوتاسيوم هو الكاتيون الأكثر سيطرة داخل الخلايا."
+          },
+          {
+            "id": "q2",
+            "question": "التناضح هو حركة:",
+            "options": [
+              "المذابات من التركيز العالي إلى المنخفض",
+              "الماء عبر غشاء شبه منفذ",
+              "الشوارد باستخدام ATP",
+              "الغازات في الرئتين"
+            ],
+            "correctAnswer": 1,
+            "explanation": "التناضح هو انتشار الماء عبر غشاء شبه منفذ استجابة لتدرج التركيز."
+          },
+          {
+            "id": "q3",
+            "question": "المدخول اليومي الطبيعي من السوائل للبالغ هو تقريباً:",
+            "options": [
+              "1,000 مل",
+              "1,500 مل",
+              "2,500 مل",
+              "4,000 مل"
+            ],
+            "correctAnswer": 2,
+            "explanation": "يتناول البالغ في حالة الراحة حوالي 2,500 مل من السوائل يومياً."
+          }
+        ]
+      },
+      {
+        "id": "ch5-l3",
+        "title": "Oxygenation & Nutrition",
+        "titleAr": "الأكسجة والتغذية",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Explain the process of oxygenation and respiration"
+          },
+          {
+            "id": "obj2",
+            "text": "Identify factors affecting oxygenation and common respiratory alterations"
+          },
+          {
+            "id": "obj3",
+            "text": "Describe nutrition, nutrients, and their functions"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "شرح عملية الأكسجة والتنفس"
+          },
+          {
+            "id": "obj2",
+            "text": "تحديد العوامل المؤثرة على الأكسجة والتغيرات التنفسية الشائعة"
+          },
+          {
+            "id": "obj3",
+            "text": "وصف التغذية والمغذيات ووظائفها"
+          }
+        ],
+        "content": [
+          "Oxygen is the most essential survival need. Oxygenation refers to how well cells, tissues, and organs are supplied with oxygen through the respiratory system.",
+          "Respiration involves ventilation (moving gases in/out of lungs) and gas exchange. Inhalation: chest expansion creates negative pressure drawing air in. Exhalation: muscles relax allowing air out.",
+          "Process of Oxygenation: Ventilation (gas movement), Perfusion (blood pumping to tissues), Diffusion (gas exchange in alveoli). External respiration occurs in alveoli; Internal respiration occurs in body tissues.",
+          "Factors Affecting Oxygenation: Increased metabolic rate, disease (anemia, hypovolemia, fever, obesity), decreased inspired O2, environmental factors (high altitude, pollutants), chest wall trauma, pregnancy, medications, lifestyle (smoking, stress).",
+          "Common Respiratory Alterations: Hyperventilation, Hypoventilation, Hypoxia (inadequate tissue O2), Hypoxemia (inadequate blood O2), Tachypnea (rapid rate), Bradypnea (slow rate), Apnea (cessation), Dyspnea, Orthopnea.",
+          "Nutrition is a state of well-being achieved by eating the right food and proper utilization of nutrients. Nutrients include: Proteins (growth, maintenance, repair), Fats (9 kcal/gram, energy source), Carbohydrates (energy for body and brain), Vitamins and Minerals (aid metabolism), Water (60-70% of body weight, critical for cell function).",
+          "Nursing Interventions for Oxygenation: Administer humidified O2, regulate fluids, monitor respiratory status, administer bronchodilators/corticosteroids, positioning for chest expansion, deep breathing exercises, teach about medications."
+        ],
+        "contentAr": [
+          "الأكسجين هو أهم حاجة للبقاء. الأكسجة تشير إلى مدى تزويد الخلايا والأنسجة والأعضاء بالأكسجين من خلال الجهاز التنفسي.",
+          "التنفس يشمل التهوية (حركة الغازات داخل/خارج الرئتين) وتبادل الغازات. الشهيق: توسع الصدر يخلق ضغطاً سلبياً يسحب الهواء. الزفير: استرخاء العضلات يسمح بخروج الهواء.",
+          "عملية الأكسجة: التهوية (حركة الغاز)، التروية (ضخ الدم للأنسجة)، الانتشار (تبادل الغازات في الحويصلات). التنفس الخارجي يحدث في الحويصلات؛ التنفس الداخلي يحدث في أنسجة الجسم.",
+          "العوامل المؤثرة على الأكسجة: زيادة معدل الأيض، الأمراض (فقر الدم، نقص حجم الدم، الحمى، السمنة)، انخفاض الأكسجين المستنشق، العوامل البيئية (الارتفاعات العالية، الملوثات)، إصابة جدار الصدر، الحمل، الأدوية، نمط الحياة (التدخين، الإجهاد).",
+          "التغيرات التنفسية الشائعة: فرط التنفس، نقص التنفس، نقص الأكسجة (نقص أكسجين الأنسجة)، نقص أكسجة الدم، تسرع التنفس، بطء التنفس، انقطاع التنفس، ضيق التنفس.",
+          "التغذية هي حالة من الرفاهية تتحقق بتناول الغذاء الصحيح والاستخدام السليم للمغذيات. المغذيات تشمل: البروتينات (النمو والصيانة والإصلاح)، الدهون (9 كيلو كالوري/غرام)، الكربوهيدرات (طاقة للجسم والدماغ)، الفيتامينات والمعادن (تساعد الأيض)، الماء (60-70% من وزن الجسم).",
+          "التدخلات التمريضية للأكسجة: إعطاء أكسجين مرطب، تنظيم السوائل، مراقبة الحالة التنفسية، إعطاء موسعات القصبات/الكورتيكوستيرويدات، وضعيات لتوسيع الصدر، تمارين التنفس العميق، التعليم عن الأدوية."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Ventilation",
+            "definition": "Process of moving gases into and out of the lungs"
+          },
+          {
+            "term": "Perfusion",
+            "definition": "Cardiovascular system pumping oxygenated blood to tissues"
+          },
+          {
+            "term": "Diffusion",
+            "definition": "Exchange of respiratory gases in alveoli and capillaries"
+          },
+          {
+            "term": "Hypoxia",
+            "definition": "Inadequate tissue oxygenation at the cellular level"
+          },
+          {
+            "term": "Nutrition",
+            "definition": "State of well-being from eating right food and proper nutrient utilization"
+          },
+          {
+            "term": "Nutrients",
+            "definition": "Substances in food essential for body: proteins, fats, carbohydrates, vitamins, minerals, water"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "التهوية",
+            "definition": "عملية حركة الغازات داخل وخارج الرئتين"
+          },
+          {
+            "term": "التروية",
+            "definition": "ضخ الجهاز القلبي الوعائي للدم المؤكسج إلى الأنسجة"
+          },
+          {
+            "term": "الانتشار",
+            "definition": "تبادل الغازات التنفسية في الحويصلات والشعيرات"
+          },
+          {
+            "term": "نقص الأكسجة",
+            "definition": "نقص أكسجين الأنسجة على المستوى الخلوي"
+          },
+          {
+            "term": "التغذية",
+            "definition": "حالة رفاهية من تناول الغذاء الصحيح والاستخدام السليم للمغذيات"
+          },
+          {
+            "term": "المغذيات",
+            "definition": "مواد في الغذاء أساسية للجسم: بروتينات، دهون، كربوهيدرات، فيتامينات، معادن، ماء"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "SaO2",
+            "definition": "Oxygen Saturation level in blood"
+          },
+          {
+            "term": "ABG",
+            "definition": "Arterial Blood Gases"
+          },
+          {
+            "term": "Tachypnea",
+            "definition": "Abnormally rapid breathing rate"
+          },
+          {
+            "term": "Bradypnea",
+            "definition": "Abnormally slow breathing rate"
+          },
+          {
+            "term": "Apnea",
+            "definition": "Complete cessation of breathing"
+          },
+          {
+            "term": "Dyspnea",
+            "definition": "Difficulty breathing"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "Oxygenation & Nutrition in Practice",
+          "description": "A COPD patient presents with dyspnea: position upright, administer humidified O2, teach pursed-lip breathing, monitor SaO2. For a malnourished patient: assess nutritional status, encourage balanced diet with protein, vitamins B & C, and adequate fluids for wound healing."
+        },
+        "clinicalConnectionAr": {
+          "title": "الأكسجة والتغذية في الممارسة",
+          "description": "مريض COPD يعاني من ضيق تنفس: ضعه بوضعية مستقيمة، أعطِ أكسجين مرطب، علّمه التنفس بالشفاه المزمومة، راقب SaO2. لمريض يعاني من سوء التغذية: قيّم الحالة الغذائية، شجع نظام غذائي متوازن مع البروتين وفيتامينات B و C وسوائل كافية لالتئام الجروح."
+        },
+        "quickReview": [
+          "Oxygenation process: Ventilation → Perfusion → Diffusion",
+          "External respiration in alveoli; Internal respiration in body tissues",
+          "Hypoxia = tissue O2 deficit; Hypoxemia = blood O2 deficit",
+          "6 nutrients: Proteins, Fats, Carbohydrates, Vitamins, Minerals, Water",
+          "Fats provide 9 kcal/gram; Water = 60-70% of body weight",
+          "Nursing: positioning, O2 therapy, breathing exercises, monitor SaO2"
+        ],
+        "quickReviewAr": [
+          "عملية الأكسجة: تهوية → تروية → انتشار",
+          "التنفس الخارجي في الحويصلات؛ التنفس الداخلي في أنسجة الجسم",
+          "نقص الأكسجة = نقص أكسجين الأنسجة؛ نقص أكسجة الدم = نقص أكسجين الدم",
+          "6 مغذيات: بروتينات، دهون، كربوهيدرات، فيتامينات، معادن، ماء",
+          "الدهون توفر 9 كيلو كالوري/غرام؛ الماء = 60-70% من وزن الجسم",
+          "تمريض: الوضعية، العلاج بالأكسجين، تمارين التنفس، مراقبة SaO2"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "The exchange of gases in the alveoli is called:",
+            "options": [
+              "Ventilation",
+              "Perfusion",
+              "Diffusion",
+              "Inspiration"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Diffusion is the exchange of respiratory gases in the alveoli and capillaries."
+          },
+          {
+            "id": "q2",
+            "question": "Which nutrient provides the most calories per gram?",
+            "options": [
+              "Carbohydrates",
+              "Proteins",
+              "Fats",
+              "Vitamins"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Fats provide 9 kcal per gram, making them the most calorie-dense nutrient."
+          },
+          {
+            "id": "q3",
+            "question": "Hypoxia refers to:",
+            "options": [
+              "Excess oxygen in blood",
+              "Inadequate tissue oxygenation",
+              "Rapid breathing",
+              "Low blood pressure"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Hypoxia is inadequate tissue oxygenation at the cellular level."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "تبادل الغازات في الحويصلات يسمى:",
+            "options": [
+              "التهوية",
+              "التروية",
+              "الانتشار",
+              "الشهيق"
+            ],
+            "correctAnswer": 2,
+            "explanation": "الانتشار هو تبادل الغازات التنفسية في الحويصلات والشعيرات."
+          },
+          {
+            "id": "q2",
+            "question": "أي مغذي يوفر أكبر عدد من السعرات الحرارية لكل غرام؟",
+            "options": [
+              "الكربوهيدرات",
+              "البروتينات",
+              "الدهون",
+              "الفيتامينات"
+            ],
+            "correctAnswer": 2,
+            "explanation": "الدهون توفر 9 كيلو كالوري لكل غرام، مما يجعلها أكثر المغذيات كثافة بالسعرات."
+          },
+          {
+            "id": "q3",
+            "question": "نقص الأكسجة يشير إلى:",
+            "options": [
+              "زيادة الأكسجين في الدم",
+              "نقص أكسجين الأنسجة",
+              "سرعة التنفس",
+              "انخفاض ضغط الدم"
+            ],
+            "correctAnswer": 1,
+            "explanation": "نقص الأكسجة هو نقص أكسجين الأنسجة على المستوى الخلوي."
+          }
+        ]
+      }
+    ],
+    "summary": [
+      "Maslow's hierarchy: Physiological → Safety → Love/Belonging → Esteem → Self-Actualization",
+      "Body fluid = 50-60% body weight; ICF and ECF compartments; key cations: K+ (intracellular), Na+ (extracellular)",
+      "Fluid transport: passive (diffusion, osmosis, filtration) and active (requires ATP)",
+      "Oxygenation process: Ventilation → Perfusion → Diffusion; external and internal respiration",
+      "Common respiratory alterations include hypoxia, hyperventilation, hypoventilation, and dyspnea",
+      "6 essential nutrients: proteins, fats, carbohydrates, vitamins, minerals, and water"
+    ],
+    "summaryAr": [
+      "هرم ماسلو: فسيولوجية → أمان → حب/انتماء → تقدير → تحقيق الذات",
+      "سوائل الجسم = 50-60% من وزن الجسم؛ حجرات ICF و ECF؛ الكاتيونات الرئيسية: K+ (داخل الخلايا)، Na+ (خارج الخلايا)",
+      "نقل السوائل: سلبي (انتشار، تناضح، ترشيح) ونشط (يتطلب ATP)",
+      "عملية الأكسجة: تهوية → تروية → انتشار؛ التنفس الخارجي والداخلي",
+      "التغيرات التنفسية الشائعة تشمل نقص الأكسجة وفرط التنفس ونقص التنفس وضيق التنفس",
+      "6 مغذيات أساسية: بروتينات، دهون، كربوهيدرات، فيتامينات، معادن، وماء"
+    ],
+    "examPoints": [
+      "Know the 5 levels of Maslow's hierarchy in order",
+      "Differentiate between ICF and ECF and their key electrolytes",
+      "Know passive vs active transport mechanisms",
+      "Understand ventilation, perfusion, and diffusion in oxygenation",
+      "Know common respiratory alterations and their definitions",
+      "List the 6 essential nutrients and their functions"
+    ],
+    "examPointsAr": [
+      "اعرف المستويات الخمسة لهرم ماسلو بالترتيب",
+      "فرّق بين ICF و ECF وشواردهما الرئيسية",
+      "اعرف آليات النقل السلبي مقابل النشط",
+      "افهم التهوية والتروية والانتشار في الأكسجة",
+      "اعرف التغيرات التنفسية الشائعة وتعريفاتها",
+      "اسرد المغذيات الستة الأساسية ووظائفها"
+    ]
+  },
+  {
+    "id": "ch6",
+    "number": 6,
+    "title": "Physiological Needs: Elimination, Rest & Activity",
+    "titleAr": "الاحتياجات الفسيولوجية: الإخراج والراحة والنشاط",
+    "description": "Learn about urinary and bowel elimination, rest and sleep, skin integrity, and activities of daily living",
+    "descriptionAr": "تعرف على الإخراج البولي والمعوي والراحة والنوم وسلامة الجلد وأنشطة الحياة اليومية",
+    "icon": "Stethoscope",
+    "color": "from-rose-500 to-rose-600",
+    "lessons": [
+      {
+        "id": "ch6-l1",
+        "title": "Urinary & Bowel Elimination",
+        "titleAr": "الإخراج البولي والمعوي",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Describe the physiology of urinary and bowel elimination"
+          },
+          {
+            "id": "obj2",
+            "text": "Identify common elimination problems"
+          },
+          {
+            "id": "obj3",
+            "text": "List factors affecting elimination and nursing interventions"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "وصف فسيولوجيا الإخراج البولي والمعوي"
+          },
+          {
+            "id": "obj2",
+            "text": "تحديد مشاكل الإخراج الشائعة"
+          },
+          {
+            "id": "obj3",
+            "text": "سرد العوامل المؤثرة على الإخراج والتدخلات التمريضية"
+          }
+        ],
+        "content": [
+          "Urinary Elimination: removal of waste products through the urinary system. Desire to void occurs when bladder fills with 250-450 mL in adults and 50-200 mL in children. Stretch receptors transmit messages to the voiding reflex center in the spinal cord.",
+          "Factors Influencing Urinary Elimination: Growth and development, Sociocultural factors, Psychological factors, Personal habits, Fluid intake, Pathological conditions, Surgical procedures, Medications, Diagnostic examinations.",
+          "Common Urinary Problems: Anuria (<50 mL/24h), Dysuria (painful urination), Frequency (increased voiding), Glycosuria (sugar in urine), Nocturia (night voiding), Oliguria (<400 mL/24h), Polyuria (excessive output), Proteinuria (protein in urine), Pyuria (pus in urine), Urgency, Urinary incontinence.",
+          "Bowel Elimination (Defecation): natural process of eliminating feces from the bowel. The large intestine is the primary organ. Functions: absorption of water and nutrients, manufacture of vitamins, formation and expulsion of feces.",
+          "Peristalsis is under control of the nervous system; contractions occur every 3-12 minutes. Mass peristalsis sweeps occur 1-4 times per 24 hours.",
+          "Factors Affecting Bowel Elimination: Age, diet, fluid intake, physical activity, psychological factors, personal habits, position during defecation, pain, pregnancy, surgery/anesthesia, medications.",
+          "Common Bowel Problems: Constipation (hard stools, infrequent), Impaction (accumulated dry feces), Diarrhea (>3 times/day, liquid), Incontinence (involuntary), Flatulence (gas), Hemorrhoids (dilated anal veins).",
+          "Promoting Regular Bowel Habits: attend to urges promptly, sit up position (gravity aids), privacy, proper nutrition, exercise, abdominal and thigh strengthening."
+        ],
+        "contentAr": [
+          "الإخراج البولي: إزالة الفضلات من خلال الجهاز البولي. تحدث الرغبة في التبول عندما تمتلئ المثانة بـ 250-450 مل عند البالغين و 50-200 مل عند الأطفال. مستقبلات التمدد ترسل رسائل إلى مركز منعكس التبول في الحبل الشوكي.",
+          "العوامل المؤثرة على الإخراج البولي: النمو والتطور، العوامل الاجتماعية الثقافية، العوامل النفسية، العادات الشخصية، تناول السوائل، الحالات المرضية، الإجراءات الجراحية، الأدوية، الفحوصات التشخيصية.",
+          "المشاكل البولية الشائعة: انقطاع البول (<50 مل/24 ساعة)، عسر التبول (تبول مؤلم)، التكرار (زيادة التبول)، البيلة السكرية (سكر في البول)، التبول الليلي، قلة البول (<400 مل/24 ساعة)، كثرة التبول (إخراج مفرط)، البيلة البروتينية، البيلة القيحية، الإلحاح، سلس البول.",
+          "الإخراج المعوي (التغوط): عملية طبيعية لإخراج البراز من الأمعاء. الأمعاء الغليظة هي العضو الرئيسي. الوظائف: امتصاص الماء والمغذيات، تصنيع الفيتامينات، تكوين وطرد البراز.",
+          "الحركة الدودية تحت سيطرة الجهاز العصبي؛ تحدث التقلصات كل 3-12 دقيقة. حركات دودية كبرى تحدث 1-4 مرات كل 24 ساعة.",
+          "العوامل المؤثرة على الإخراج المعوي: العمر، النظام الغذائي، تناول السوائل، النشاط البدني، العوامل النفسية، العادات الشخصية، الوضعية أثناء التغوط، الألم، الحمل، الجراحة/التخدير، الأدوية.",
+          "المشاكل المعوية الشائعة: الإمساك (براز صلب، غير متكرر)، الانحشار (تراكم براز جاف)، الإسهال (>3 مرات/يوم، سائل)، سلس البراز (لا إرادي)، انتفاخ البطن (غازات)، البواسير (أوردة شرجية متوسعة).",
+          "تعزيز عادات الأمعاء المنتظمة: الاستجابة للإلحاح فوراً، وضعية الجلوس (الجاذبية تساعد)، الخصوصية، التغذية السليمة، التمارين، تقوية عضلات البطن والفخذين."
+        ],
+        "keyConcepts": [
+          {
+            "term": "Anuria",
+            "definition": "24-hour urine output less than 50 mL; renal failure"
+          },
+          {
+            "term": "Oliguria",
+            "definition": "24-hour urine output less than 400 mL"
+          },
+          {
+            "term": "Polyuria",
+            "definition": "Excessive urine output (diuresis)"
+          },
+          {
+            "term": "Constipation",
+            "definition": "Abnormal frequency of defecation and hardening of stools"
+          },
+          {
+            "term": "Diarrhea",
+            "definition": "Increased frequency (>3/day) with liquid consistency"
+          },
+          {
+            "term": "Peristalsis",
+            "definition": "Wave-like muscle contractions that move food through the GI tract"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "انقطاع البول",
+            "definition": "إخراج بول أقل من 50 مل في 24 ساعة؛ فشل كلوي"
+          },
+          {
+            "term": "قلة البول",
+            "definition": "إخراج بول أقل من 400 مل في 24 ساعة"
+          },
+          {
+            "term": "كثرة التبول",
+            "definition": "إخراج بول مفرط (إدرار)"
+          },
+          {
+            "term": "الإمساك",
+            "definition": "تكرار غير طبيعي للتغوط وتصلب البراز"
+          },
+          {
+            "term": "الإسهال",
+            "definition": "زيادة التكرار (>3/يوم) مع قوام سائل"
+          },
+          {
+            "term": "الحركة الدودية",
+            "definition": "تقلصات عضلية موجية تحرك الطعام عبر الجهاز الهضمي"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "Dysuria",
+            "definition": "Painful or difficult urination"
+          },
+          {
+            "term": "Nocturia",
+            "definition": "Awakening at night to urinate"
+          },
+          {
+            "term": "Glycosuria",
+            "definition": "Presence of sugar in urine"
+          },
+          {
+            "term": "Proteinuria",
+            "definition": "Protein in urine; indication of kidney disease"
+          },
+          {
+            "term": "Impaction",
+            "definition": "Accumulated mass of dry feces that cannot be expelled"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "Elimination Assessment in Practice",
+          "description": "A post-surgical patient hasn't urinated for 8 hours. Assess bladder distension, encourage fluid intake, provide privacy, and try running water. Monitor output closely. If the patient reports no bowel movement for 3 days post-surgery, assess bowel sounds, encourage ambulation, fluids, and fiber intake."
+        },
+        "clinicalConnectionAr": {
+          "title": "تقييم الإخراج في الممارسة",
+          "description": "مريض بعد الجراحة لم يتبول لمدة 8 ساعات. قيّم انتفاخ المثانة، شجع تناول السوائل، وفر الخصوصية، وحاول تشغيل صوت الماء. راقب الإخراج عن كثب. إذا أفاد المريض بعدم وجود حركة أمعاء لمدة 3 أيام بعد الجراحة، قيّم أصوات الأمعاء، شجع المشي والسوائل وتناول الألياف."
+        },
+        "quickReview": [
+          "Bladder capacity: 250-450 mL adults, 50-200 mL children",
+          "Anuria <50 mL/24h; Oliguria <400 mL/24h; Polyuria = excessive output",
+          "Large intestine: primary organ of bowel elimination",
+          "Peristalsis contractions every 3-12 min; mass sweeps 1-4 times/24h",
+          "Common bowel problems: constipation, impaction, diarrhea, incontinence, flatulence, hemorrhoids",
+          "Promote regular bowels: prompt response to urges, upright position, privacy, nutrition, exercise"
+        ],
+        "quickReviewAr": [
+          "سعة المثانة: 250-450 مل للبالغين، 50-200 مل للأطفال",
+          "انقطاع البول <50 مل/24 ساعة؛ قلة البول <400 مل/24 ساعة؛ كثرة التبول = إخراج مفرط",
+          "الأمعاء الغليظة: العضو الرئيسي للإخراج المعوي",
+          "تقلصات دودية كل 3-12 دقيقة؛ حركات كبرى 1-4 مرات/24 ساعة",
+          "المشاكل المعوية الشائعة: إمساك، انحشار، إسهال، سلس، انتفاخ، بواسير",
+          "تعزيز انتظام الأمعاء: استجابة فورية للإلحاح، وضعية مستقيمة، خصوصية، تغذية، تمارين"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Normal adult bladder capacity that triggers the urge to void is:",
+            "options": [
+              "50-100 mL",
+              "100-200 mL",
+              "250-450 mL",
+              "500-700 mL"
+            ],
+            "correctAnswer": 2,
+            "explanation": "The desire to void occurs when the bladder fills with 250-450 mL in adults."
+          },
+          {
+            "id": "q2",
+            "question": "Oliguria is defined as 24-hour urine output of:",
+            "options": [
+              "Less than 50 mL",
+              "Less than 400 mL",
+              "More than 2000 mL",
+              "Exactly 1000 mL"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Oliguria is scanty urine output with less than 400 mL in 24 hours."
+          },
+          {
+            "id": "q3",
+            "question": "Which of the following promotes regular bowel habits?",
+            "options": [
+              "Ignoring urges to defecate",
+              "Sitting upright during defecation",
+              "Reducing fluid intake",
+              "Bed rest"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Sitting upright allows gravity to aid in bowel movement. Also respond to urges promptly and maintain adequate fluid and fiber intake."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "سعة المثانة الطبيعية للبالغ التي تحفز الرغبة في التبول هي:",
+            "options": [
+              "50-100 مل",
+              "100-200 مل",
+              "250-450 مل",
+              "500-700 مل"
+            ],
+            "correctAnswer": 2,
+            "explanation": "تحدث الرغبة في التبول عندما تمتلئ المثانة بـ 250-450 مل عند البالغين."
+          },
+          {
+            "id": "q2",
+            "question": "تُعرف قلة البول بأنها إخراج بول في 24 ساعة بمقدار:",
+            "options": [
+              "أقل من 50 مل",
+              "أقل من 400 مل",
+              "أكثر من 2000 مل",
+              "بالضبط 1000 مل"
+            ],
+            "correctAnswer": 1,
+            "explanation": "قلة البول هي إخراج بول ضئيل بأقل من 400 مل في 24 ساعة."
+          },
+          {
+            "id": "q3",
+            "question": "أي مما يلي يعزز عادات الأمعاء المنتظمة؟",
+            "options": [
+              "تجاهل الرغبة في التغوط",
+              "الجلوس بوضعية مستقيمة أثناء التغوط",
+              "تقليل تناول السوائل",
+              "الراحة في السرير"
+            ],
+            "correctAnswer": 1,
+            "explanation": "الجلوس بوضعية مستقيمة يسمح للجاذبية بالمساعدة في حركة الأمعاء. أيضاً استجب للإلحاح فوراً وحافظ على تناول كافٍ من السوائل والألياف."
+          }
+        ]
+      },
+      {
+        "id": "ch6-l2",
+        "title": "Rest, Sleep & Skin Integrity",
+        "titleAr": "الراحة والنوم وسلامة الجلد",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Define rest and sleep and their importance"
+          },
+          {
+            "id": "obj2",
+            "text": "Describe sleep physiology, stages, and disorders"
+          },
+          {
+            "id": "obj3",
+            "text": "Explain skin integrity, functions, and nursing care"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تعريف الراحة والنوم وأهميتهما"
+          },
+          {
+            "id": "obj2",
+            "text": "وصف فسيولوجيا النوم ومراحله واضطراباته"
+          },
+          {
+            "id": "obj3",
+            "text": "شرح سلامة الجلد ووظائفه والرعاية التمريضية"
+          }
+        ],
+        "content": [
+          "Rest: a condition where the body is inactive or mildly active, after which the person feels refreshed, calm, relaxed, and free of anxiety. Sleep: a state of rest with dynamic behavioral and physiological processes vital to health.",
+          "Sleep requirements: ~8 hours accepted standard, varies by age. Sleep is cyclical with periods of wakefulness. Stages: Stage 1 (lightest), Stage 3 non-REM (deepest, delta waves, body repair), REM (eyes move rapidly, brain active, dreaming, body paralysis).",
+          "Functions of Sleep: Cleaning brain of toxins, physical restoration, information processing and memorization, mood regulation, strengthening immune system, hormonal balance, hunger control, tissue regeneration, cardiovascular health.",
+          "Factors Affecting Sleep: Developmental considerations, physical activity, psychological stress, motivation, culture, diet, alcohol, caffeine, smoking, environment, lifestyle, exercise, illness, medications.",
+          "Common Sleep Disorders: Dyssomnias (insomnia/excessive sleepiness), Parasomnias (sleepwalking, sleep talking, bedwetting), Narcolepsy (uncontrollable desire to sleep), Insomnia (difficulty falling/staying asleep), Sleep apnea (no breathing between snoring), Sleep deprivation.",
+          "Nursing Care for Sleep: Assess sleep pattern, prepare restful environment, promote bedtime rituals, appropriate snacks/beverages, promote relaxation, respect normal sleep-wake pattern, avoid unnecessary disturbances, use medications as ordered.",
+          "Skin is the largest organ. Functions: Protection (first line of defense), body temperature regulation, psychosocial, sensation, Vitamin D production, immunologic, absorption, elimination.",
+          "Factors Affecting Skin Integrity: Unbroken skin as first defense, age and underlying conditions, adequate nutrition and hydration, adequate circulation.",
+          "S-K-I-N Bundle: Surface (correct mattress, no wrinkles), Keep turning (reposition every 2 hours), Incontinence management (toileting, moisture barrier), Nutrition (consult, encourage intake). Patient education: adequate nutrition, appropriate positioning, report reddened areas."
+        ],
+        "contentAr": [
+          "الراحة: حالة يكون فيها الجسم غير نشط أو نشط بشكل خفيف، وبعدها يشعر الشخص بالانتعاش والهدوء والاسترخاء وعدم القلق. النوم: حالة راحة مع عمليات سلوكية وفسيولوجية ديناميكية حيوية للصحة.",
+          "متطلبات النوم: حوالي 8 ساعات كمعيار مقبول، تختلف حسب العمر. النوم دوري مع فترات يقظة. المراحل: المرحلة 1 (الأخف)، المرحلة 3 غير REM (الأعمق، موجات دلتا، إصلاح الجسم)، REM (حركة سريعة للعيون، الدماغ نشط، أحلام، شلل الجسم).",
+          "وظائف النوم: تنظيف الدماغ من السموم، الترميم الجسدي، معالجة المعلومات والحفظ، تنظيم المزاج، تقوية جهاز المناعة، التوازن الهرموني، التحكم بالجوع، تجديد الأنسجة، صحة القلب والأوعية.",
+          "العوامل المؤثرة على النوم: الاعتبارات التطورية، النشاط البدني، الإجهاد النفسي، الدافع، الثقافة، النظام الغذائي، الكحول، الكافيين، التدخين، البيئة، نمط الحياة، التمارين، المرض، الأدوية.",
+          "اضطرابات النوم الشائعة: خلل النوم (أرق/نعاس مفرط)، باراسومنيا (المشي أثناء النوم، الكلام أثناء النوم، التبول اللاإرادي)، الخدار (رغبة لا يمكن السيطرة عليها بالنوم)، الأرق (صعوبة النوم/البقاء نائماً)، انقطاع التنفس أثناء النوم، الحرمان من النوم.",
+          "الرعاية التمريضية للنوم: تقييم نمط النوم، تحضير بيئة هادئة، تعزيز طقوس وقت النوم، وجبات ومشروبات مناسبة، تعزيز الاسترخاء، احترام نمط النوم-اليقظة الطبيعي، تجنب الإزعاج غير الضروري.",
+          "الجلد هو أكبر عضو. الوظائف: الحماية (خط الدفاع الأول)، تنظيم حرارة الجسم، نفسية اجتماعية، الإحساس، إنتاج فيتامين د، مناعية، الامتصاص، الإخراج.",
+          "العوامل المؤثرة على سلامة الجلد: الجلد السليم كخط دفاع أول، العمر والحالات الكامنة، التغذية والترطيب الكافي، الدورة الدموية الكافية.",
+          "حزمة S-K-I-N: السطح (فراش صحيح، بدون تجاعيد)، استمر في التقليب (إعادة التموضع كل ساعتين)، إدارة سلس البول (مساعدة الحمام، حاجز الرطوبة)، التغذية (استشارة، تشجيع المدخول). تثقيف المريض: تغذية كافية، تموضع مناسب، الإبلاغ عن المناطق المحمرة."
+        ],
+        "keyConcepts": [
+          {
+            "term": "REM Sleep",
+            "definition": "Rapid Eye Movement stage; brain active, dreaming occurs, body in paralysis"
+          },
+          {
+            "term": "Non-REM Stage 3",
+            "definition": "Deepest sleep; delta waves, body goes into healing and repair mode"
+          },
+          {
+            "term": "Insomnia",
+            "definition": "Difficulty falling asleep, intermittent sleep, or early awakening"
+          },
+          {
+            "term": "Sleep Apnea",
+            "definition": "Period of no breathing between snoring intervals"
+          },
+          {
+            "term": "SKIN Bundle",
+            "definition": "Surface, Keep turning, Incontinence management, Nutrition"
+          },
+          {
+            "term": "Skin Integrity",
+            "definition": "Maintaining unbroken, healthy skin as the first line of defense"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "نوم REM",
+            "definition": "مرحلة حركة العين السريعة؛ الدماغ نشط، تحدث الأحلام، الجسم في شلل"
+          },
+          {
+            "term": "المرحلة 3 غير REM",
+            "definition": "أعمق نوم؛ موجات دلتا، الجسم يدخل وضع الشفاء والإصلاح"
+          },
+          {
+            "term": "الأرق",
+            "definition": "صعوبة النوم أو النوم المتقطع أو الاستيقاظ المبكر"
+          },
+          {
+            "term": "انقطاع التنفس أثناء النوم",
+            "definition": "فترة انقطاع التنفس بين فترات الشخير"
+          },
+          {
+            "term": "حزمة SKIN",
+            "definition": "السطح، استمر في التقليب، إدارة السلس، التغذية"
+          },
+          {
+            "term": "سلامة الجلد",
+            "definition": "الحفاظ على جلد سليم وصحي كخط دفاع أول"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "Parasomnia",
+            "definition": "Waking behavior patterns during sleep (sleepwalking, sleep talking)"
+          },
+          {
+            "term": "Narcolepsy",
+            "definition": "Uncontrollable desire to sleep"
+          },
+          {
+            "term": "Dyssomnia",
+            "definition": "Sleep disorder characterized by insomnia or excessive sleepiness"
+          },
+          {
+            "term": "Integumentary System",
+            "definition": "Skin, hair, nails, sweat glands, and subcutaneous tissue"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "Sleep & Skin Care in Practice",
+          "description": "A hospitalized patient reports difficulty sleeping. Assess sleep history, reduce noise and light, maintain bedtime routines, offer warm beverages, and schedule nursing care to minimize disturbances. For a bedridden patient: reposition every 2 hours, assess pressure points, maintain clean dry skin, ensure adequate nutrition with protein and vitamin C."
+        },
+        "clinicalConnectionAr": {
+          "title": "رعاية النوم والجلد في الممارسة",
+          "description": "مريض في المستشفى يفيد بصعوبة النوم. قيّم تاريخ النوم، قلل الضوضاء والإضاءة، حافظ على روتين وقت النوم، قدم مشروبات دافئة، وجدول الرعاية لتقليل الإزعاج. لمريض طريح الفراش: أعد التموضع كل ساعتين، قيّم نقاط الضغط، حافظ على جلد نظيف وجاف، تأكد من تغذية كافية مع البروتين وفيتامين سي."
+        },
+        "quickReview": [
+          "Rest = inactive body, refreshed feeling; Sleep = dynamic physiological state",
+          "Sleep stages: Stage 1 (lightest) → Stage 3 non-REM (deepest, repair) → REM (dreaming)",
+          "Sleep functions: brain detox, restoration, memory, mood, immunity",
+          "Common disorders: insomnia, sleep apnea, narcolepsy, parasomnias",
+          "Skin functions: protection, temperature regulation, sensation, vitamin D, immunity",
+          "SKIN Bundle: Surface, Keep turning, Incontinence management, Nutrition"
+        ],
+        "quickReviewAr": [
+          "الراحة = جسم غير نشط، شعور بالانتعاش؛ النوم = حالة فسيولوجية ديناميكية",
+          "مراحل النوم: المرحلة 1 (الأخف) → المرحلة 3 غير REM (الأعمق، إصلاح) → REM (أحلام)",
+          "وظائف النوم: تنظيف الدماغ، الترميم، الذاكرة، المزاج، المناعة",
+          "الاضطرابات الشائعة: أرق، انقطاع تنفس أثناء النوم، خدار، باراسومنيا",
+          "وظائف الجلد: حماية، تنظيم حرارة، إحساس، فيتامين د، مناعة",
+          "حزمة SKIN: السطح، استمر في التقليب، إدارة السلس، التغذية"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "During which sleep stage does body repair and healing occur?",
+            "options": [
+              "Stage 1",
+              "REM sleep",
+              "Non-REM Stage 3",
+              "Wakefulness"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Non-REM Stage 3 is the deepest sleep where the body goes into healing and repair mode with delta brain waves."
+          },
+          {
+            "id": "q2",
+            "question": "The SKIN Bundle 'K' stands for:",
+            "options": [
+              "Keep clean",
+              "Keep turning",
+              "Keep hydrated",
+              "Keep warm"
+            ],
+            "correctAnswer": 1,
+            "explanation": "K stands for Keep Turning – repositioning the patient every 2 hours minimum to prevent pressure injuries."
+          },
+          {
+            "id": "q3",
+            "question": "Which sleep disorder is characterized by uncontrollable desire to sleep?",
+            "options": [
+              "Insomnia",
+              "Sleep apnea",
+              "Narcolepsy",
+              "Parasomnia"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Narcolepsy is a condition characterized by an uncontrollable desire to sleep."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "في أي مرحلة من النوم يحدث إصلاح وشفاء الجسم؟",
+            "options": [
+              "المرحلة 1",
+              "نوم REM",
+              "المرحلة 3 غير REM",
+              "اليقظة"
+            ],
+            "correctAnswer": 2,
+            "explanation": "المرحلة 3 غير REM هي أعمق نوم حيث يدخل الجسم وضع الشفاء والإصلاح مع موجات دلتا."
+          },
+          {
+            "id": "q2",
+            "question": "حرف K في حزمة SKIN يرمز إلى:",
+            "options": [
+              "حافظ على النظافة",
+              "استمر في التقليب",
+              "حافظ على الترطيب",
+              "حافظ على الدفء"
+            ],
+            "correctAnswer": 1,
+            "explanation": "K يرمز إلى Keep Turning – إعادة تموضع المريض كل ساعتين كحد أدنى لمنع إصابات الضغط."
+          },
+          {
+            "id": "q3",
+            "question": "أي اضطراب نوم يتميز برغبة لا يمكن السيطرة عليها بالنوم؟",
+            "options": [
+              "الأرق",
+              "انقطاع التنفس أثناء النوم",
+              "الخدار",
+              "باراسومنيا"
+            ],
+            "correctAnswer": 2,
+            "explanation": "الخدار هو حالة تتميز برغبة لا يمكن السيطرة عليها بالنوم."
+          }
+        ]
+      },
+      {
+        "id": "ch6-l3",
+        "title": "Activity, Sex Concept & Daily Living",
+        "titleAr": "النشاط والمفهوم الجنسي والحياة اليومية",
+        "objectives": [
+          {
+            "id": "obj1",
+            "text": "Define physical activity and activities of daily living (ADLs)"
+          },
+          {
+            "id": "obj2",
+            "text": "Explain the importance of physical activity"
+          },
+          {
+            "id": "obj3",
+            "text": "Describe sex concept, gender identity, and nursing interventions"
+          }
+        ],
+        "objectivesAr": [
+          {
+            "id": "obj1",
+            "text": "تعريف النشاط البدني وأنشطة الحياة اليومية"
+          },
+          {
+            "id": "obj2",
+            "text": "شرح أهمية النشاط البدني"
+          },
+          {
+            "id": "obj3",
+            "text": "وصف المفهوم الجنسي وهوية النوع والتدخلات التمريضية"
+          }
+        ],
+        "content": [
+          "Physical activity (PA) is any movement produced by skeletal muscles that results in energy expenditure. Active living values and includes physical activity in everyday living.",
+          "Activities of Daily Living (ADLs) are fundamental skills required to independently care for oneself: eating, bathing, dressing, toileting, transferring/ambulating. Instrumental ADLs (IADLs) include more complex activities: managing finances, medications, food preparation, housekeeping.",
+          "Importance of Physical Activity (AHA 2018): Elevates mood and attitude, enables physical fitness, helps quit smoking, boosts energy levels, helps manage stress, improves self-image and confidence.",
+          "The Roper-Logan-Tierney Model lists 12 Activities of Living: maintaining safe environment, communicating, breathing, eating/drinking, eliminating, personal cleansing/dressing, maintaining body temperature, mobilizing, working/playing, expressing sexuality, sleeping, dying.",
+          "Sex: biological characteristics as female or male. Gender: what society defines as female or male. Gender role: attitudes and behaviors considered appropriate for each gender. Gender identity: how one views oneself. Sexual health: integration of physical, emotional, intellectual and social aspects.",
+          "Factors Affecting Sexuality: Culture, religion, ethics, lifestyle, health state, age, stereotypes.",
+          "Sexual Rights (WHO): Right to highest standard of sexual health, sexuality education, respect for bodily integrity, choose partners, decide about children.",
+          "Nursing Interventions: Health promotion, illness prevention, support and counseling, encourage expressing health goals, instruction about hygiene and disease prevention (STDs), encourage healthy diet and exercise, stress management."
+        ],
+        "contentAr": [
+          "النشاط البدني هو أي حركة تنتجها العضلات الهيكلية وتؤدي إلى إنفاق الطاقة. الحياة النشطة تقدر وتشمل النشاط البدني في الحياة اليومية.",
+          "أنشطة الحياة اليومية (ADLs) هي المهارات الأساسية المطلوبة للعناية بالنفس بشكل مستقل: الأكل، الاستحمام، ارتداء الملابس، استخدام الحمام، الانتقال/المشي. أنشطة الحياة اليومية الآلية (IADLs) تشمل أنشطة أكثر تعقيداً: إدارة المالية، الأدوية، إعداد الطعام، التدبير المنزلي.",
+          "أهمية النشاط البدني (AHA 2018): يرفع المزاج والسلوك، يمكّن اللياقة البدنية، يساعد على الإقلاع عن التدخين، يعزز مستويات الطاقة، يساعد في إدارة الإجهاد، يحسن صورة الذات والثقة.",
+          "نموذج روبر-لوغان-تيرني يسرد 12 نشاطاً للحياة: الحفاظ على بيئة آمنة، التواصل، التنفس، الأكل/الشرب، الإخراج، النظافة الشخصية/اللباس، الحفاظ على حرارة الجسم، التنقل، العمل/اللعب، التعبير عن الجنسانية، النوم، الموت.",
+          "الجنس: الخصائص البيولوجية كأنثى أو ذكر. النوع: ما يعرّفه المجتمع كأنثى أو ذكر. دور النوع: المواقف والسلوكيات المناسبة لكل نوع. هوية النوع: كيف يرى المرء نفسه. الصحة الجنسية: تكامل الجوانب الجسدية والعاطفية والفكرية والاجتماعية.",
+          "العوامل المؤثرة على الجنسانية: الثقافة، الدين، الأخلاق، نمط الحياة، الحالة الصحية، العمر، الصور النمطية.",
+          "الحقوق الجنسية (WHO): الحق في أعلى معيار للصحة الجنسية، التثقيف الجنسي، احترام سلامة الجسد، اختيار الشركاء، القرار بشأن الأطفال.",
+          "التدخلات التمريضية: تعزيز الصحة، الوقاية من المرض، الدعم والإرشاد، تشجيع التعبير عن الأهداف الصحية، التعليم عن النظافة والوقاية من الأمراض المنقولة جنسياً، تشجيع النظام الغذائي الصحي والتمارين، إدارة الإجهاد."
+        ],
+        "keyConcepts": [
+          {
+            "term": "ADLs",
+            "definition": "Activities of Daily Living: eating, bathing, dressing, toileting, mobility"
+          },
+          {
+            "term": "IADLs",
+            "definition": "Instrumental ADLs: managing finances, medications, food preparation"
+          },
+          {
+            "term": "Physical Activity",
+            "definition": "Any movement by skeletal muscles resulting in energy expenditure"
+          },
+          {
+            "term": "Gender Identity",
+            "definition": "How one views oneself as male or female"
+          },
+          {
+            "term": "Sexual Health",
+            "definition": "Integration of physical, emotional, intellectual and social aspects of sexuality"
+          },
+          {
+            "term": "12 Activities of Living",
+            "definition": "Roper-Logan-Tierney model framework for nursing assessment"
+          }
+        ],
+        "keyConceptsAr": [
+          {
+            "term": "أنشطة الحياة اليومية",
+            "definition": "الأكل، الاستحمام، اللباس، الحمام، الحركة"
+          },
+          {
+            "term": "أنشطة الحياة اليومية الآلية",
+            "definition": "إدارة المالية، الأدوية، إعداد الطعام"
+          },
+          {
+            "term": "النشاط البدني",
+            "definition": "أي حركة للعضلات الهيكلية تؤدي لإنفاق الطاقة"
+          },
+          {
+            "term": "هوية النوع",
+            "definition": "كيف يرى المرء نفسه كذكر أو أنثى"
+          },
+          {
+            "term": "الصحة الجنسية",
+            "definition": "تكامل الجوانب الجسدية والعاطفية والفكرية والاجتماعية للجنسانية"
+          },
+          {
+            "term": "12 نشاطاً للحياة",
+            "definition": "إطار نموذج روبر-لوغان-تيرني للتقييم التمريضي"
+          }
+        ],
+        "medicalTerms": [
+          {
+            "term": "ADL",
+            "definition": "Activities of Daily Living"
+          },
+          {
+            "term": "IADL",
+            "definition": "Instrumental Activities of Daily Living"
+          },
+          {
+            "term": "STDs",
+            "definition": "Sexually Transmitted Diseases"
+          },
+          {
+            "term": "AHA",
+            "definition": "American Heart Association"
+          }
+        ],
+        "clinicalConnection": {
+          "title": "ADL Assessment & Sexuality in Nursing",
+          "description": "When assessing a stroke patient, evaluate their ability to perform ADLs independently. Use the Roper-Logan-Tierney model to assess all 12 activities of living. For sexuality concerns, provide a non-judgmental environment, address concerns about body image changes, and offer appropriate counseling referrals."
+        },
+        "clinicalConnectionAr": {
+          "title": "تقييم أنشطة الحياة اليومية والجنسانية في التمريض",
+          "description": "عند تقييم مريض سكتة دماغية، قيّم قدرته على أداء أنشطة الحياة اليومية بشكل مستقل. استخدم نموذج روبر-لوغان-تيرني لتقييم جميع أنشطة الحياة الـ 12. لمخاوف الجنسانية، وفر بيئة غير حكمية، عالج المخاوف بشأن تغيرات صورة الجسم، وقدم إحالات إرشادية مناسبة."
+        },
+        "quickReview": [
+          "ADLs: eating, bathing, dressing, toileting, mobility; IADLs: finances, meds, cooking",
+          "Physical activity: elevates mood, fitness, energy, stress management",
+          "Roper-Logan-Tierney: 12 Activities of Living from safe environment to dying",
+          "Sex = biological; Gender = social; Gender identity = personal view",
+          "Sexual health integrates physical, emotional, intellectual, social aspects",
+          "Nursing: health promotion, counseling, hygiene education, STD prevention"
+        ],
+        "quickReviewAr": [
+          "ADLs: الأكل، الاستحمام، اللباس، الحمام، الحركة؛ IADLs: المالية، الأدوية، الطبخ",
+          "النشاط البدني: يرفع المزاج، اللياقة، الطاقة، إدارة الإجهاد",
+          "روبر-لوغان-تيرني: 12 نشاطاً للحياة من البيئة الآمنة إلى الموت",
+          "الجنس = بيولوجي؛ النوع = اجتماعي؛ هوية النوع = رؤية شخصية",
+          "الصحة الجنسية تدمج الجوانب الجسدية والعاطفية والفكرية والاجتماعية",
+          "تمريض: تعزيز الصحة، الإرشاد، تعليم النظافة، الوقاية من الأمراض المنقولة جنسياً"
+        ],
+        "quiz": [
+          {
+            "id": "q1",
+            "question": "Which of the following is an IADL (Instrumental ADL)?",
+            "options": [
+              "Bathing",
+              "Eating",
+              "Managing medications",
+              "Toileting"
+            ],
+            "correctAnswer": 2,
+            "explanation": "IADLs include complex activities like managing medications, finances, food preparation, and housekeeping."
+          },
+          {
+            "id": "q2",
+            "question": "According to the Roper-Logan-Tierney model, how many Activities of Living are there?",
+            "options": [
+              "6",
+              "8",
+              "10",
+              "12"
+            ],
+            "correctAnswer": 3,
+            "explanation": "The Roper-Logan-Tierney Model lists 12 Activities of Living from maintaining a safe environment to dying."
+          },
+          {
+            "id": "q3",
+            "question": "Gender identity refers to:",
+            "options": [
+              "Biological characteristics",
+              "Society's definition of male/female",
+              "How one views oneself as male or female",
+              "Cultural expectations"
+            ],
+            "correctAnswer": 2,
+            "explanation": "Gender identity is how one chooses to view oneself as male or female in integration with others."
+          }
+        ],
+        "quizAr": [
+          {
+            "id": "q1",
+            "question": "أي مما يلي يعد من أنشطة الحياة اليومية الآلية (IADL)؟",
+            "options": [
+              "الاستحمام",
+              "الأكل",
+              "إدارة الأدوية",
+              "استخدام الحمام"
+            ],
+            "correctAnswer": 2,
+            "explanation": "IADLs تشمل أنشطة معقدة مثل إدارة الأدوية والمالية وإعداد الطعام والتدبير المنزلي."
+          },
+          {
+            "id": "q2",
+            "question": "وفقاً لنموذج روبر-لوغان-تيرني، كم عدد أنشطة الحياة؟",
+            "options": [
+              "6",
+              "8",
+              "10",
+              "12"
+            ],
+            "correctAnswer": 3,
+            "explanation": "نموذج روبر-لوغان-تيرني يسرد 12 نشاطاً للحياة من الحفاظ على بيئة آمنة إلى الموت."
+          },
+          {
+            "id": "q3",
+            "question": "هوية النوع تشير إلى:",
+            "options": [
+              "الخصائص البيولوجية",
+              "تعريف المجتمع للذكر/الأنثى",
+              "كيف يرى المرء نفسه كذكر أو أنثى",
+              "التوقعات الثقافية"
+            ],
+            "correctAnswer": 2,
+            "explanation": "هوية النوع هي كيف يختار المرء رؤية نفسه كذكر أو أنثى في التكامل مع الآخرين."
+          }
+        ]
+      }
+    ],
+    "summary": [
+      "Urinary elimination triggered at 250-450 mL in adults; common problems include anuria, oliguria, polyuria, dysuria",
+      "Bowel elimination depends on peristalsis; problems include constipation, diarrhea, impaction, hemorrhoids",
+      "Sleep has stages: Stage 1 (lightest), Stage 3 non-REM (deepest, repair), REM (dreaming)",
+      "Sleep functions: brain detox, restoration, memory, mood, immunity; disorders include insomnia, apnea, narcolepsy",
+      "Skin is largest organ; SKIN Bundle: Surface, Keep turning, Incontinence management, Nutrition",
+      "ADLs are basic self-care skills; IADLs are complex living skills; 12 Activities of Living in Roper-Logan-Tierney model"
+    ],
+    "summaryAr": [
+      "الإخراج البولي يبدأ عند 250-450 مل عند البالغين؛ المشاكل الشائعة تشمل انقطاع البول وقلة البول وكثرة البول وعسر التبول",
+      "الإخراج المعوي يعتمد على الحركة الدودية؛ المشاكل تشمل الإمساك والإسهال والانحشار والبواسير",
+      "مراحل النوم: المرحلة 1 (الأخف)، المرحلة 3 غير REM (الأعمق، إصلاح)، REM (أحلام)",
+      "وظائف النوم: تنظيف الدماغ، ترميم، ذاكرة، مزاج، مناعة؛ الاضطرابات تشمل الأرق وانقطاع التنفس والخدار",
+      "الجلد أكبر عضو؛ حزمة SKIN: السطح، التقليب، إدارة السلس، التغذية",
+      "ADLs مهارات رعاية ذاتية أساسية؛ IADLs مهارات حياة معقدة؛ 12 نشاطاً للحياة في نموذج روبر-لوغان-تيرني"
+    ],
+    "examPoints": [
+      "Know common urinary problems with their definitions and normal values",
+      "Know common bowel problems and promoting factors for regular elimination",
+      "Memorize sleep stages and their characteristics (especially REM vs non-REM)",
+      "Know the SKIN Bundle interventions for preventing pressure injuries",
+      "Differentiate between ADLs and IADLs with examples",
+      "Know the 12 Activities of Living (Roper-Logan-Tierney)"
+    ],
+    "examPointsAr": [
+      "اعرف المشاكل البولية الشائعة مع تعريفاتها والقيم الطبيعية",
+      "اعرف المشاكل المعوية الشائعة والعوامل المعززة للإخراج المنتظم",
+      "احفظ مراحل النوم وخصائصها (خاصة REM مقابل غير REM)",
+      "اعرف تدخلات حزمة SKIN لمنع إصابات الضغط",
+      "فرّق بين ADLs و IADLs مع أمثلة",
+      "اعرف أنشطة الحياة الـ 12 (روبر-لوغان-تيرني)"
+    ]
+  }
+]

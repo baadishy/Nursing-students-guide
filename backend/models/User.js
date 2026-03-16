@@ -10,9 +10,8 @@ const userSchema = new mongoose.Schema(
     governorate: { type: String, required: true, trim: true },
     classNumber: { type: String, required: true, trim: true },
     schoolName: { type: String, required: true, trim: true },
-    role: { type: String, enum: ["student", "admin"], default: "student" },
+    role: { type: String, enum: ["student"], default: "student" },
     isApproved: { type: Boolean, default: false },
-    password: { type: String }, // optional, mainly for admins
     createdAt: { type: Date, default: Date.now },
   },
   { timestamps: true }
@@ -26,7 +25,7 @@ userSchema.pre("save", async function hashPassword(next) {
   if (this.isModified("password") && this.password) {
     this.password = await bcrypt.hash(this.password, 10);
   }
-  next();
+  // next();
 });
 
 userSchema.methods.comparePassword = async function comparePassword(candidate) {
@@ -34,4 +33,4 @@ userSchema.methods.comparePassword = async function comparePassword(candidate) {
   return bcrypt.compare(candidate, this.password);
 };
 
-module.exports = mongoose.model("User", userSchema);
+module.exports = mongoose.model("Users", userSchema);

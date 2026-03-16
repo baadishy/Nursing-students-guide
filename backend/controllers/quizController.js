@@ -1,6 +1,7 @@
 const { validationResult } = require("express-validator");
 const Quiz = require("../models/Quiz");
 const Lesson = require("../models/Lesson");
+const Question = require("../models/Question");
 
 const createQuiz = async (req, res, next) => {
   try {
@@ -29,7 +30,9 @@ const getQuizByLesson = async (req, res, next) => {
     if (!quiz) {
       return res.status(404).json({ message: "Quiz not found for this lesson." });
     }
-    res.json(quiz);
+
+    const questions = await Question.find({ quizId: quiz._id }).sort({ createdAt: 1 });
+    res.json({ ...quiz.toObject(), questions });
   } catch (err) {
     next(err);
   }

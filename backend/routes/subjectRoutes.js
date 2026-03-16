@@ -11,7 +11,8 @@ const admin = require("../middleware/adminMiddleware");
 
 const router = Router();
 
-router.get("/:categoryId?", getSubjects);
+router.get("/:categoryId", getSubjects);
+router.get("/", getSubjects);
 router.post(
   "/",
   auth,

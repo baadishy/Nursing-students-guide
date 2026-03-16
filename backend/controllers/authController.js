@@ -1,6 +1,7 @@
 const { validationResult } = require("express-validator");
 const mongoose = require("mongoose");
 const User = require("../models/User");
+const Admins = require("../models/admins.model");
 const generateToken = require("../utils/generateToken");
 
 /**
@@ -14,8 +15,7 @@ const signup = async (req, res, next) => {
       return res.status(400).json({ errors: errors.array() });
     }
 
-    const { name, grade, governorate, classNumber, schoolName, role, password } =
-      req.body;
+    const { name, grade, governorate, classNumber, schoolName } = req.body;
 
     const duplicate = await User.findOne({
       name: name.trim(),
@@ -26,17 +26,14 @@ const signup = async (req, res, next) => {
       return res.status(409).json({ message: "User already registered." });
     }
 
-    const isAdmin = role === "admin";
-
     const user = await User.create({
       name: name.trim(),
       grade,
       governorate,
       classNumber,
       schoolName,
-      role: isAdmin ? "admin" : "student",
-      isApproved: isAdmin ? true : false,
-      password,
+      role: "student",
+      isApproved: false,
     });
 
     return res.status(201).json({
@@ -63,16 +60,19 @@ const login = async (req, res, next) => {
       return res.status(400).json({ errors: errors.array() });
     }
 
-    const { id, name, password } = req.body;
+    const { id, name } = req.body;
 
     if (!mongoose.Types.ObjectId.isValid(id)) {
       return res.status(400).json({ message: "Invalid user id format." });
     }
 
-    const user = await User.findById(id);
+    let user = await User.findById(id);
 
     if (!user) {
-      return res.status(401).json({ message: "Invalid credentials." });
+      user = await Admins.findById(id);
+      if (!user) {
+        return res.status(401).json({ message: "User Not Found." });
+      }
     }
 
     // basic name match (case-insensitive) to reduce trivial mismatches
@@ -86,14 +86,22 @@ const login = async (req, res, next) => {
         .json({ message: "Account pending admin approval." });
     }
 
-    if (user.role === "admin" && user.password) {
-      const valid = await user.comparePassword(password || "");
+    if (user.role === "admin" && user.isApproved === true) {
+      const valid =
+        user.name.trim().toLowerCase() === name.trim().toLowerCase();
       if (!valid) {
-        return res.status(401).json({ message: "Invalid admin password." });
+        return res.status(401).json({ message: "Invalid admin name." });
       }
     }
 
     const token = generateToken({ id: user._id, role: user.role });
+
+    res.cookie("token", token, {
+      httpOnly: true, // prevents JS access (security)
+      secure: process.env.NODE_ENV === "production", // HTTPS only in production
+      sameSite: "strict", // CSRF protection
+      maxAge: 7 * 24 * 60 * 60 * 1000, // 7 days
+    });
 
     return res.json({
       token,

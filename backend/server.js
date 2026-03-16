@@ -17,7 +17,7 @@ const questionRoutes = require("./routes/questionRoutes");
 const quizAttemptRoutes = require("./routes/quizAttemptRoutes");
 
 const app = express();
-
+console.log(process.env.FRONTEND_URL, "FRONTEND_URL");
 app.use(
   cors({
     origin: process.env.FRONTEND_URL || "*",
